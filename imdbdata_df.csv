@@ -1,0 +1,3182 @@
+,actor_1,actor_2,actor_3,director,rating,stars_out_of_10,title,writer,year
+0,Heath Ledger,Julia Stiles,Joseph Gordon-Levitt,Gil Junger,"           PG-13
+    | 
+          ",7.3,10 Things I Hate About You,Karen McCullah,1999
+1,Chris Hemsworth,Michael Shannon,Michael Peña,Nicolai Fuglsig,"           R
+    | 
+            ",6.6,12 Strong,Ted Tally,2018
+2,Conor Donovan,Jesse Camacho,Zoe Weizenbaum,Michael Cuesta,        ,7.6,12 and Holding,Anthony Cipriano,2005
+3,Bruce Willis,Madeleine Stowe,Brad Pitt,Terry Gilliam,"           R
+    | 
+             ",8.0,Twelve Monkeys,Chris Marker,1995
+4,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Steve McQueen,"           R
+    | 
+               ",8.1,12 Years a Slave,John Ridley,2013
+5,James Franco,Amber Tamblyn,Kate Mara,Danny Boyle,"           R
+    | 
+                 ",7.6,127 Hours,Danny Boyle,2010
+6,Gérard Depardieu,Armand Assante,Sigourney Weaver,Ridley Scott,"           PG-13
+    | 
+                ",6.5,1492: Conquest of Paradise,Rose Bosch,1992
+7,Robert De Niro,Edward Burns,Kelsey Grammer,John Herzfeld,"           R
+    | 
+ ",6.1,15 Minutes,John Herzfeld,2001
+8,Zac Efron,Matthew Perry,Leslie Mann,Burr Steers,"           PG-13
+    | 
+          ",6.4,17 Again,Jason Filardi,2009
+9,Samuel L. Jackson,John Heard,Kelly Rowan,Kevin Reynolds,"           R
+    | ",6.7,One Eight Seven,Scott Yagemann,1997
+10,Keir Dullea,Gary Lockwood,William Sylvester,Stanley Kubrick,"           G
+    | ",8.3,2001: A Space Odyssey,Stanley Kubrick,1968
+11,John Cusack,Thandie Newton,Chiwetel Ejiofor,Roland Emmerich,"           PG-13
+    | 
+                ",5.8,2012,Roland Emmerich,2009
+12,Edward Norton,Barry Pepper,Philip Seymour Hoffman,Spike Lee,         ,7.7,25th Hour,David Benioff,2002
+13,Jesse Eisenberg,Danny McBride,Nick Swardson,Ruben Fleischer,"           R
+    | 
+          ",6.1,30 Minutes or Less,Michael Diliberti,2011
+14,Chadwick Boseman,T.R. Knight,Harrison Ford,Brian Helgeland,"           PG-13
+    | 
+          ",7.5,42,Brian Helgeland,2013
+15,Ray Winstone,Ian McShane,John Hurt,Malcolm Venville,"           R
+    |",5.8,44 Inch Chest,Louis Mellis,2009
+16,Nick Nolte,Eddie Murphy,Annette O'Toole,Walter Hill,"           R
+    | 
+           ",6.9,48 Hrs.,Roger Spottiswoode,1982
+17,Joseph Gordon-Levitt,Seth Rogen,Anna Kendrick,Jonathan Levine,"           R
+    | 
+              ",7.7,50/50,Will Reiser,2011
+18,Zooey Deschanel,Joseph Gordon-Levitt,Geoffrey Arend,Marc Webb,"           PG-13
+    | 
+          ",7.7,(500) Days of Summer,Scott Neustadter,2009
+19,Eminem,Brittany Murphy,Kim Basinger,Curtis Hanson,"           R
+    | ",7.1,8 Mile,Scott Silver,2002
+20,Nicolas Cage,Joaquin Phoenix,James Gandolfini,Joel Schumacher,"           R
+    | 
+    ",6.5,8MM,Andrew Kevin Walker,1999
+21,Elijah Wood,Jennifer Connelly,Crispin Glover,Shane Acker,"           PG-13
+    | 
+                   ",7.1,9,Pamela Pettler,2009
+22,Tom Cruise,Jack Nicholson,Demi Moore,Rob Reiner,"           R
+    | 
+   ",7.7,A Few Good Men,Aaron Sorkin,1992
+23,Oscar Isaac,Jessica Chastain,David Oyelowo,J.C. Chandor,"           R
+    | 
+           ",7.0,A Most Violent Year,J.C. Chandor,2014
+24,Keanu Reeves,Winona Ryder,Robert Downey Jr.,Richard Linklater,"           R
+    | 
+          ",7.1,A Scanner Darkly,Philip K. Dick,2006
+25,Michael Stuhlbarg,Richard Kind,Sari Lennick,Ethan Coen,"           R
+    | 
+",7.0,A Serious Man,Joel Coen,2009
+26,Haley Joel Osment,Jude Law,Frances O'Connor,Steven Spielberg,"           PG-13
+    | 
+           ",7.1,A.I. Artificial Intelligence,Brian Aldiss,2001
+27,Steven Seagal,Pam Grier,Henry Silva,Andrew Davis,"           R
+    | 
+        ",6.0,Above the Law,Andrew Davis,1988
+28,Clint Eastwood,Gene Hackman,Ed Harris,Clint Eastwood,"           R
+    | 
+          ",6.7,Absolute Power,David Baldacci,1997
+29,Ed Harris,Mary Elizabeth Mastrantonio,Michael Biehn,James Cameron,"           PG-13
+    | 
+            ",7.6,The Abyss,James Cameron,1989
+30,Jim Carrey,Courteney Cox,Sean Young,Tom Shadyac,           PG-,6.9,Ace Ventura: Pet Detective,Jack Bernstein,1994
+31,Nicolas Cage,Meryl Streep,Chris Cooper,Spike Jonze,"           R
+    | 
+ ",7.7,Adaptation.,Susan Orlean,2002
+32,Anjelica Huston,Raul Julia,Christopher Lloyd,Barry Sonnenfeld,"           PG-13
+    | 
+   ",6.9,The Addams Family,Charles Addams,1991
+33,Matt Damon,Emily Blunt,Lisa Thoreson,George Nolfi,"           PG-13
+    | 
+            ",7.1,The Adjustment Bureau,George Nolfi,2011
+34,Peter Weller,John Lithgow,Ellen Barkin,W.D. Richter,"           PG
+    | 
+               ",6.4,The Adventures of Buckaroo Banzai Across the 8th Dimension,Earl Mac Rauch,1984
+35,Nick Nolte,Sissy Spacek,James Coburn,Paul Schrader,"           R
+    | 
+               ",7.0,Affliction,Russell Banks,1997
+36,Richard Switzer,Ryan King Persaud,Kayden Kross,Jared Cohn,"           TV-MA
+    | 
+           ",2.6,After School Special,Joshua Barclay,2017
+37,Christina Ricci,Liam Neeson,Justin Long,Agnieszka Wojtowicz-Vosloo,"           R
+    | 
+                   ",5.9,After.Life,Agnieszka Wojtowicz-Vosloo,2009
+38,Jane Fonda,Anne Bancroft,Meg Tilly,Norman Jewison,"           PG-13
+    | 
+   ",6.6,Agnes of God,John Pielmeier,1985
+39,Harrison Ford,Gary Oldman,Glenn Close,Wolfgang Petersen,"           R
+    | 
+         ",6.5,Air Force One,Andrew W. Marlowe,1997
+40,Robert Hays,Julie Hagerty,Leslie Nielsen,Jim Abrahams,       ,7.8,Airplane!,Jim Abrahams,1980
+41,Robert Hays,Julie Hagerty,Lloyd Bridges,Ken Finkleman,"           PG
+    | 
+  ",6.1,Airplane II: The Sequel,Ken Finkleman,1982
+42,Scott Weinger,Robin Williams,Linda Larkin,Ron Clements,"           G
+    | 
+                   ",8.0,Aladdin,Ron Clements,1992
+43,Will Smith,Jamie Foxx,Jon Voight,Michael Mann,"           R
+    | 
+              ",6.8,Ali,Gregory Allen Howard,2001
+44,Sigourney Weaver,Tom Skerritt,John Hurt,Ridley Scott,"           R
+    |",8.5,Alien,Dan O'Bannon,1979
+45,Sigourney Weaver,Charles S. Dutton,Charles Dance,David Fincher,"           R
+    | 
+        ",6.4,Alien³,Dan O'Bannon,1992
+46,James Caan,Mandy Patinkin,Terence Stamp,Graham Baker,"           R
+    | 
+",6.3,Alien Nation,Rockne S. O'Bannon,1988
+47,Sanaa Lathan,Lance Henriksen,Raoul Bova,Paul W.S. Anderson,"           PG-13
+    | 
+           ",5.6,AVP: Alien vs. Predator,Dan O'Bannon,2004
+48,Sigourney Weaver,Winona Ryder,Dominique Pinon,Jean-Pierre Jeunet,"           R
+    | 
+             ",6.2,Alien: Resurrection,Dan O'Bannon,1997
+49,Sigourney Weaver,Michael Biehn,Carrie Henn,James Cameron,"           R
+    | 
+            ",8.4,Aliens,James Cameron,1986
+50,Bette Davis,Anne Baxter,George Sanders,Joseph L. Mankiewicz,           Not Ra,8.3,All About Eve,Joseph L. Mankiewicz,1950
+51,Sandra Bullock,Bradley Cooper,Thomas Haden Church,Phil Traill,"           PG-13
+    | 
+   ",4.8,All About Steve,Kim Barker,2009
+52,Sean Penn,Jude Law,Kate Winslet,Steven Zaillian,"           PG-13
+    | 
+   ",6.2,All the King's Men,Steven Zaillian,2006
+53,Dustin Hoffman,Robert Redford,Jack Warden,Alan J. Pakula,"           PG
+    | 
+            ",8.0,All the President's Men,Carl Bernstein,1976
+54,Billy Crudup,Patrick Fugit,Kate Hudson,Cameron Crowe,"           R
+    | 
+               ",7.9,Almost Famous,Cameron Crowe,2000
+55,Christian Slater,Tara Reid,Stephen Dorff,Uwe Boll,"           R
+    | 
+            ",2.3,Alone in the Dark,Elan Mastai,2005
+56,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Milos Forman,"           R
+    | 
+                 ",8.3,Amadeus,Peter Shaffer,1984
+57,Hilary Swank,Richard Gere,Ewan McGregor,Mira Nair,"           PG
+    | 
+                 ",5.8,Amelia,Ronald Bass,2009
+58,Kevin Spacey,Annette Bening,Thora Birch,Sam Mendes,       ,8.4,American Beauty,Alan Ball,1999
+59,Denzel Washington,Russell Crowe,Chiwetel Ejiofor,Ridley Scott,"           R
+    | 
+             ",7.8,American Gangster,Steven Zaillian,2007
+60,Richard Dreyfuss,Ron Howard,Paul Le Mat,George Lucas,"           PG
+    | ",7.5,American Graffiti,George Lucas,1973
+61,Edward Norton,Edward Furlong,Beverly D'Angelo,Tony Kaye,"           R
+    | 
+",8.5,American History X,David McKenna,1998
+62,Christian Bale,Amy Adams,Bradley Cooper,David O. Russell,"           R
+    | 
+",7.3,American Hustle,Eric Warren Singer,2013
+63,Walter Huston,Pat O'Brien,Kay Johnson,Frank Capra,           Pa,7.5,American Madness,Robert Riskin,1932
+64,Leo Fitzpatrick,Shareeka Epps,Tyler Ross,David Andalman,          ,4.7,American Milkshake,David Andalman,2013
+65,Colin Farrell,Scott Caan,Ali Larter,Les Mayfield,"           PG-13
+    | 
+ ",6.0,American Outlaws,Roderick Taylor,2001
+66,Jason Biggs,Chris Klein,Thomas Ian Nicholas,Paul Weitz,      ,7.0,American Pie,Adam Herz,1999
+67,Michael Douglas,Annette Bening,Martin Sheen,Rob Reiner,"           PG-13
+    | 
+             ",6.8,The American President,Aaron Sorkin,1995
+68,Christian Bale,Justin Theroux,Josh Lucas,Mary Harron,"           R
+    ",7.6,American Psycho,Bret Easton Ellis,2000
+69,Bradley Cooper,Sienna Miller,Kyle Gallner,Clint Eastwood,"           R
+    | 
+              ",7.3,American Sniper,Jason Hall,2014
+70,Paul Giamatti,Shari Springer Berman,Harvey Pekar,Shari Springer Berman,"           R
+    | 
+                ",7.5,American Splendor,Harvey Pekar,2003
+71,David Naughton,Jenny Agutter,Joe Belcher,John Landis,"           R
+    | 
+",7.6,An American Werewolf in London,John Landis,1981
+72,George Clooney,Paolo Bonacelli,Violante Placido,Anton Corbijn,"           R
+    | 
+             ",6.3,The American,Rowan Joffe,2010
+73,Sophia Del Pizzo,Lee Bane,Jared Morgan,Andrew Jones,,2.8,The Amityville Asylum,Andrew Jones,2013
+74,Jean-Louis Trintignant,Emmanuelle Riva,Isabelle Huppert,Michael Haneke,"           PG-13
+    | 
+      ",7.9,Amour,Michael Haneke,2012
+75,Carey Mulligan,Peter Sarsgaard,Alfred Molina,Lone Scherfig,           PG,7.3,An Education,Lynn Barber,2009
+76,Robert De Niro,Billy Crystal,Lisa Kudrow,Harold Ramis,"           R
+    | 
+",5.9,Analyze That,Kenneth Lonergan,2002
+77,Robert De Niro,Billy Crystal,Lisa Kudrow,Harold Ramis,"           R
+    ",6.7,Analyze This,Kenneth Lonergan,1999
+78,Meg Ryan,John Cusack,Christopher Lloyd,Don Bluth,"           G
+    | 
+                  ",7.1,Anastasia,Susan Gauthier,1997
+79,Jennifer Lopez,Jim Caviezel,Jeremy Sisto,Luis Mandoki,"           R
+    ",5.6,Angel Eyes,Gerald Di Pego,2001
+80,Cameron Diaz,Drew Barrymore,Lucy Liu,McG,"           PG-13
+    | 
+               ",5.5,Charlie's Angels,Ryan Rowe,2000
+81,Keira Knightley,Jude Law,Aaron Taylor-Johnson,Joe Wright,"           R
+    | 
+",6.6,Anna Karenina,Tom Stoppard,2012
+82,Woody Allen,Diane Keaton,Tony Roberts,Woody Allen,"           PG
+    | 
+",8.0,Annie Hall,Woody Allen,1977
+83,Alan Cumming,Jennifer Jason Leigh,Phoebe Cates,Alan Cumming,"           R
+    | 
+         ",6.3,The Anniversary Party,Jennifer Jason Leigh,2001
+84,Rhys Ifans,Vanessa Redgrave,David Thewlis,Roland Emmerich,"           PG-13
+    | 
+ ",6.9,Anonymous,John Orloff,2011
+85,Ryan Phillippe,Tim Robbins,Rachael Leigh Cook,Peter Howitt,"           PG-13
+    | 
+          ",6.1,Antitrust,Howard Franklin,2001
+86,Woody Allen,Sharon Stone,Gene Hackman,Eric Darnell,"           PG
+    | 
+                 ",6.6,Antz,Todd Alcott,1998
+87,Jack Lemmon,Shirley MacLaine,Fred MacMurray,Billy Wilder,"           Not Rated
+    | 
+                ",8.3,The Apartment,Billy Wilder,1960
+88,Martin Sheen,Marlon Brando,Robert Duvall,Francis Ford Coppola,"           R
+   ",8.5,Apocalypse Now,John Milius,1979
+89,Tom Hanks,Bill Paxton,Kevin Bacon,Ron Howard,"           PG
+    | 
+            ",7.6,Apollo 13,Jim Lovell,1995
+90,Deborah Foreman,Griffin O'Neal,Clayton Rohner,Fred Walton,"           R
+    | 
+",6.2,April Fool's Day,Danilo Bach,1986
+91,Ian McKellen,Brad Renfro,Joshua Jackson,Bryan Singer,"           R
+    | 
+            ",6.7,Apt Pupil,Stephen King,1998
+92,Richard Gere,Susan Sarandon,Brit Marling,Nicholas Jarecki,"           R
+    | 
+    ",6.6,Arbitrage,Nicholas Jarecki,2012
+93,Megan Ward,Peter Billingsley,John de Lancie,Albert Pyun,"           R
+    | ",5.3,Arcade,Charles Band,1993
+94,Rutger Hauer,Dylan Walsh,Rya Kihlstedt,Peter Masterson,"           R
+  ",5.2,Arctic Blue,Ross LaManna,1993
+95,Ben Affleck,Bryan Cranston,John Goodman,Ben Affleck,"           R
+    | 
+          ",7.7,Argo,Chris Terrio,2012
+96,Bruce Willis,Billy Bob Thornton,Ben Affleck,Michael Bay,"           PG-13
+    | 
+           ",6.6,Armageddon,Jonathan Hensleigh,1998
+97,Bruce Campbell,Embeth Davidtz,Marcus Gilbert,Sam Raimi,"           R
+    | 
+  ",7.6,Army of Darkness,Sam Raimi,1992
+98,Cary Grant,Priscilla Lane,Raymond Massey,Frank Capra,"           Not Rated
+    | 
+               ",8.0,Arsenic and Old Lace,Julius J. Epstein,1944
+99,Dudley Moore,Liza Minnelli,John Gielgud,Steve Gordon,"           PG
+    | ",6.9,Arthur,Steve Gordon,1981
+100,Jean Dujardin,Bérénice Bejo,John Goodman,Michel Hazanavicius,"           PG-13
+    | 
+            ",7.9,The Artist,Michel Hazanavicius,2011
+101,Jack Nicholson,Helen Hunt,Greg Kinnear,James L. Brooks,"           PG-13
+    | 
+             ",7.7,As Good as It Gets,Mark Andrus,1997
+102,Sylvester Stallone,Antonio Banderas,Julianne Moore,Richard Donner,"           R
+    | 
+            ",6.3,Assassins,Lilly Wachowski,1995
+103,Michelle Rodriguez,Tony Shalhoub,Anthony LaPaglia,Walter Hill,"           R
+    | 
+          ",4.6,The Assignment,Walter Hill,2016
+104,Val Kilmer,Mira Sorvino,Kelly McGillis,Irwin Winkler,"           PG-13
+    | 
+",5.9,At First Sight,Oliver Sacks,1999
+105,Meryl Streep,Dermot Mulroney,Julia Roberts,John Wells,        ,7.2,August: Osage County,Tracy Letts,2013
+106,Mike Myers,Elizabeth Hurley,Michael York,Jay Roach,"           PG-13
+    | ",7.0,Austin Powers: International Man of Mystery,Mike Myers,1997
+107,Mike Myers,Heather Graham,Michael York,Jay Roach,"           PG-13
+    | 
+            ",6.6,Austin Powers: The Spy Who Shagged Me,Mike Myers,1999
+108,Kaley Cuoco,Jonathan Banks,Tricia Helfer,Ellie Kanner,           P,4.3,Authors Anonymous,David Congalton,2014
+109,Richard Gere,Winona Ryder,Anthony LaPaglia,Joan Chen,"           PG-13
+    | 
+",5.6,Autumn in New York,Allison Burnett,2000
+110,Sam Worthington,Zoe Saldana,Sigourney Weaver,James Cameron,"           PG-13
+    | 
+                 ",7.8,Avatar,James Cameron,2009
+111,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Joss Whedon,"           PG-13
+    | 
+          ",8.1,The Avengers,Joss Whedon,2012
+112,Félix Bossuet,Tchéky Karyo,Thierry Neuvic,Christian Duguay,"           PG
+    | 
+       ",6.5,"Belle et Sébastien, l'aventure continue",Cécile Aubry,2015
+113,Robert De Niro,Robin Williams,Julie Kavner,Penny Marshall,"           PG-13
+    | 
+  ",7.8,Awakenings,Oliver Sacks,1990
+114,Brad Pitt,Cate Blanchett,Gael García Bernal,Alejandro G. Iñárritu,          ,7.5,Babel,Guillermo Arriaga,2006
+115,Tom Hanks,Tawny Kitaen,Adrian Zmed,Neal Israel,       ,6.3,Bachelor Party,Bob Israel,1984
+116,Josh Cooke,Harland Williams,Greg Pitts,James Ryan,        ,5.1,Bachelor Party 2: The Last Temptation,Neal Israel,2008
+117,Michael J. Fox,Christopher Lloyd,Lea Thompson,Robert Zemeckis,"           PG
+    | 
+           ",8.5,Back to the Future,Robert Zemeckis,1985
+118,Michael J. Fox,Christopher Lloyd,Lea Thompson,Robert Zemeckis,"           PG
+    | 
+                ",7.8,Back to the Future Part II,Robert Zemeckis,1989
+119,Jennifer Lopez,Alex O'Loughlin,Michaela Watkins,Alan Poul,"           PG-13
+    | 
+",5.3,The Back-up Plan,Kate Angelo,2010
+120,Kurt Russell,William Baldwin,Robert De Niro,Ron Howard,"           R
+    | 
+      ",6.7,Backdraft,Gregory Widen,1991
+121,Will Smith,Martin Lawrence,Lisa Boyle,Michael Bay,"           R
+    | 
+        ",6.8,Bad Boys,George Gallo,1995
+122,Matt Dillon,Willem Dafoe,Neal McDonough,Chris Brinker,"           R
+    | 
+        ",5.8,Bad Country,Jonathan Hirschbein,2014
+123,Spencer Tracy,Robert Ryan,Anne Francis,John Sturges,"           Not Rated
+    | 
+         ",7.8,Bad Day at Black Rock,Millard Kaufman,1955
+124,Jennifer Rubin,Bruce Abbott,Richard Lynch,Andrew Fleming,"           R
+    | 
+",5.6,Bad Dreams,Andrew Fleming,1988
+125,Harvey Keitel,Brian McElroy,Frank Acciarito,Abel Ferrara,"           NC-17
+    | 
+                   ",7.1,Bad Lieutenant,Zoë Lund,1992
+126,Billy Bob Thornton,Bernie Mac,Lauren Graham,Terry Zwigoff,"           R
+    | 
+           ",7.1,Bad Santa,Glenn Ficarra,2003
+127,Cameron Diaz,Jason Segel,Justin Timberlake,Jake Kasdan,"           R
+    | ",5.6,Bad Teacher,Gene Stupnitsky,2011
+128,Martin Sheen,Sissy Spacek,Warren Oates,Terrence Malick,"           PG
+    | 
+ ",7.9,Badlands,Terrence Malick,1973
+129,Damon Wayans,Savion Glover,Jada Pinkett Smith,Spike Lee,"           R
+    | 
+          ",6.5,Bamboozled,Spike Lee,2000
+130,Ryan O'Neal,Marisa Berenson,Patrick Magee,Stanley Kubrick,"           PG
+    | 
+               ",8.1,Barry Lyndon,Stanley Kubrick,1975
+131,John Turturro,John Goodman,Judy Davis,Joel Coen,"           R
+    | 
+            ",7.7,Barton Fink,Joel Coen,1991
+132,John Travolta,Samuel L. Jackson,Connie Nielsen,John McTiernan,"           R
+    | 
+        ",6.5,Basic,James Vanderbilt,2003
+133,Michael Douglas,Sharon Stone,George Dzundza,Paul Verhoeven,"           R
+    | 
+           ",6.9,Basic Instinct,Joe Eszterhas,1992
+134,Jeffrey Wright,Michael Wincott,Benicio Del Toro,Julian Schnabel,"           R
+    | 
+ ",6.9,Basquiat,Lech Majewski,1996
+135,Michael Keaton,Jack Nicholson,Kim Basinger,Tim Burton,"           PG-13
+    | 
+",7.5,Batman,Bob Kane,1989
+136,Peter Weller,Ariel Winter,Michael Emerson,Jay Oliva,"           PG-13
+    | 
+                  ",8.4,"Batman: The Dark Knight Returns, Part 2",Bob Kane,2013
+137,Arnold Schwarzenegger,George Clooney,Chris O'Donnell,Joel Schumacher,"           PG-13
+    ",3.7,Batman & Robin,Bob Kane,1997
+138,Christian Bale,Michael Caine,Ken Watanabe,Christopher Nolan,"           PG-13
+    | 
+ ",8.3,Batman Begins,Bob Kane,2005
+139,Val Kilmer,Tommy Lee Jones,Jim Carrey,Joel Schumacher,"           PG-13
+    | 
+            ",5.4,Batman Forever,Bob Kane,1995
+140,Michael Keaton,Danny DeVito,Michelle Pfeiffer,Tim Burton,"           PG-13
+    | 
+        ",7.0,Batman Returns,Bob Kane,1992
+141,Brahim Hadjadj,Jean Martin,Yacef Saadi,Gillo Pontecorvo,"           Not Rated
+    |",8.1,The Battle of Algiers,Franco Solinas,1966
+142,Shia LaBeouf,Elden Henson,Amy Smart,Efram Potelle,"           PG-13
+    | 
+           ",6.1,The Battle of Shaker Heights,Erica Beeney,2003
+143,Aaron Eckhart,Michelle Rodriguez,Bridget Moynahan,Jonathan Liebesman,"           PG-13
+    | ",5.8,Battle Los Angeles,Christopher Bertolini,2011
+144,Leonardo DiCaprio,Daniel York,Patcharawan Patarakijjanon,Danny Boyle,"           R
+    | 
+                ",6.6,The Beach,John Hodge,2000
+145,Rowan Atkinson,Peter MacNicol,John Mills,Mel Smith,"           PG-13
+    | 
+               ",6.4,Bean,Rowan Atkinson,1997
+146,Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Cary Joji Fukunaga,"           Not Rated
+    ",7.8,Beasts of No Nation,Cary Joji Fukunaga,2015
+147,Quvenzhané Wallis,Dwight Henry,Levy Easterly,Benh Zeitlin,"           PG-13
+    | 
+              ",7.3,Beasts of the Southern Wild,Lucy Alibar,2012
+148,Emma Watson,Dan Stevens,Luke Evans,Bill Condon,"           PG
+    | 
+           ",7.2,Beauty and the Beast,Stephen Chbosky,2017
+149,Mike Judge,Bruce Willis,Demi Moore,Mike Judge,"           PG-13
+    | 
+                   ",6.8,Beavis and Butt-Head Do America,Mike Judge,1996
+150,Ewan McGregor,Christopher Plummer,Mélanie Laurent,Mike Mills,"           R
+    | 
+            ",7.2,Beginners,Mike Mills,2010
+151,Robin Williams,John Turturro,Kelly Hunter,Bill Forsyth,"           PG-13
+ ",5.4,Being Human,Bill Forsyth,1994
+152,John Cusack,Cameron Diaz,Catherine Keener,Spike Jonze,"           R
+    | 
+            ",7.8,Being John Malkovich,Charlie Kaufman,1999
+153,Peter Sellers,Shirley MacLaine,Melvyn Douglas,Hal Ashby,"           PG
+    | 
+",8.0,Being There,Jerzy Kosinski,1979
+154,Ryan Gosling,Summer Phoenix,Peter Meadows,Henry Bean,           ,7.2,The Believer,Henry Bean,2001
+155,Gugu Mbatha-Raw,Matthew Goode,Emily Watson,Amma Asante,"           PG
+    | 
+           ",7.4,Belle,Misan Sagay,2013
+156,Oprah Winfrey,Danny Glover,Yada Beener,Jonathan Demme,"           R
+    | 
+            ",5.9,Beloved,Toni Morrison,1998
+157,Johnny Depp,Mary Stuart Masterson,Aidan Quinn,Jeremiah S. Chechik,"           PG
+    | 
+          ",7.2,Benny & Joon,Barry Berman,1993
+158,Judi Dench,Bill Nighy,Maggie Smith,John Madden,"           PG-13
+    | 
+       ",7.3,The Best Exotic Marigold Hotel,Ol Parker,2011
+159,Tom Hanks,Elizabeth Perkins,Robert Loggia,Penny Marshall,"           PG
+    | 
+       ",7.3,Big,Gary Ross,1988
+160,Jean-Marc Barr,Jean Reno,Rosanna Arquette,Luc Besson,"           R
+    | 
+            ",7.6,The Big Blue,Luc Besson,1988
+161,Amy Adams,Christoph Waltz,Danny Huston,Tim Burton,"           PG-13
+    | 
+              ",7.0,Big Eyes,Scott Alexander,2014
+162,Ewan McGregor,Albert Finney,Billy Crudup,Tim Burton,"           PG-13
+    | 
+             ",8.0,Big Fish,Daniel Wallace,2003
+163,Jeff Bridges,John Goodman,Julianne Moore,Joel Coen,"           R
+    ",8.1,The Big Lebowski,Ethan Coen,1998
+164,Kumail Nanjiani,Zoe Kazan,Holly Hunter,Michael Showalter,"           R
+    | 
+   ",7.6,The Big Sick,Emily V. Gordon,2017
+165,Robin Williams,Giovanni Ribisi,Holly Hunter,Mark Mylod,"           R
+    | 
+          ",6.4,The Big White,Collin Friesen,2005
+166,Michael Keaton,Zach Galifianakis,Edward Norton,Alejandro G. Iñárritu,"           R
+    | 
+ ",7.7,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,2014
+167,Rod Taylor,Tippi Hedren,Jessica Tandy,Alfred Hitchcock,"           PG-13
+    | 
+          ",7.7,The Birds,Daphne Du Maurier,1963
+168,Nicole Kidman,Vincent Cassel,Ben Chaplin,Jez Butterworth,"           R
+    | 
+             ",6.1,Birthday Girl,Tom Butterworth,2001
+169,Josh Hartnett,Aaron Eckhart,Scarlett Johansson,Brian De Palma,"           R
+    | 
+            ",5.6,The Black Dahlia,Josh Friedman,2006
+170,Michael Douglas,Andy Garcia,Ken Takakura,Ridley Scott,"           R
+    | 
+              ",6.6,Black Rain,Craig Bolotin,1989
+171,Christina Ricci,Samuel L. Jackson,Justin Timberlake,Craig Brewer,"           R
+   ",7.0,Black Snake Moan,Craig Brewer,2006
+172,Natalie Portman,Mila Kunis,Vincent Cassel,Darren Aronofsky,"           R
+    | 
+   ",8.0,Black Swan,Mark Heyman,2010
+173,Wesley Snipes,Stephen Dorff,Kris Kristofferson,Stephen Norrington,"           R
+ ",7.1,Blade,David S. Goyer,1998
+174,Wesley Snipes,Kris Kristofferson,Ron Perlman,Guillermo del Toro,"           R
+    | 
+          ",6.7,Blade II,Marv Wolfman,2002
+175,Harrison Ford,Rutger Hauer,Sean Young,Ridley Scott,"           R
+    | 
+",8.2,Blade Runner,Hampton Fancher,1982
+176,Wesley Snipes,Kris Kristofferson,Parker Posey,David S. Goyer,"           R
+    | 
+               ",5.9,Blade: Trinity,David S. Goyer,2004
+177,Brendan Fraser,Alicia Silverstone,Christopher Walken,Hugh Wilson,"           PG-13
+    | 
+             ",6.6,Blast from the Past,Bill Kelly,1999
+178,Quinton Aaron,Sandra Bullock,Tim McGraw,John Lee Hancock,"           PG-13
+    | 
+             ",7.7,The Blind Side,John Lee Hancock,2009
+179,Katie Chang,Israel Broussard,Emma Watson,Sofia Coppola,"           R
+    | 
+          ",5.6,The Bling Ring,Sofia Coppola,2013
+180,Jack Nicholson,Michael Caine,Stephen Dorff,Bob Rafelson,"           R
+    | 
+             ",6.0,Blood and Wine,Nick Villiers,1996
+181,John Getz,Frances McDormand,Dan Hedaya,Joel Coen,"           R
+    | 
+            ",7.7,Blood Simple.,Joel Coen,1984
+182,Johnny Depp,Penélope Cruz,Franka Potente,Ted Demme,"           R
+    | 
+         ",7.6,Blow,Bruce Porter,2001
+183,Ryan Gosling,Michelle Williams,John Doman,Derek Cianfrance,"           R
+    | 
+ ",7.4,Blue Valentine,Derek Cianfrance,2010
+184,Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,David Lynch,"           R
+    | 
+          ",7.8,Blue Velvet,David Lynch,1986
+185,John Belushi,Dan Aykroyd,Cab Calloway,John Landis,"           R
+    | 
+           ",7.9,The Blues Brothers,Dan Aykroyd,1980
+186,Phoebe Cates,Bridget Fonda,Tim Roth,Michael Steinberg,      ,5.6,"Bodies, Rest & Motion",Roger Hedden,1993
+187,William Hurt,Kathleen Turner,Richard Crenna,Lawrence Kasdan,"           R
+    | 
+          ",7.4,Body Heat,Lawrence Kasdan,1981
+188,Madonna,Willem Dafoe,Joe Mantegna,Uli Edel,"           R
+    | 
+  ",4.4,Body of Evidence,Brad Mirman,1993
+189,Petchtai Wongkamlao,Pumwaree Yodkamol,Piphat Apiraktanakorn,Panna Rittikrai,,5.9,The Bodyguard,Nontakorn Taweesuk,2004
+190,Snoop Dogg,Pam Grier,Michael T. Weiss,Ernest R. Dickerson,"           R
+    | 
+",4.1,Bones,Adam Simon,2001
+191,Tom Hanks,Bruce Willis,Melanie Griffith,Brian De Palma,"           R
+    | 
+            ",5.5,The Bonfire of the Vanities,Michael Cristofer,1990
+192,Warren Beatty,Faye Dunaway,Michael J. Pollard,Arthur Penn,"           R
+    | 
+             ",7.9,Bonnie and Clyde,David Newman,1967
+193,Mark Wahlberg,Julianne Moore,Burt Reynolds,Paul Thomas Anderson,         ,7.9,Boogie Nights,Paul Thomas Anderson,1997
+194,Denzel Washington,Mila Kunis,Ray Stevenson,Albert Hughes,"           R
+    | 
+              ",6.9,The Book of Eli,Gary Whitta,2010
+195,Sean Patrick Flanery,Norman Reedus,Billy Connolly,Troy Duffy,"           R
+    | 
+              ",6.3,The Boondock Saints II: All Saints Day,Troy Duffy,2009
+196,Willem Dafoe,Sean Patrick Flanery,Norman Reedus,Troy Duffy,"           R
+    | 
+                  ",7.8,The Boondock Saints,Troy Duffy,1999
+197,Luke Wilson,Owen Wilson,Ned Dowd,Wes Anderson,"           R
+    | 
+           ",7.1,Bottle Rocket,Owen Wilson,1996
+198,Jennifer Tilly,Gina Gershon,Joe Pantoliano,Lana Wachowski,"           R
+    | 
+             ",7.4,Bound,Lilly Wachowski,1996
+199,Jennifer Aniston,Gerard Butler,Gio Perez,Andy Tennant,"           PG-13
+    | 
+           ",5.6,The Bounty Hunter,Sarah Thorp,2010
+200,Franka Potente,Matt Damon,Chris Cooper,Doug Liman,"           PG-13
+    | 
+            ",7.9,The Bourne Identity,Tony Gilroy,2002
+201,Matt Damon,Franka Potente,Joan Allen,Paul Greengrass,"           PG-13
+    | 
+",7.8,The Bourne Supremacy,Robert Ludlum,2004
+202,Matt Damon,Edgar Ramírez,Joan Allen,Paul Greengrass,"           PG-13
+    | 
+             ",8.0,The Bourne Ultimatum,Tony Gilroy,2007
+203,Cameron Diaz,James Marsden,Frank Langella,Richard Kelly,"           PG-13
+    | 
+             ",5.6,The Box,Richard Kelly,2009
+204,Ben Kingsley,Jared Harris,Nick Frost,Graham Annable,"           PG
+    | 
+                    ",6.8,The Boxtrolls,Irena Brignull,2014
+205,Ellar Coltrane,Patricia Arquette,Ethan Hawke,Richard Linklater,        ,7.9,Boyhood,Richard Linklater,2014
+206,Mel Gibson,Sophie Marceau,Patrick McGoohan,Mel Gibson,"           R
+    | 
+           ",8.4,Braveheart,Randall Wallace,1995
+207,Jonathan Pryce,Kim Greist,Robert De Niro,Terry Gilliam,"           R
+    | 
+ ",8.0,Brazil,Terry Gilliam,1985
+208,Patrick Swayze,Keanu Reeves,Gary Busey,Kathryn Bigelow,"           R
+    | 
+         ",7.2,Point Break,Rick King,1991
+209,Kurt Russell,J.T. Walsh,Kathleen Quinlan,Jonathan Mostow,"           R
+    | 
+     ",6.9,Breakdown,Jonathan Mostow,1997
+210,Emilio Estevez,Judd Nelson,Molly Ringwald,John Hughes,"           R
+    | 
+ ",7.9,The Breakfast Club,John Hughes,1985
+211,Dennis Christopher,Dennis Quaid,Daniel Stern,Peter Yates,"           PG
+    | 
+         ",7.7,Breaking Away,Steve Tesich,1979
+212,Joseph Gordon-Levitt,Lukas Haas,Emilie de Ravin,Rian Johnson,"           R
+    | 
+        ",7.4,Brick,Rian Johnson,2005
+213,Kristen Wiig,Maya Rudolph,Rose Byrne,Paul Feig,"           R
+    ",6.8,Bridesmaids,Kristen Wiig,2011
+214,Nicolas Cage,Patricia Arquette,John Goodman,Martin Scorsese,"           R
+    | 
+ ",6.8,Bringing Out the Dead,Joe Connelly,1999
+215,William Hurt,Albert Brooks,Holly Hunter,James L. Brooks,"           R
+    | 
+             ",7.2,Broadcast News,James L. Brooks,1987
+216,John Travolta,Christian Slater,Samantha Mathis,John Woo,"           R
+    | 
+                 ",6.0,Broken Arrow,Graham Yost,1996
+217,Penélope Cruz,Lluís Homar,Blanca Portillo,Pedro Almodóvar,"           R
+    | 
+             ",7.2,Broken Embraces,Pedro Almodóvar,2009
+218,Rachel Weisz,Adrien Brody,Mark Ruffalo,Rian Johnson,"           PG-13
+    | 
+           ",6.8,The Brothers Bloom,Rian Johnson,2008
+219,Jim Carrey,Jennifer Aniston,Morgan Freeman,Tom Shadyac,"           PG-13
+    | 
+        ",6.7,Bruce Almighty,Steve Koren,2003
+220,Kristy Swanson,Donald Sutherland,Paul Reubens,Fran Rubel Kuzui,"           PG-13
+    | 
+          ",5.6,Buffy the Vampire Slayer,Joss Whedon,1992
+221,Kevin Costner,Susan Sarandon,Tim Robbins,Ron Shelton,"           R
+    | 
+         ",7.1,Bull Durham,Ron Shelton,1988
+222,Ryan Reynolds,José Luis García Pérez,Robert Paterson,Rodrigo Cortés,"           R
+    | 
+              ",7.0,Buried,Chris Sparling,2010
+223,Cher,Christina Aguilera,Alan Cumming,Steve Antin,"           PG-13
+    | 
+            ",6.4,Burlesque,Steve Antin,2010
+224,Brad Pitt,Frances McDormand,George Clooney,Ethan Coen,"           R
+    | 
+            ",7.0,Burn After Reading,Joel Coen,2008
+225,Gary Lundy,Sara Downing,Kim Murphy,Van Flesher, ,5.6,Burning Annie,Randy Mack,2004
+226,Ashton Kutcher,Amy Smart,Melora Walters,Eric Bress,"           R
+    | 
+   ",7.7,The Butterfly Effect,J. Mackye Gruber,2004
+227,Jim Carrey,Matthew Broderick,Leslie Mann,Ben Stiller,"           PG-13
+    | 
+          ",6.1,The Cable Guy,Lou Holtz Jr.,1996
+228,Philip Seymour Hoffman,Clifton Collins Jr.,Catherine Keener,Bennett Miller,"           R
+    | 
+             ",7.4,Capote,Dan Futterman,2005
+229,Chloë Grace Moretz,Julianne Moore,Gabriella Wilde,Kimberly Peirce,"           R
+    | 
+",5.9,Carrie,Lawrence D. Cohen,2013
+230,Owen Wilson,Larry the Cable Guy,Michael Caine,John Lasseter,"           G
+    | 
+               ",6.2,Cars 2,John Lasseter,2011
+231,Humphrey Bogart,Ingrid Bergman,Paul Henreid,Michael Curtiz,"           PG
+    | 
+         ",8.5,Casablanca,Julius J. Epstein,1942
+232,Renée Zellweger,Ian McShane,Jodelle Ferland,Christian Alvart,"           R
+    | 
+              ",6.2,Case 39,Ray Wright,2009
+233,Robert De Niro,Sharon Stone,Joe Pesci,Martin Scorsese,"           R
+    | 
+",8.2,Casino,Nicholas Pileggi,1995
+234,Tom Hanks,Helen Hunt,Paul Sanchez,Robert Zemeckis,"           PG-13
+    | 
+                ",7.8,Cast Away,William Broyles Jr.,2000
+235,Leonardo DiCaprio,Tom Hanks,Christopher Walken,Steven Spielberg,"           PG-13
+    | 
+              ",8.1,Catch Me If You Can,Jeff Nathanson,2002
+236,Halle Berry,Sharon Stone,Benjamin Bratt,Pitof,"           PG-13
+    | 
+           ",3.3,Catwoman,Bob Kane,2004
+237,Melanie Griffith,Stephen Dorff,Alicia Witt,John Waters,"           R
+    | 
+              ",6.2,Cecil B. DeMented,John Waters,2000
+238,Ed Helms,John C. Reilly,Anne Heche,Miguel Arteta,        ,6.3,Cedar Rapids,Phil Johnston,2011
+239,Radha Mitchell,Thomas Cocquerel,Nadine Garner,Ben Hackworth,,,Celeste,Bille Brown,2018
+240,Jennifer Lopez,Vince Vaughn,Vincent D'Onofrio,Tarsem Singh,"           R
+    | 
+             ",6.3,The Cell,Mark Protosevich,2000
+241,Kim Basinger,Chris Evans,Jason Statham,David R. Ellis,"           PG-13
+    | 
+               ",6.5,Cellular,Larry Cohen,2004
+242,Jason Bateman,Ryan Reynolds,Olivia Wilde,David Dobkin,"           R
+    | 
+",6.3,The Change-Up,Jon Lucas,2011
+243,Angelina Jolie,Colm Feore,Amy Ryan,Clint Eastwood,"           R
+    | 
+             ",7.8,Changeling,J. Michael Straczynski,2008
+244,Jason Statham,Ryan Phillippe,Wesley Snipes,Tony Giglio,"           R
+    | 
+                        1h 4",6.5,Chaos,Tony Giglio,2005
+245,Cary Grant,Audrey Hepburn,Walter Matthau,Stanley Donen,"           Not Rated
+    | 
+              ",8.0,Charade,Peter Stone,1963
+246,Cameron Diaz,Drew Barrymore,Lucy Liu,McG,"           PG-13
+    | 
+               ",5.5,Charlie's Angels,Ryan Rowe,2000
+247,Ben Affleck,Joey Lauren Adams,Ethan Suplee,Kevin Smith,"           R
+    | 
+          ",7.3,Chasing Amy,Kevin Smith,1997
+248,Jeff Daniels,Molly Price,Ben Shenkman,Michael Walker,"           R
+    | 
+              ",6.4,Chasing Sleep,Michael Walker,2000
+249,Brittany Murphy,Jay Mohr,Michael Biehn,Geoffrey Wright,"           R
+    | 
+             ",5.1,Cherry Falls,Ken Selden,2000
+250,Jack Nicholson,Faye Dunaway,John Huston,Roman Polanski,"           R
+    | 
+           ",8.2,Chinatown,Robert Towne,1974
+251,Jessica Blankenship,Branden Chowen,Susan Courtney,Jeffrey Scott Richards,"           Not Rated
+    | 
+ ",6.5,Christ Complex,Jeffrey Scott Richards,2012
+252,Dane DeHaan,Alex Russell,Michael B. Jordan,Josh Trank,"           PG-13
+    | 
+             ",7.1,Chronicle,Max Landis,2012
+253,Tilda Swinton,Georgie Henley,William Moseley,Andrew Adamson,"           PG
+    | 
+                ",6.9,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Ann Peacock,2005
+254,Tobey Maguire,Charlize Theron,Michael Caine,Lasse Hallström,"           PG-13
+    | ",7.4,The Cider House Rules,John Irving,1999
+255,Steve McQueen,Ann-Margret,Edward G. Robinson,Norman Jewison,           TV-1,7.3,The Cincinnati Kid,Richard Jessup,1965
+256,Philippe Noiret,Enzo Cannavale,Antonella Attili,Giuseppe Tornatore,          ,8.5,Cinema Paradiso,Giuseppe Tornatore,1988
+257,Chris Massoglia,John C. Reilly,Salma Hayek,Paul Weitz,"           PG-13
+    | 
+                ",5.9,Cirque du Freak: The Vampire's Assistant,Paul Weitz,2009
+258,Orson Welles,Joseph Cotten,Dorothy Comingore,Orson Welles,"           PG
+    | 
+  ",8.4,Citizen Kane,Herman J. Mankiewicz,1941
+259,Patrick Swayze,Pauline Collins,Om Puri,Roland Joffé,           ,6.4,City of Joy,Dominique Lapierre,1992
+260,Sam Worthington,Liam Neeson,Ralph Fiennes,Louis Leterrier,"           PG-13
+    | 
+             ",5.8,Clash of the Titans,Travis Beacham,2010
+261,Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,Kevin Smith,"           R
+",7.8,Clerks,Kevin Smith,1994
+262,Sylvester Stallone,John Lithgow,Michael Rooker,Renny Harlin,"           R
+    | 
+             ",6.4,Cliffhanger,John Long,1993
+263,Malcolm McDowell,Patrick Magee,Michael Bates,Stanley Kubrick,"           R
+    | 
+          ",8.3,A Clockwork Orange,Stanley Kubrick,1971
+264,Alicia Silverstone,Stacey Dash,Brittany Murphy,Amy Heckerling,"           PG-13
+    | ",6.8,Clueless,Amy Heckerling,1995
+265,Tommy Lee Jones,Robert Wuhl,Lolita Davidovich,Ron Shelton,"           R
+    | 
+            ",6.5,Cobb,Al Stump,1994
+266,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,Lee Unkrich,"           PG
+    | 
+                   ",8.4,Coco,Lee Unkrich,2017
+267,Chuck Norris,Henry Silva,Bert Remsen,Andrew Davis,"           R
+    | 
+     ",6.0,Code of Silence,Michael Butler,1985
+268,Jude Law,Nicole Kidman,Renée Zellweger,Anthony Minghella,"           R
+    | 
+                ",7.2,Cold Mountain,Charles Frazier,2003
+269,Tom Cruise,Jamie Foxx,Jada Pinkett Smith,Michael Mann,"           R
+    | 
+    ",7.5,Collateral,Stuart Beattie,2004
+270,Arnold Schwarzenegger,John Leguizamo,Francesca Neri,Andrew Davis,"           R
+    | 
+             ",5.5,Collateral Damage,Ronald Roose,2002
+271,Zoe Saldana,Michael Vartan,Callum Blue,Olivier Megaton,"           PG-13
+    | 
+         ",6.4,Colombiana,Luc Besson,2011
+272,Bruce Willis,Jane March,Rubén Blades,Richard Rush,"           R
+    | 
+              ",5.1,Color of Night,Billy Ray,1994
+273,Arnold Schwarzenegger,Rae Dawn Chong,Dan Hedaya,Mark L. Lester,"           R
+    | 
+                ",6.7,Commando,Jeph Loeb,1985
+274,Arnold Schwarzenegger,James Earl Jones,Max von Sydow,John Milius,"           R
+    | 
+",6.9,Conan the Barbarian,Robert E. Howard,1982
+275,Sam Rockwell,Drew Barrymore,George Clooney,George Clooney,"           R
+    | 
+              ",7.1,Confessions of a Dangerous Mind,Chuck Barris,2002
+276,Edward Burns,Dustin Hoffman,Rachel Weisz,James Foley,"           R
+    | 
+",6.7,Confidence,Doug Jung,2003
+277,Keanu Reeves,Rachel Weisz,Djimon Hounsou,Francis Lawrence,"           R
+    | 
+             ",7.0,Constantine,Jamie Delano,2005
+278,Jodie Foster,Matthew McConaughey,Tom Skerritt,Robert Zemeckis,"           PG
+    | 
+         ",7.4,Contact,James V. Hart,1997
+279,William H. Macy,Maria Bello,Alec Baldwin,Wayne Kramer,"           R
+    | 
+ ",7.0,The Cooler,Frank Hannah,2003
+280,Sigourney Weaver,Holly Hunter,Dermot Mulroney,Jon Amiel,"           R
+    | 
+             ",6.6,Copycat,Ann Biderman,1995
+281,Dakota Fanning,Teri Hatcher,John Hodgman,Henry Selick,"           PG
+    | 
+               ",7.7,Coraline,Henry Selick,2009
+282,Ralph Fiennes,Gerard Butler,Brian Cox,Ralph Fiennes,"           R
+    | 
+        ",6.1,Coriolanus,John Logan,2011
+283,Denzel Washington,Meg Ryan,Lou Diamond Phillips,Edward Zwick,"           R
+    | 
+         ",6.6,Courage Under Fire,Patrick Sheane Duncan,1996
+284,Daniel Craig,Harrison Ford,Olivia Wilde,Jon Favreau,"           PG-13
+    | 
+           ",6.0,Cowboys & Aliens,Roberto Orci,2011
+285,Jet Li,DMX,Mark Dacascos,Andrzej Bartkowiak,"           R
+    | 
+           ",5.8,Cradle 2 the Grave,John O'Brien,2003
+286,Jason Statham,Amy Smart,Carlos Sanz,Mark Neveldine,"           R
+    | 
+              ",7.0,Crank,Mark Neveldine,2006
+287,Don Cheadle,Sandra Bullock,Thandie Newton,Paul Haggis,"           R
+    | 
+       ",7.8,Crash,Paul Haggis,2004
+288,Steve Carell,Ryan Gosling,Julianne Moore,Glenn Ficarra,"           PG-13
+    | 
+         ",7.4,"Crazy, Stupid, Love.",Dan Fogelman,2011
+289,Reiko Aylesworth,Bruno Campos,JoBeth Williams,Ellie Kanner,,6.3,Crazylove,Carol Watson,2005
+290,Paul Bettany,Jennifer Connelly,Ian Kelly,Jon Amiel,"           PG-13
+    | 
+                ",6.7,Creation,John Collee,2009
+291,Gérard Depardieu,Harvey Keitel,Johnny Hallyday,Brad Mirman,"           R
+    | 
+            ",6.6,Crime Spree,Brad Mirman,2003
+292,Nicolas Cage,Ryan Reynolds,Emma Stone,Kirk DeMicco,"           PG
+    | 
+                ",7.2,The Croods,Chris Sanders,2013
+293,Donnie Yen,Michelle Yeoh,Harry Shum Jr.,Woo-Ping Yuen,"           PG-13
+    | 
+               ",6.1,"Crouching Tiger, Hidden Dragon: Sword of Destiny",John Fusco,2016
+294,Clive Owen,Nick Reding,Nicholas Ball,Mike Hodges,"           Not Rated
+   ",7.2,Croupier,Paul Mayersberg,1998
+295,Kirsten Dunst,William Atherton,Debbie Fan,Bharat Nalluri,"           R
+    | 
+         ",5.0,The Crow: Salvation,James O'Barr,2000
+296,Brandon Lee,Michael Wincott,Rochelle Davis,Alex Proyas,"           R
+    | 
+        ",7.6,The Crow,James O'Barr,1994
+297,Vincent Perez,Mia Kirshner,Richard Brooks,Tim Pope,"           R
+    | 
+           ",4.6,The Crow: City of Angels,James O'Barr,1996
+298,Sarah Michelle Gellar,Ryan Phillippe,Reese Witherspoon,Roger Kumble,"           R
+    |",6.8,Cruel Intentions,Choderlos de Laclos,1999
+299,Stephen Rea,Jaye Davidson,Forest Whitaker,Neil Jordan,"           R
+    | 
+            ",7.3,The Crying Game,Neil Jordan,1992
+300,Nicole de Boer,Maurice Dean Wint,David Hewlett,Vincenzo Natali,"           R
+    | 
+                 ",7.3,Cube,André Bijelic,1997
+301,Brad Pitt,Cate Blanchett,Tilda Swinton,David Fincher,"           PG-13
+    | 
+              ",7.8,The Curious Case of Benjamin Button,Eric Roth,2008
+302,Viola Davis,Hayden Panettiere,Catalina Sandino Moreno,James Lapine,           TV-14,6.5,Custody,James Lapine,2016
+303,Matthew McConaughey,Jennifer Garner,Jared Leto,Jean-Marc Vallée,"           R
+    | 
+    ",8.0,Dallas Buyers Club,Craig Borten,2013
+304,Colm Meaney,Henry Goodman,David Roper,Tom Hooper,"           R
+    | 
+          ",7.6,The Damned United,Peter Morgan,2009
+305,Kevin Costner,Mary McDonnell,Graham Greene,Kevin Costner,"           PG-13
+    | 
+               ",8.0,Dances with Wolves,Michael Blake,1990
+306,Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,Alex Proyas,"           R
+    | 
+                ",7.7,Dark City,Alex Proyas,1998
+307,Christian Bale,Tom Hardy,Anne Hathaway,Christopher Nolan,"           PG-13
+    | 
+",8.4,The Dark Knight Rises,Jonathan Nolan,2012
+308,Christian Bale,Heath Ledger,Aaron Eckhart,Christopher Nolan,"           PG-13
+    | 
+       ",9.0,The Dark Knight,Jonathan Nolan,2008
+309,Dan O'Bannon,Dre Pahich,Brian Narelle,John Carpenter,"           G
+    | 
+          ",6.4,Dark Star,John Carpenter,1974
+310,Liam Neeson,Frances McDormand,Colin Friels,Sam Raimi,"           R
+    | 
+          ",6.4,Darkman,Sam Raimi,1990
+311,Steve Carell,Tina Fey,Mark Wahlberg,Shawn Levy,"           PG-13
+    | 
+         ",6.3,Date Night,Josh Klausner,2010
+312,Sarah Polley,Ving Rhames,Mekhi Phifer,Zack Snyder,"           R
+    | 
+            ",7.3,Dawn of the Dead,George A. Romero,2004
+313,Mena Suvari,Nick Cannon,Michael Welch,Steve Miner,"           R
+    | 
+           ",4.5,Day of the Dead,Jeffrey Reddick,2008
+314,Jerry Lewis,Peter Ahlm,Lars Amble,Jerry Lewis,,,The Day the Clown Cried,Jerry Lewis,1972
+315,Keanu Reeves,Jennifer Connelly,Kathy Bates,Scott Derrickson,"           PG-13
+    | 
+              ",5.5,The Day the Earth Stood Still,David Scarpa,2008
+316,Richard Gere,Brooke Adams,Sam Shepard,Terrence Malick,"           PG
+    | 
+",7.9,Days of Heaven,Terrence Malick,1978
+317,Robin Williams,Robert Sean Leonard,Ethan Hawke,Peter Weir,"           PG
+  ",8.1,Dead Poets Society,Tom Schulman,1989
+318,Ryan Reynolds,Morena Baccarin,T.J. Miller,Tim Miller,"           R
+    | 
+                ",8.0,Deadpool,Rhett Reese,2016
+319,Tyler James Williams,Tessa Thompson,Kyle Gallner,Justin Simien,"           R
+    | 
+               ",6.1,Dear White People,Justin Simien,2014
+320,Matthew Macfadyen,Peter Dinklage,Ewen Bremner,Frank Oz,           ,7.4,Death at a Funeral,Dean Craig,2007
+321,Robin Williams,Edward Norton,Catherine Keener,Danny DeVito,"           R
+    | 
+        ",6.4,Death to Smoochy,Adam Resnick,2002
+322,Helen Mirren,Sam Worthington,Tom Wilkinson,John Madden,"           R
+    | 
+ ",6.9,The Debt,Matthew Vaughn,2010
+323,Hugh Jackman,Ewan McGregor,Michelle Williams,Marcel Langenegger,"           R
+    | 
+         ",6.1,Deception,Mark Bomback,2008
+324,Laurence Fishburne,Jeff Goldblum,Lira Angel,Bill Duke,"           R
+    | 
+           ",6.9,Deep Cover,Michael Tolkin,1992
+325,Treat Williams,Famke Janssen,Anthony Heald,Stephen Sommers,"           R
+    | 
+               ",6.0,Deep Rising,Stephen Sommers,1998
+326,Robert De Niro,Christopher Walken,John Cazale,Michael Cimino,"           R
+    ",8.1,The Deer Hunter,Michael Cimino,1978
+327,Daniel Craig,Liev Schreiber,Jamie Bell,Edward Zwick,"           R
+    | 
+            ",7.2,Defiance,Clayton Frohman,2008
+328,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Martin Scorsese,"           R
+    | 
+           ",8.5,The Departed,William Monahan,2006
+329,George Clooney,Shailene Woodley,Amara Miller,Alexander Payne,"           R
+    | 
+",7.3,The Descendants,Alexander Payne,2011
+330,Steve Carell,Kristen Wiig,Benjamin Bratt,Pierre Coffin,"           PG
+    | 
+              ",7.4,Despicable Me 2,Cinco Paul,2013
+331,Edward Furlong,Giuseppe Andrews,James DeBello,Adam Rifkin,"           R
+    | ",6.9,Detroit Rock City,Carl V. Dupré,1999
+332,Denzel Washington,Tom Sizemore,Jennifer Beals,Carl Franklin,"           R
+    | 
+             ",6.7,Devil in a Blue Dress,Walter Mosley,1995
+333,Keanu Reeves,Al Pacino,Charlize Theron,Taylor Hackford,"           R
+    | 
+              ",7.5,The Devil's Advocate,Andrew Neiderman,1997
+334,Bruce Willis,Alan Rickman,Bonnie Bedelia,John McTiernan,"           R
+    | 
+",8.2,Die Hard,Roderick Thorp,1988
+335,Bruce Willis,William Atherton,Bonnie Bedelia,Renny Harlin,"           R
+    |",7.1,Die Hard 2,Walter Wager,1990
+336,Steve Guttenberg,Mickey Rourke,Kevin Bacon,Barry Levinson,"           R
+   ",7.2,Diner,Barry Levinson,1982
+337,Eddie Murphy,Lane Smith,Sheryl Lee Ralph,Jonathan Lynn,"           R
+    | 
+",5.9,The Distinguished Gentleman,Marty Kaplan,1992
+338,Shia LaBeouf,David Morse,Carrie-Anne Moss,D.J. Caruso,"           PG-13
+    | 
+         ",6.9,Disturbia,Christopher Landon,2007
+339,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Quentin Tarantino,"           R
+    | 
+  ",8.4,Django Unchained,Quentin Tarantino,2012
+340,Danny Aiello,Ossie Davis,Ruby Dee,Spike Lee,           ,7.9,Do the Right Thing,Spike Lee,1989
+341,Al Pacino,John Cazale,Penelope Allen,Sidney Lumet,"           R
+    | 
+             ",8.0,Dog Day Afternoon,Frank Pierson,1975
+342,Ben Affleck,Matt Damon,Linda Fiorentino,Kevin Smith,"           R
+    | 
+               ",7.3,Dogma,Kevin Smith,1999
+343,Al Pacino,Johnny Depp,Michael Madsen,Mike Newell,"           R
+    | 
+             ",7.8,Donnie Brasco,Joseph D. Pistone,1997
+344,Jake Gyllenhaal,Jena Malone,Mary McDonnell,Richard Kelly,"           R
+    | 
+             ",8.1,Donnie Darko,Richard Kelly,2001
+345,Val Kilmer,Meg Ryan,Kyle MacLachlan,Oliver Stone,"           R
+    | 
+          ",7.2,The Doors,Randall Jahnson,1991
+346,Fred MacMurray,Barbara Stanwyck,Edward G. Robinson,Billy Wilder,"           Passed
+    | 
+         ",8.3,Double Indemnity,Billy Wilder,1944
+347,Alison Lohman,Justin Long,Ruth Livier,Sam Raimi,"           PG-13
+    | ",6.6,Drag Me to Hell,Sam Raimi,2009
+348,Peter MacNicol,Caitlin Clarke,Ralph Richardson,Matthew Robbins,"           PG
+    | 
+             ",6.7,Dragonslayer,Hal Barwood,1981
+349,Ryan Gosling,Carey Mulligan,Bryan Cranston,Nicolas Winding Refn,"           R
+    | 
+ ",7.8,Drive,Hossein Amini,2011
+350,Nicolas Cage,Amber Heard,William Fichtner,Patrick Lussier,"           R
+    | 
+                ",5.4,Drive Angry,Todd Farmer,2011
+351,Kirsten Dunst,Denise Richards,Ellen Barkin,Michael Patrick Jann,"           PG-13
+    | 
+            ",6.6,Drop Dead Gorgeous,Lona Williams,1999
+352,Donald Sutherland,Janet Suzman,Zakes Mokae,Euzhan Palcy,"           R
+    | 
+    ",7.0,A Dry White Season,André P. Brink,1989
+353,Groucho Marx,Harpo Marx,Chico Marx,Leo McCarey,"           Not Rated
+    | 
+          ",8.0,Duck Soup,Bert Kalmar,1933
+354,Jim Carrey,Jeff Daniels,Lauren Holly,Peter Farrelly,           PG-1,7.3,Dumb and Dumber,Peter Farrelly,1994
+355,Kyle MacLachlan,Virginia Madsen,Francesca Annis,David Lynch,"           PG-13
+    | 
+                ",6.6,Dune,Frank Herbert,1984
+356,Henry Thomas,Drew Barrymore,Peter Coyote,Steven Spielberg,"           PG
+    |",7.9,E.T. the Extra-Terrestrial,Melissa Mathison,1982
+357,Shia LaBeouf,Michelle Monaghan,Rosario Dawson,D.J. Caruso,"           PG-13
+    | 
+                 ",6.6,Eagle Eye,John Glenn,2008
+358,Naomi Watts,Viggo Mortensen,Armin Mueller-Stahl,David Cronenberg,"           R
+    | 
+             ",7.7,Eastern Promises,Steven Knight,2007
+359,Emma Stone,Amanda Bynes,Penn Badgley,Will Gluck,"           PG-13
+    | 
+              ",7.1,Easy A,Bert V. Royal,2010
+360,Matthew McConaughey,Jenna Elfman,Geoffrey Blake,Ron Howard,"           PG-13
+    ",6.1,Edtv,Émile Gaudreault,1999
+361,Johnny Depp,Martin Landau,Sarah Jessica Parker,Tim Burton,"           R
+    | 
+            ",7.9,Ed Wood,Rudolph Grey,1994
+362,Johnny Depp,Winona Ryder,Dianne Wiest,Tim Burton,"           PG-13
+    | 
+              ",7.9,Edward Scissorhands,Tim Burton,1990
+363,David Arquette,Kari Wuhrer,Scott Terra,Ellory Elkayem,"           PG-13
+    | 
+         ",5.4,Eight Legged Freaks,Ellory Elkayem,2002
+364,Carlos Gallardo,Consuelo Gómez,Jaime de Hoyos,Robert Rodriguez,"           R
+    | 
+              ",6.9,El Mariachi,Robert Rodriguez,1992
+365,Matthew Broderick,Reese Witherspoon,Chris Klein,Alexander Payne,"           R
+    | 
+       ",7.3,Election,Tom Perrotta,1999
+366,Anthony Hopkins,John Hurt,Anne Bancroft,David Lynch,"           PG
+    | 
+  ",8.2,The Elephant Man,Christopher De Vore,1980
+367,Cate Blanchett,Clive Owen,Geoffrey Rush,Shekhar Kapur,"           PG-13
+    | 
+               ",6.9,Elizabeth: The Golden Age,William Nicholson,2007
+368,Will Smith,Gene Hackman,Jon Voight,Tony Scott,"           R
+    | 
+             ",7.3,Enemy of the State,David Marconi,1998
+369,Ralph Fiennes,Juliette Binoche,Willem Dafoe,Anthony Minghella,"           R
+    | 
+         ",7.4,The English Patient,Michael Ondaatje,1996
+370,Jennifer Lopez,Billy Campbell,Tessa Allen,Michael Apted,"           PG-13
+    | 
+        ",5.7,Enough,Nicholas Kazan,2002
+371,Sean Connery,Catherine Zeta-Jones,Ving Rhames,Jon Amiel,"           PG-13
+    | 
+          ",6.3,Entrapment,Ronald Bass,1999
+372,Christian Bale,Sean Bean,Emily Watson,Kurt Wimmer,"           R
+    | 
+           ",7.5,Equilibrium,Kurt Wimmer,2002
+373,Tim Robbins,John Cleese,Mickey Rooney,Terry Jones,"           PG-13
+    | 
+                  ",6.2,Erik the Viking,Terry Jones,1989
+374,Julia Roberts,Albert Finney,David Brisbin,Steven Soderbergh,"           R
+    | 
+ ",7.3,Erin Brockovich,Susannah Grant,2000
+375,Kurt Russell,Steve Buscemi,Stacy Keach,John Carpenter,"           R
+    | 
+             ",5.7,Escape from L.A.,John Carpenter,1996
+376,Kurt Russell,Lee Van Cleef,Ernest Borgnine,John Carpenter,"           R
+    |",7.2,Escape from New York,John Carpenter,1981
+377,Jim Carrey,Kate Winslet,Tom Wilkinson,Michel Gondry,"           R
+    | 
+          ",8.3,Eternal Sunshine of the Spotless Mind,Charlie Kaufman,2004
+378,Uma Thurman,Lorraine Bracco,Pat Morita,Gus Van Sant,"           R
+    | 
+        ",4.3,Even Cowgirls Get the Blues,Tom Robbins,1993
+379,Laurence Fishburne,Sam Neill,Kathleen Quinlan,Paul W.S. Anderson,"           R
+    | 
+             ",6.7,Event Horizon,Philip Eisner,1997
+380,Jane Levy,Shiloh Fernandez,Jessica Lucas,Fede Alvarez,"           R
+    | 
+            ",6.5,Evil Dead,Fede Alvarez,2013
+381,Bruce Campbell,Sarah Berry,Dan Hicks,Sam Raimi,"           R
+    | ",7.8,Evil Dead II,Sam Raimi,1987
+382,Alicia Vikander,Domhnall Gleeson,Oscar Isaac,Alex Garland,"           R
+    | 
+          ",7.7,Ex Machina,Alex Garland,2014
+383,Nigel Terry,Helen Mirren,Nicholas Clay,John Boorman,"           PG
+    | 
+             ",7.4,Excalibur,Thomas Malory,1981
+384,Kurt Russell,Halle Berry,Steven Seagal,Stuart Baird,"           R
+    | 
+               ",6.4,Executive Decision,Jim Thomas,1996
+385,Jude Law,Jennifer Jason Leigh,Ian Holm,David Cronenberg,"           R
+    | 
+            ",6.8,eXistenZ,David Cronenberg,1999
+386,Jason Bateman,Kristen Wiig,Ben Affleck,Mike Judge,"           R
+    | 
+             ",6.2,Extract,Mike Judge,2009
+387,Tom Cruise,Nicole Kidman,Todd Field,Stanley Kubrick,"           R
+    | 
+           ",7.4,Eyes Wide Shut,Stanley Kubrick,1999
+388,Jeff Bridges,Michelle Pfeiffer,Beau Bridges,Steve Kloves,"           R
+    | 
+           ",6.8,The Fabulous Baker Boys,Steve Kloves,1989
+389,John Travolta,Nicolas Cage,Joan Allen,John Woo,"           R
+    | 
+        ",7.3,Face/Off,Mike Werb,1997
+390,Naomi Watts,Sean Penn,Sonya Davison,Doug Liman,"           PG-13
+    | 
+                ",6.8,Fair Game,Jez Butterworth,2010
+391,Nicolas Cage,Téa Leoni,Don Cheadle,Brett Ratner,"           PG-13
+    | 
+            ",6.7,The Family Man,David Diamond,2000
+392,Miles Teller,Kate Mara,Michael B. Jordan,Josh Trank,"           PG-13
+    | 
+             ",4.3,Fantastic Four,Jeremy Slater,2015
+393,George Clooney,Meryl Streep,Bill Murray,Wes Anderson,"           PG
+    | 
+                   ",7.8,Fantastic Mr. Fox,Roald Dahl,2009
+394,William H. Macy,Frances McDormand,Steve Buscemi,Joel Coen,"           R
+    | 
+         ",8.1,Fargo,Ethan Coen,1996
+395,Sean Penn,Jennifer Jason Leigh,Judge Reinhold,Amy Heckerling,"           R
+    | ",7.2,Fast Times at Ridgemont High,Cameron Crowe,1982
+396,Armand Assante,Sherilyn Fenn,Kate Nelligan,Carl Reiner,"           PG-13
+    | 
+             ",5.7,Fatal Instinct,David O'Malley,1993
+397,Shailene Woodley,Ansel Elgort,Nat Wolff,Josh Boone,"           PG-13
+   ",7.8,The Fault in Our Stars,Scott Neustadter,2014
+398,Johnny Depp,Benicio Del Toro,Tobey Maguire,Terry Gilliam,"           R
+    | 
+          ",7.7,Fear and Loathing in Las Vegas,Hunter S. Thompson,1998
+399,Navi Rawat,Krista Allen,Balthazar Getty,John Gulager,"           R
+    | 
+                  ",6.4,Feast,Patrick Melton,2005
+400,Matthew Broderick,Alan Ruck,Mia Sara,John Hughes,           ,7.8,Ferris Bueller's Day Off,John Hughes,1986
+401,Kevin Costner,James Earl Jones,Ray Liotta,Phil Alden Robinson,"           PG
+    | 
+       ",7.5,Field of Dreams,W.P. Kinsella,1989
+402,Bruce Willis,Milla Jovovich,Gary Oldman,Luc Besson,"           PG-13
+    | 
+         ",7.7,The Fifth Element,Luc Besson,1997
+403,Brad Pitt,Edward Norton,Meat Loaf,David Fincher,         ,8.8,Fight Club,Chuck Palahniuk,1999
+404,Mark Wahlberg,Christian Bale,Amy Adams,David O. Russell,"           R
+    | 
+              ",7.8,The Fighter,Scott Silver,2010
+405,Devon Sawa,Ali Larter,Kerr Smith,James Wong,"           R
+    | 
+ ",6.7,Final Destination,Glen Morgan,2000
+406,A.J. Cook,Ali Larter,Tony Todd,David R. Ellis,"           R
+    | 
+   ",6.2,Final Destination 2,J. Mackye Gruber,2003
+407,Albert Brooks,Ellen DeGeneres,Alexander Gould,Andrew Stanton,"           G
+    | 
+              ",8.1,Finding Nemo,Andrew Stanton,2003
+408,Jack Nicholson,Karen Black,Billy Green Bush,Bob Rafelson,"           R
+ ",7.5,Five Easy Pieces,Carole Eastman,1970
+409,Sam J. Jones,Melody Anderson,Max von Sydow,Mike Hodges,"           PG
+    | 
+               ",6.5,Flash Gordon,Lorenzo Semple Jr.,1980
+410,Chevy Chase,Joe Don Baker,Dana Wheeler-Nicholson,Michael Ritchie,"           PG
+    | 
+        ",6.9,Fletch,Gregory McDonald,1985
+411,Denzel Washington,Nadine Velazquez,Don Cheadle,Robert Zemeckis,"           R
+    | 
+  ",7.3,Flight,John Gatins,2012
+412,John Goodman,Rick Moranis,Rosie O'Donnell,Brian Levant,"           PG
+    | 
+         ",4.8,The Flintstones,Tom S. Parker,1994
+413,Tom Hanks,Robin Wright,Gary Sinise,Robert Zemeckis,"           PG-13
+    ",8.8,Forrest Gump,Winston Groom,1994
+414,Heath Ledger,Wes Bentley,Kate Hudson,Shekhar Kapur,"           PG-13
+    | 
+                 ",6.5,The Four Feathers,A.E.W. Mason,2002
+415,Tim Roth,Antonio Banderas,Sammi Davis,Allison Anders,           ,6.7,Four Rooms,Allison Anders,1995
+416,Steve Carell,Channing Tatum,Mark Ruffalo,Bennett Miller,"           R
+    | 
+             ",7.0,Foxcatcher,E. Max Frye,2014
+417,Anthony Hopkins,Ryan Gosling,David Strathairn,Gregory Hoblit,"           R
+    | 
+         ",7.2,Fracture,Daniel Pyne,2007
+418,Greta Gerwig,Mickey Sumner,Adam Driver,Noah Baumbach,"           R
+    | 
+              ",7.4,Frances Ha,Noah Baumbach,2012
+419,Robert De Niro,Kenneth Branagh,Helena Bonham Carter,Kenneth Branagh,"           R
+    | 
+           ",6.4,Frankenstein,Mary Shelley,1994
+420,Winona Ryder,Catherine O'Hara,Martin Short,Tim Burton,"           PG
+    | 
+              ",7.0,Frankenweenie,Leonard Ripps,2012
+421,Brooke Shields,William Sadler,Eduardo Ricard,Tom Stern,"           PG-13
+    | 
+     ",6.3,Freaked,Tim Burns,1993
+422,Robert Englund,Ken Kirzinger,Kelly Rowland,Ronny Yu,"           R
+    | 
+",5.8,Freddy vs. Jason,Wes Craven,2003
+423,Gene Hackman,Roy Scheider,Fernando Rey,William Friedkin,"           R
+    | 
+         ",7.8,The French Connection,Ernest Tidyman,1971
+424,Dennis Quaid,Jim Caviezel,Shawn Doyle,Gregory Hoblit,"           PG-13
+    | 
+         ",7.4,Frequency,Toby Emmerich,2000
+425,Betsy Palmer,Adrienne King,Jeannine Taylor,Sean S. Cunningham,"           R
+    | 
+          ",6.5,Friday the 13th,Victor Miller,1980
+426,Jensen Daggett,Kane Hodder,Todd Caldecott,Rob Hedden,"           R
+    | 
+              ",4.6,Friday the 13th Part VIII: Jason Takes Manhattan,Rob Hedden,1989
+427,Chris Sarandon,William Ragsdale,Amanda Bearse,Tom Holland,"           R
+    | 
+ ",7.1,Fright Night,Tom Holland,1985
+428,Harvey Keitel,George Clooney,Juliette Lewis,Robert Rodriguez,"           R
+    | 
+           ",7.3,From Dusk Till Dawn,Robert Kurtzman,1996
+429,Burt Lancaster,Montgomery Clift,Deborah Kerr,Fred Zinnemann,"           Not Rated
+    | 
+        ",7.7,From Here to Eternity,Daniel Taradash,1953
+430,Kristen Bell,Idina Menzel,Jonathan Groff,Chris Buck,"           PG
+    | 
+                   ",7.5,Frozen,Jennifer Lee,2013
+431,Kristen Anderson-Lopez,Kristen Bell,Chris Buck,Rudy Bednar,"           TV-G
+    | 
+          ",8.0,The Story of Frozen: Making a Disney Animated Classic,Jeanmarie Condon,2014
+432,Melissa Leo,Misty Upham,Charlie McDermott,Courtney Hunt,"           R
+    | 
+",7.2,Frozen River,Courtney Hunt,2008
+433,Michael B. Jordan,Melonie Diaz,Octavia Spencer,Ryan Coogler,"           R
+    | 
+            ",7.5,Fruitvale Station,Ryan Coogler,2013
+434,Harrison Ford,Tommy Lee Jones,Sela Ward,Andrew Davis,"           PG-13
+    | 
+        ",7.8,The Fugitive,Jeb Stuart,1993
+435,Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Stanley Kubrick,"           R
+ ",8.3,Full Metal Jacket,Stanley Kubrick,1987
+436,Adam Sandler,Seth Rogen,Leslie Mann,Judd Apatow,"           R
+    ",6.3,Funny People,Judd Apatow,2009
+437,Brad Pitt,Shia LaBeouf,Logan Lerman,David Ayer,"           R
+    | 
+        ",7.6,Fury,David Ayer,2014
+438,Demi Moore,Viggo Mortensen,Anne Bancroft,Ridley Scott,"           R
+    | 
+      ",5.9,G.I. Jane,Danielle Alexandra,1997
+439,Dennis Quaid,Channing Tatum,Marlon Wayans,Stephen Sommers,"           PG-13
+    | 
+             ",5.8,G.I. Joe: The Rise of Cobra,Stuart Beattie,2009
+440,Michael Keaton,Robert Downey Jr.,Griffin Dunne,Michael Hoffman,"           R
+    | 
+       ",5.9,Game 6,Don DeLillo,2005
+441,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Morten Tyldum,"           PG-13
+    | 
+                 ",8.0,The Imitation Game,Graham Moore,2014
+442,Gerard Butler,Michael C. Hall,Ludacris,Mark Neveldine,"           R
+    | 
+               ",5.8,Gamer,Mark Neveldine,2009
+443,Ben Kingsley,John Gielgud,Rohini Hattangadi,Richard Attenborough,"           PG
+    | 
+                ",8.1,Gandhi,John Briley,1982
+444,Jim Belushi,Tupac Shakur,Lela Rochon,Jim Kouf,"           R
+    | 
+         ",6.5,Gang Related,Jim Kouf,1997
+445,Leonardo DiCaprio,Cameron Diaz,Daniel Day-Lewis,Martin Scorsese,"           R
+    | 
+",7.5,Gangs of New York,Jay Cocks,2002
+446,Zach Braff,Peter Sarsgaard,Natalie Portman,Zach Braff,"           R
+    | 
+           ",7.5,Garden State,Zach Braff,2004
+447,Ethan Hawke,Uma Thurman,Jude Law,Andrew Niccol,"           PG-13
+    | 
+             ",7.8,Gattaca,Andrew Niccol,1997
+448,Sylvester Stallone,Rachael Leigh Cook,Miranda Richardson,Stephen Kay,"           R
+    | 
+         ",5.1,Get Carter,Ted Lewis,2000
+449,Robert Duvall,Bill Murray,Sissy Spacek,Aaron Schneider,"           PG-13
+    | 
+",7.1,Get Low,Chris Provenzano,2009
+450,Chadwick Boseman,Nelsan Ellis,Dan Aykroyd,Tate Taylor,"           PG-13
+    | 
+           ",6.9,Get on Up,Jez Butterworth,2014
+451,Daniel Kaluuya,Allison Williams,Bradley Whitford,Jordan Peele,"           R
+    | 
+                ",7.7,Get Out,Jordan Peele,2017
+452,Gene Hackman,Rene Russo,Danny DeVito,Barry Sonnenfeld,"           R
+    | 
+             ",6.9,Get Shorty,Elmore Leonard,1995
+453,Steve McQueen,Ali MacGraw,Ben Johnson,Sam Peckinpah,"           PG
+    | 
+               ",7.5,The Getaway,Walter Hill,1972
+454,Patrick Swayze,Demi Moore,Whoopi Goldberg,Jerry Zucker,"           PG-13
+    | 
+         ",7.0,Ghost,Bruce Joel Rubin,1990
+455,Michael Douglas,Val Kilmer,Tom Wilkinson,Stephen Hopkins,"           R
+    | 
+                ",6.8,The Ghost and the Darkness,William Goldman,1996
+456,Nicolas Cage,Eva Mendes,Sam Elliott,Mark Steven Johnson,"           PG-13
+    | 
+                 ",5.2,Ghost Rider,Mark Steven Johnson,2007
+457,Julianna Margulies,Gabriel Byrne,Ron Eldard,Steve Beck,          ,5.5,Ghost Ship,Mark Hanlon,2002
+458,Steve Buscemi,Thora Birch,Scarlett Johansson,Terry Zwigoff,"           R
+    | 
+  ",7.4,Ghost World,Daniel Clowes,2001
+459,Bill Murray,Dan Aykroyd,Sigourney Weaver,Ivan Reitman,"           PG
+    | 
+         ",7.8,Ghostbusters,Dan Aykroyd,1984
+460,Bill Murray,Dan Aykroyd,Sigourney Weaver,Ivan Reitman,"           PG
+    | 
+          ",6.5,Ghostbusters II,Dan Aykroyd,1989
+461,Emily Perkins,Katharine Isabelle,Kris Lemche,John Fawcett,"           Not Rated
+    | 
+           ",6.8,Ginger Snaps,Karen Walton,2000
+462,Daniel Craig,Rooney Mara,Christopher Plummer,David Fincher,"           R
+    | 
+            ",7.8,The Girl with the Dragon Tattoo,Steven Zaillian,2011
+463,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Ridley Scott,"           R
+    | 
+         ",8.5,Gladiator,David Franzoni,2000
+464,Sarah Polley,Jay Mohr,Scott Wolf,Doug Liman,"           R
+    ",7.3,Go,John August,1999
+465,Marlon Brando,Al Pacino,James Caan,Francis Ford Coppola,"           R
+    ",9.2,The Godfather,Mario Puzo,1972
+466,Al Pacino,Robert De Niro,Robert Duvall,Francis Ford Coppola,"           R
+    | 
+",9.0,The Godfather: Part II,Francis Ford Coppola,1974
+467,Al Pacino,Diane Keaton,Andy Garcia,Francis Ford Coppola,"           R
+    | 
+",7.6,The Godfather: Part III,Mario Puzo,1990
+468,Ian McKellen,Brendan Fraser,Lynn Redgrave,Bill Condon,"           R
+    | 
+   ",7.5,Gods and Monsters,Christopher Bram,1998
+469,Aaron Taylor-Johnson,Elizabeth Olsen,Bryan Cranston,Gareth Edwards,"           PG-13
+    | 
+          ",6.4,Godzilla,Max Borenstein,2014
+470,Morgan Freeman,Ed Harris,Casey Affleck,Ben Affleck,"           R
+    | 
+           ",7.7,Gone Baby Gone,Ben Affleck,2007
+471,H.B. Halicki,Marion Busia,Jerry Daugirda,H.B. Halicki,"           PG
+    | 
+       ",6.5,Gone in 60 Seconds,H.B. Halicki,1974
+472,Jennifer Aniston,Jake Gyllenhaal,Deborah Rush,Miguel Arteta,"           R
+    | 
+",6.5,The Good Girl,Mike White,2002
+473,Robin Williams,Matt Damon,Ben Affleck,Gus Van Sant,"           R
+    | ",8.3,Good Will Hunting,Matt Damon,1997
+474,Robert De Niro,Ray Liotta,Joe Pesci,Martin Scorsese,"           R
+    | 
+ ",8.7,Goodfellas,Nicholas Pileggi,1990
+475,Halle Berry,Penélope Cruz,Robert Downey Jr.,Mathieu Kassovitz,"           R
+    | 
+                ",5.8,Gothika,Sebastian Gutierrez,2003
+476,Killian Coyle,Stuart Graham,Michael Hough,Jon Wright,"           Not Rated
+    | 
+               ",6.3,Grabbers,Kevin Lehane,2012
+477,Dustin Hoffman,Anne Bancroft,Katharine Ross,Mike Nichols,"           PG
+    | 
+             ",8.0,The Graduate,Calder Willingham,1967
+478,Clint Eastwood,Bee Vang,Christopher Carley,Clint Eastwood,        ,8.1,Gran Torino,Nick Schenk,2008
+479,Greta Garbo,John Barrymore,Joan Crawford,Edmund Goulding,"           Not Rated
+    | 
+   ",7.5,Grand Hotel,Vicki Baum,1932
+480,Johnny Knoxville,Christina Applegate,Marley Shelton,David Caffrey,"           PG-13
+    | 
+           ",6.0,Grand Theft Parsons,Jeremy Drysdale,2003
+481,Henry Fonda,Jane Darwell,John Carradine,John Ford,"           Passed
+    |",8.1,The Grapes of Wrath,Nunnally Johnson,1940
+482,Sandra Bullock,George Clooney,Ed Harris,Alfonso Cuarón,"           PG-13
+    | 
+            ",7.7,Gravity,Alfonso Cuarón,2013
+483,Leonardo DiCaprio,Carey Mulligan,Joel Edgerton,Baz Luhrmann,"           PG-13
+    ",7.3,The Great Gatsby,Baz Luhrmann,2013
+484,Tom Hanks,Michael Clarke Duncan,David Morse,Frank Darabont,"           R
+    | 
+           ",8.5,The Green Mile,Stephen King,1999
+485,Zach Galligan,Phoebe Cates,Hoyt Axton,Joe Dante,"           PG
+    | 
+         ",7.2,Gremlins,Chris Columbus,1984
+486,Zach Galligan,Phoebe Cates,John Glover,Joe Dante,"           PG-13
+    | 
+          ",6.3,Gremlins 2: The New Batch,Chris Columbus,1990
+487,Anjelica Huston,John Cusack,Annette Bening,Stephen Frears,"           R
+    | 
+            ",7.0,The Grifters,Jim Thompson,1990
+488,John Cusack,Minnie Driver,Dan Aykroyd,George Armitage,"           R
+    | 
+         ",7.4,Grosse Pointe Blank,Tom Jankiewicz,1997
+489,Bill Murray,Andie MacDowell,Chris Elliott,Harold Ramis,"           PG
+    | 
+               ",8.0,Groundhog Day,Danny Rubin,1993
+490,Sarah Michelle Gellar,Jason Behr,Clea DuVall,Takashi Shimizu,"           PG-13
+    | 
+               ",5.9,The Grudge,Stephen Susco,2004
+491,Chris Pratt,Zoe Saldana,Dave Bautista,James Gunn,"           PG-13
+    | 
+          ",7.7,Guardians of the Galaxy Vol. 2,James Gunn,2017
+492,Jonny Lee Miller,Angelina Jolie,Jesse Bradford,Iain Softley,"           PG-13
+    | 
+            ",6.2,Hackers,Rafael Moreu,1995
+493,Owen Wilson,Jason Sudeikis,Christina Applegate,Bobby Farrelly,"           R
+    | 
+   ",5.9,Hall Pass,Pete Jones,2011
+494,Donald Pleasence,Paul Rudd,Marianne Hagan,Joe Chappelle,"           R
+    | 
+     ",4.9,Halloween: The Curse of Michael Myers,Debra Hill,1995
+495,Will Smith,Charlize Theron,Jason Bateman,Peter Berg,"           PG-13
+    | 
+        ",6.4,Hancock,Vincent Ngo,2008
+496,Zach Galifianakis,Bradley Cooper,Justin Bartha,Todd Phillips,      ,7.7,The Hangover,Jon Lucas,2009
+497,Saoirse Ronan,Cate Blanchett,Eric Bana,Joe Wright,"           PG-13
+    | 
+          ",6.8,Hanna,Seth Lochhead,2011
+498,Mia Farrow,Dianne Wiest,Michael Caine,Woody Allen,"           PG-13
+    |",7.9,Hannah and Her Sisters,Woody Allen,1986
+499,Anthony Hopkins,Julianne Moore,Gary Oldman,Ridley Scott,"           R
+    | 
+            ",6.8,Hannibal,Thomas Harris,2001
+500,Rod Steiger,Susannah York,George Grizzard,Mark Robson,"           R
+    | 
+",6.1,"Happy Birthday, Wanda June",Kurt Vonnegut Jr.,1971
+501,Elijah Wood,Brittany Murphy,Hugh Jackman,George Miller,"           PG
+    | 
+                   ",6.5,Happy Feet,George Miller,2006
+502,Morgan Freeman,Christian Slater,Randy Quaid,Mikael Salomon,"           R
+    | 
+          ",5.8,Hard Rain,Graham Yost,1998
+503,Steven Seagal,Kelly LeBrock,William Sadler,Bruce Malmuth,"           R
+    | 
+          ",5.8,Hard to Kill,Steven McKay,1990
+504,John Cho,Kal Penn,Ethan Embry,Danny Leiner,"           R
+    | 
+ ",7.1,Harold & Kumar Go to White Castle,Jon Hurwitz,2004
+505,Daniel Radcliffe,Rupert Grint,Emma Watson,Chris Columbus,"           PG
+    | 
+                 ",7.4,Harry Potter and the Chamber of Secrets,J.K. Rowling,2002
+506,Daniel Radcliffe,Emma Watson,Rupert Grint,David Yates,"           PG-13
+    | 
+                 ",7.7,Harry Potter and the Deathly Hallows: Part 1,Steve Kloves,2010
+507,Daniel Radcliffe,Emma Watson,Rupert Grint,Mike Newell,"           PG-13
+    | 
+                 ",7.7,Harry Potter and the Goblet of Fire,Steve Kloves,2005
+508,Daniel Radcliffe,Emma Watson,Rupert Grint,David Yates,"           PG
+    | 
+             ",7.6,Harry Potter and the Half-Blood Prince,Steve Kloves,2009
+509,Daniel Radcliffe,Emma Watson,Rupert Grint,Alfonso Cuarón,"           PG
+    | 
+            ",7.9,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,2004
+510,Daniel Radcliffe,Rupert Grint,Richard Harris,Chris Columbus,"           PG
+    | 
+                 ",7.6,Harry Potter and the Sorcerer's Stone,J.K. Rowling,2001
+511,Liam Neeson,Catherine Zeta-Jones,Owen Wilson,Jan de Bont,"           PG-13
+    | 
+           ",4.9,The Haunting,David Self,1999
+512,Ginnifer Goodwin,Jennifer Aniston,Jennifer Connelly,Ken Kwapis,"           PG-13
+    | 
+           ",6.4,He's Just Not That Into You,Abby Kohn,2009
+513,Al Pacino,Robert De Niro,Val Kilmer,Michael Mann,"           R
+    | 
+             ",8.2,Heat,Michael Mann,1995
+514,Winona Ryder,Christian Slater,Shannen Doherty,Michael Lehmann,        ,7.3,Heathers,Daniel Waters,1988
+515,Melanie Lynskey,Kate Winslet,Sarah Peirse,Peter Jackson,"           R
+    | 
+                     ",7.4,Heavenly Creatures,Fran Walsh,1994
+516,Richard Romanus,John Candy,Joe Flaherty,Gerald Potterton,"           R
+    | 
+                 ",6.7,Heavy Metal,Daniel Goldberg,1981
+517,Adam Goldberg,Andy Dick,Judy Greer,Jonathan Kesselman,"           R
+ ",6.2,The Hebrew Hammer,Jonathan Kesselman,2003
+518,Robert De Niro,Jeffrey Dean Morgan,Dave Bautista,Scott Mann,"           R
+    | 
+                      ",6.1,Heist,Stephen C. Sepher,2015
+519,Doug Bradley,Ashley Laurence,Clare Higgins,Tony Randel,"           R
+    | 
+    ",6.5,Hellbound: Hellraiser II,Clive Barker,1988
+520,Ron Perlman,Doug Jones,Selma Blair,Guillermo del Toro,"           PG-13
+    | 
+         ",6.9,Hellboy,Guillermo del Toro,2004
+521,Ron Perlman,Selma Blair,Doug Jones,Guillermo del Toro,"           PG-13
+    | 
+       ",7.0,Hellboy II: The Golden Army,Guillermo del Toro,2008
+522,Andrew Robinson,Clare Higgins,Ashley Laurence,Clive Barker,"           R
+    | 
+     ",7.0,Hellraiser,Clive Barker,1987
+523,Terry Farrell,Doug Bradley,Kevin Bernhardt,Anthony Hickox,           R,5.5,Hellraiser III: Hell on Earth,Clive Barker,1992
+524,Kari Wuhrer,Paul Rhys,Simon Kunz,Rick Bota,"           R
+    | 
+           ",4.6,Hellraiser: Deader,Clive Barker,2005
+525,Dean Winters,Ashley Laurence,Doug Bradley,Rick Bota,"           R
+    | 
+               ",5.1,Hellraiser: Hellseeker,Clive Barker,2002
+526,Emma Stone,Viola Davis,Octavia Spencer,Tate Taylor,           P,8.1,The Help,Tate Taylor,2011
+527,,,,Hal Hartley,"           R
+    ",7.3,Henry Fool,Thomas Jay Ryan,1997
+528,Keanu Reeves,Vera Farmiga,James Caan,Malcolm Venville,"           R
+    | 
+         ",6.0,Henry's Crime,Sacha Gervasi,2010
+529,Joaquin Phoenix,Amy Adams,Scarlett Johansson,Spike Jonze,"           R
+    | 
+           ",8.0,Her,Spike Jonze,2013
+530,Joseph Gordon-Levitt,Devin Brochu,Natalie Portman,Spencer Susser,"           R
+    | ",7.0,Hesher,Spencer Susser,2010
+531,John Cusack,Iben Hjejle,Todd Louiso,Stephen Frears,"           R
+    | 
+        ",7.5,High Fidelity,Nick Hornby,2000
+532,Christopher Lambert,Sean Connery,Clancy Brown,Russell Mulcahy,"           R
+    | 
+             ",7.2,Highlander,Gregory Widen,1986
+533,Christopher Lambert,Adrian Paul,Bruce Payne,Douglas Aarniokoski,"           R
+    | 
+                 ",4.6,Highlander: Endgame,Gregory Widen,2000
+534,Suze Lanier-Bramlett,Robert Houston,John Steadman,Wes Craven,"           R
+    | 
+",6.4,The Hills Have Eyes,Wes Craven,1977
+535,Cary Grant,Rosalind Russell,Ralph Bellamy,Howard Hawks,"           Passed
+    | 
+            ",8.0,His Girl Friday,Charles Lederer,1940
+536,Anthony Hopkins,Helen Mirren,Scarlett Johansson,Sacha Gervasi,"           PG-13
+    | 
+    ",6.8,Hitchcock,John J. McLaughlin,2012
+537,Martin Freeman,Yasiin Bey,Sam Rockwell,Garth Jennings,"           PG
+    | 
+             ",6.8,The Hitchhiker's Guide to the Galaxy,Douglas Adams,2005
+538,Kevin Bacon,Elisabeth Shue,Josh Brolin,Paul Verhoeven,"           R
+    | 
+          ",5.7,Hollow Man,Gary Scott Thompson,2000
+539,Danny Glover,LisaGay Hamilton,Yaya DaCosta,John Sayles,"           PG-13
+    | 
+    ",6.7,Honeydripper,John Sayles,2007
+540,Jason Bateman,Charlie Day,Jason Sudeikis,Seth Gordon,"           R
+   ",6.9,Horrible Bosses,Michael Markowitz,2011
+541,Robert Redford,Kristin Scott Thomas,Sam Neill,Robert Redford,"           PG-13
+    | 
+         ",6.6,The Horse Whisperer,Nick Evans,1998
+542,George C. Scott,Diana Rigg,Barnard Hughes,Arthur Hiller,"           PG-13
+    | 
+       ",7.2,The Hospital,Paddy Chayefsky,1971
+543,Bruce Willis,Kevin Pollak,Serena Scott Thomas,Florent-Emilio Siri,"           R
+    | 
+        ",6.6,Hostage,Robert Crais,2005
+544,John Cusack,Rob Corddry,Craig Robinson,Steve Pink,"           R
+    | ",6.4,Hot Tub Time Machine,Josh Heald,2010
+545,Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Terry George,"           PG-13
+    | 
+              ",8.1,Hotel Rwanda,Keir Pearson,2004
+546,Sid Haig,Karen Black,Bill Moseley,Rob Zombie,        ,6.1,House of 1000 Corpses,Rob Zombie,2003
+547,Simon Pegg,Kirsten Dunst,Megan Fox,Robert B. Weide,"           R
+    | 
+             ",6.4,How to Lose Friends & Alienate People,Peter Straughan,2008
+548,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,Dean DeBlois,"           PG
+    | 
+                ",8.1,How to Train Your Dragon,William Davies,2010
+549,Jay Baruchel,Cate Blanchett,Gerard Butler,Dean DeBlois,"           PG
+    | 
+               ",7.8,How to Train Your Dragon 2,Dean DeBlois,2014
+550,Bruce Willis,Danny Aiello,Andie MacDowell,Michael Lehmann,"           R
+    | 
+           ",5.8,Hudson Hawk,Bruce Willis,1991
+551,Tim Robbins,Paul Newman,Jennifer Jason Leigh,Joel Coen,"           PG
+    | 
+          ",7.3,The Hudsucker Proxy,Ethan Coen,1994
+552,Tim Robbins,Patricia Arquette,Rhys Ifans,Michel Gondry,"           R
+    |",6.4,Human Nature,Charlie Kaufman,2001
+553,Sean Connery,Alec Baldwin,Scott Glenn,John McTiernan,"           PG
+    | 
+              ",7.6,The Hunt for Red October,Tom Clancy,1990
+554,Jeremy Renner,Anthony Mackie,Brian Geraghty,Kathryn Bigelow,"           R
+    | 
+       ",7.6,The Hurt Locker,Mark Boal,2008
+555,Alex Pettyfer,Timothy Olyphant,Dianna Agron,D.J. Caruso,"           PG-13
+    | 
+                ",6.1,I Am Number Four,Alfred Gough,2011
+556,Sean Penn,Michelle Pfeiffer,Dakota Fanning,Jessie Nelson,           PG,7.6,I Am Sam,Kristine Johnson,2001
+557,Jim Carrey,Ewan McGregor,Leslie Mann,Glenn Ficarra,"           R
+    | 
+             ",6.6,I Love You Phillip Morris,John Requa,2009
+558,Sarah Butler,Jeff Branson,Andrew Howard,Steven R. Monroe,"           R
+    | 
+         ",6.3,I Spit on Your Grave,Adam Rockoff,2010
+559,Jennifer Love Hewitt,Freddie Prinze Jr.,Brandy Norwood,Danny Cannon,"           R
+    | 
+   ",4.6,I Still Know What You Did Last Summer,Lois Duncan,1998
+560,Nick Nolte,Albert Brooks,Whittni Wright,James L. Brooks,"           PG-13
+    | 
+",5.6,I'll Do Anything,James L. Brooks,1994
+561,Will Smith,Bridget Moynahan,Bruce Greenwood,Alex Proyas,"           PG-13
+    | 
+       ",7.1,"I, Robot",Jeff Vintar,2004
+562,Kevin Kline,Joan Allen,Sigourney Weaver,Ang Lee,          ,7.5,The Ice Storm,Rick Moody,1997
+563,Paul Giamatti,George Clooney,Philip Seymour Hoffman,George Clooney,"           R
+    | 
+ ",7.1,The Ides of March,George Clooney,2011
+564,Christopher Plummer,Lily Cole,Heath Ledger,Terry Gilliam,"           PG-13
+    | 
+              ",6.8,The Imaginarium of Doctor Parnassus,Terry Gilliam,2009
+565,Tom Wilkinson,Sissy Spacek,Nick Stahl,Todd Field,"           R
+    | ",7.4,In the Bedroom,Andre Dubus,2001
+566,Tom Hollander,Peter Capaldi,James Gandolfini,Armando Iannucci,           Not Rate,7.5,In the Loop,Jesse Armstrong,2009
+567,Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page,Christopher Nolan,"           PG-13
+    | 
+            ",8.8,Inception,Christopher Nolan,2010
+568,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Brad Bird,"           PG
+    | 
+                  ",8.0,The Incredibles,Brad Bird,2004
+569,Will Smith,Bill Pullman,Jeff Goldblum,Roland Emmerich,"           PG-13
+    | 
+           ",7.0,Independence Day,Dean Devlin,1996
+570,Harrison Ford,Sean Connery,Alison Doody,Steven Spielberg,"           PG-13
+    | 
+           ",8.3,Indiana Jones and the Last Crusade,Jeffrey Boam,1989
+571,Harrison Ford,Karen Allen,Paul Freeman,Steven Spielberg,"           PG
+    | 
+ ",8.5,Raiders of the Lost Ark,Lawrence Kasdan,1981
+572,Harrison Ford,Kate Capshaw,Jonathan Ke Quan,Steven Spielberg,"           PG
+    | 
+",7.6,Indiana Jones and the Temple of Doom,Willard Huyck,1984
+573,Matt Damon,Tony Hale,Patton Oswalt,Steven Soderbergh,"           R
+    | 
+                ",6.5,The Informant!,Scott Z. Burns,2009
+574,Brad Pitt,Diane Kruger,Eli Roth,Quentin Tarantino,"           R
+    | 
+          ",8.3,Inglourious Basterds,Quentin Tarantino,2009
+575,Dennis Quaid,Martin Short,Meg Ryan,Joe Dante,"           PG
+    | 
+     ",6.8,Innerspace,Chip Proser,1987
+576,Russell Crowe,Al Pacino,Christopher Plummer,Michael Mann,"           R
+    | 
+                ",7.9,The Insider,Marie Brenner,1999
+577,Patrick Wilson,Rose Byrne,Ty Simpkins,James Wan,"           PG-13
+    | 
+            ",6.8,Insidious,Leigh Whannell,2010
+578,Al Pacino,Robin Williams,Hilary Swank,Christopher Nolan,"           R
+    | 
+          ",7.2,Insomnia,Hillary Seitz,2002
+579,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Christopher Nolan,"           PG-13
+    | 
+              ",8.6,Interstellar,Jonathan Nolan,2014
+580,Brad Pitt,Tom Cruise,Antonio Banderas,Neil Jordan,"           R
+    | 
+",7.6,Interview with the Vampire: The Vampire Chronicles,Anne Rice,1994
+581,Emile Hirsch,Vince Vaughn,Catherine Keener,Sean Penn,"           R
+    | 
+                 ",8.1,Into the Wild,Sean Penn,2007
+582,Anna Kendrick,Meryl Streep,Chris Pine,Rob Marshall,"           PG
+    | 
+              ",6.0,Into the Woods,James Lapine,2014
+583,George Clooney,Catherine Zeta-Jones,Billy Bob Thornton,Joel Coen,"           PG-13
+    | 
+            ",6.3,Intolerable Cruelty,Robert Ramsey,2003
+584,Liv Tyler,Jennifer Connelly,Joaquin Phoenix,Pat O'Connor,"           R
+    |",6.4,Inventing the Abbotts,Sue Miller,1997
+585,Ricky Gervais,Jennifer Garner,Jonah Hill,Ricky Gervais,"           PG-13
+    | 
+             ",6.4,The Invention of Lying,Ricky Gervais,2009
+586,Morgan Freeman,Matt Damon,Tony Kgoroge,Clint Eastwood,"           PG-13
+    | 
+                ",7.3,Invictus,Anthony Peckham,2009
+587,Meryl Streep,Jim Broadbent,Richard E. Grant,Phyllida Lloyd,"           PG-13
+    | 
+   ",6.4,The Iron Lady,Abi Morgan,2011
+588,Scarlett Johansson,Ewan McGregor,Djimon Hounsou,Michael Bay,"           PG-13
+    | 
+             ",6.9,The Island,Caspian Tredwell-Owen,2005
+589,Bill Skarsgård,Jaeden Lieberher,Finn Wolfhard,Andy Muschietti,"           R
+    | 
+              ",7.4,It,Chase Palmer,2017
+590,Clark Gable,Claudette Colbert,Walter Connolly,Frank Capra,"           Not Rated
+    | 
+   ",8.1,It Happened One Night,Robert Riskin,1934
+591,James Stewart,Donna Reed,Lionel Barrymore,Frank Capra,"           PG
+    | 
+           ",8.6,It's a Wonderful Life,Frances Goodrich,1946
+592,Meryl Streep,Steve Martin,Alec Baldwin,Nancy Meyers,"           R
+    | 
+       ",6.6,It's Complicated,Nancy Meyers,2009
+593,Donald Sutherland,Mark Wahlberg,Edward Norton,F. Gary Gray,"           PG-13
+    | 
+         ",7.0,The Italian Job,Troy Kennedy-Martin,2003
+594,Adrien Brody,Keira Knightley,Daniel Craig,John Maybury,"           R
+    | 
+          ",7.1,The Jacket,Tom Bleecker,2005
+595,Pam Grier,Samuel L. Jackson,Robert Forster,Quentin Tarantino,"           R
+    | 
+             ",7.5,Jackie Brown,Quentin Tarantino,1997
+596,Tim Robbins,Elizabeth Peña,Danny Aiello,Adrian Lyne,"           R
+    | 
+            ",7.5,Jacob's Ladder,Bruce Joel Rubin,1990
+597,David Caruso,Linda Fiorentino,Chazz Palminteri,William Friedkin,"           R
+    | 
+            ",5.2,Jade,Joe Eszterhas,1995
+598,Mia Wasikowska,Michael Fassbender,Jamie Bell,Cary Joji Fukunaga,"           PG-13
+",7.4,Jane Eyre,Charlotte Brontë,2011
+599,Kane Hodder,Lexa Doig,Jeff Geddis,James Isaac,"           R
+    | 
+          ",4.4,Jason X,Victor Miller,2001
+600,Roy Scheider,Robert Shaw,Richard Dreyfuss,Steven Spielberg,"           PG
+    | 
+            ",8.0,Jaws,Peter Benchley,1975
+601,Roy Scheider,Lorraine Gary,Murray Hamilton,Jeannot Szwarc,"           PG
+    | 
+           ",5.7,Jaws 2,Peter Benchley,1978
+602,Jason Mewes,Kevin Smith,Ben Affleck,Kevin Smith,         ,6.9,Jay and Silent Bob Strike Back,Kevin Smith,2001
+603,Andy Garcia,Uma Thurman,Lance Henriksen,Bruce Robinson,"           R
+    | 
+          ",6.3,Jennifer 8,Bruce Robinson,1992
+604,Megan Fox,Amanda Seyfried,Adam Brody,Karyn Kusama,"           R
+    | 
+   ",5.2,Jennifer's Body,Diablo Cody,2009
+605,Tom Cruise,Cuba Gooding Jr.,Renée Zellweger,Cameron Crowe,"           R
+    | 
+             ",7.3,Jerry Maguire,Cameron Crowe,1996
+606,Georges Poujouly,Brigitte Fossey,Amédée,René Clément,"           Not Rated
+    ",8.0,Forbidden Games,Jean Aurenche,1952
+607,Kevin Costner,Gary Oldman,Jack Lemmon,Oliver Stone,"           R
+    | 
+              ",8.0,JFK,Oliver Stone,1991
+608,Edward Furlong,Rachael Bella,William Sadler,Randall Rubin,"           R
+    | 
+            ",6.2,Jimmy and Judy,Randall Rubin,2006
+609,Denzel Washington,Robert Duvall,Gabriela Oltean,Nick Cassavetes,"           PG-13
+    | 
+             ",7.1,John Q,James Kearns,2002
+610,Keanu Reeves,Michael Nyqvist,Alfie Allen,Chad Stahelski,"           R
+    | 
+             ",7.3,John Wick,Derek Kolstad,2014
+611,Sylvester Stallone,Armand Assante,Rob Schneider,Danny Cannon,"           R
+    | 
+        ",5.5,Judge Dredd,John Wagner,1995
+612,Ellen Page,Michael Cera,Jennifer Garner,Jason Reitman,"           PG-13
+    | 
+ ",7.5,Juno,Diablo Cody,2007
+613,Sam Neill,Laura Dern,Jeff Goldblum,Steven Spielberg,"           PG-13
+    | 
+             ",8.1,Jurassic Park,Michael Crichton,1993
+614,Sam Neill,William H. Macy,Téa Leoni,Joe Johnston,"           PG-13
+    | 
+            ",5.9,Jurassic Park III,Michael Crichton,2001
+615,Jeff Goldblum,Julianne Moore,Pete Postlethwaite,Steven Spielberg,"           PG-13
+    | 
+          ",6.5,The Lost World: Jurassic Park,Michael Crichton,1997
+616,Jeremy Irons,Theresa Russell,Joel Grey,Steven Soderbergh,"           PG-13
+    | 
+             ",7.0,Kafka,Lem Dobbs,1991
+617,Brad Pitt,Juliette Lewis,Kathy Larson,Dominic Sena,"           R
+    | 
+             ",6.7,Kalifornia,Stephen Levy,1993
+618,Meg Ryan,Hugh Jackman,Liev Schreiber,James Mangold,"           PG-13
+    | 
+               ",6.4,Kate & Leopold,Steven Rogers,2001
+619,Leo Fitzpatrick,Justin Pierce,Chloë Sevigny,Larry Clark,           Unrat,7.0,Kids,Harmony Korine,1995
+620,Annette Bening,Julianne Moore,Mark Ruffalo,Lisa Cholodenko,"           R
+    | 
+         ",7.0,The Kids Are All Right,Lisa Cholodenko,2010
+621,Uma Thurman,David Carradine,Daryl Hannah,Quentin Tarantino,"           R
+    | 
+             ",8.1,Kill Bill: Vol. 1,Quentin Tarantino,2003
+622,Daniel Radcliffe,Dane DeHaan,Michael C. Hall,John Krokidas,"           R
+    | 
+                     ",6.5,Kill Your Darlings,Austin Bunn,2013
+623,Eric Stoltz,Julie Delpy,Martin Raymond,Roger Avary,"           R
+    | 
+ ",6.5,Killing Zoe,Roger Avary,1993
+624,Naomi Watts,Jack Black,Adrien Brody,Peter Jackson,"           PG-13
+    | 
+              ",7.2,King Kong,Fran Walsh,2005
+625,Robert De Niro,Jerry Lewis,Diahnne Abbott,Martin Scorsese,"           PG
+    | 
+               ",7.8,The King of Comedy,Paul D. Zimmerman,1982
+626,Colin Firth,Geoffrey Rush,Helena Bonham Carter,Tom Hooper,"           R
+    | 
+                ",8.0,The King's Speech,David Seidler,2010
+627,Jamie Foxx,Chris Cooper,Jennifer Garner,Peter Berg,"           R
+    | 
+               ",7.0,The Kingdom,Matthew Michael Carnahan,2007
+628,William Hurt,Raul Julia,Sônia Braga,Hector Babenco,,7.4,Kiss of the Spider Woman,Manuel Puig,1985
+629,Jane Fonda,Donald Sutherland,Charles Cioffi,Alan J. Pakula,"           R
+    | 
+           ",7.2,Klute,Andy Lewis,1971
+630,Seth Rogen,Katherine Heigl,Paul Rudd,Judd Apatow,"           R
+    ",7.0,Knocked Up,Judd Apatow,2007
+631,Dustin Hoffman,Meryl Streep,Jane Alexander,Robert Benton,           ,7.8,Kramer vs. Kramer,Avery Corman,1979
+632,Tenzin Thuthob Tsarong,Gyurme Tethong,Tulku Jamyang Kunga Tenzin,Martin Scorsese,"           PG-13
+    | 
+               ",7.0,Kundun,Melissa Mathison,1997
+633,Jack Black,Ian McShane,Angelina Jolie,Mark Osborne,"           PG
+    | 
+              ",7.6,Kung Fu Panda,Jonathan Aibel,2008
+634,Kevin Spacey,Russell Crowe,Guy Pearce,Curtis Hanson,"           R
+    | 
+             ",8.3,L.A. Confidential,James Ellroy,1997
+635,Ryan Gosling,Emma Stone,Rosemarie DeWitt,Damien Chazelle,"           PG-13
+    | 
+          ",8.1,La La Land,Damien Chazelle,2016
+636,Marcia Gay Harden,David Marshall Grant,Rod Wilson,Karen Arthur,,5.7,Labor of Love,Nina Shengold,1998
+637,David Bowie,Jennifer Connelly,Toby Froud,Jim Henson,"           PG
+    | 
+             ",7.4,Labyrinth,Dennis Lee,1986
+638,Alec Guinness,Peter Sellers,Cecil Parker,Alexander Mackendrick,"           Not Rated
+    | 
+     ",7.8,The Ladykillers,William Rose,1955
+639,Bridget Fonda,Bill Pullman,Oliver Platt,Steve Miner,"           R
+    | 
+         ",5.7,Lake Placid,David E. Kelley,1999
+640,John Leguizamo,Asia Argento,Simon Baker,George A. Romero,"           R
+    | 
+           ",6.2,Land of the Dead,George A. Romero,2005
+641,Tom Hanks,Julia Roberts,Sarah Mahoney,Tom Hanks,"           PG-13
+    | 
+        ",6.1,Larry Crowne,Tom Hanks,2011
+642,Bruce Willis,Damon Wayans,Chelsea Field,Tony Scott,"           R
+    | 
+            ",7.0,The Last Boy Scout,Shane Black,1991
+643,Dustin Hoffman,Emma Thompson,Kathy Baker,Joel Hopkins,"           PG-13
+    | 
+ ",6.7,Last Chance Harvey,Joel Hopkins,2008
+644,Anthony Montgomery,Ian Sinclair,Brina Palencia,Brad Osborne,,5.1,Chariot,Eric Vale,2013
+645,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Michael Mann,"           R
+    | 
+                ",7.8,The Last of the Mohicans,James Fenimore Cooper,1992
+646,Tom Cruise,Ken Watanabe,Billy Connolly,Edward Zwick,"           R
+    | 
+            ",7.7,The Last Samurai,John Logan,2003
+647,Helen Mirren,James McAvoy,Christopher Plummer,Michael Hoffman,"           R
+    | 
+                ",7.0,The Last Station,Michael Hoffman,2009
+648,Marlon Brando,Maria Schneider,Maria Michi,Bernardo Bertolucci,"           NC-17
+    | 
+",7.1,Last Tango in Paris,Bernardo Bertolucci,1972
+649,Gerard Butler,Jamie Foxx,Leslie Bibb,F. Gary Gray,"           R
+    | 
+            ",7.4,Law Abiding Citizen,Kurt Wimmer,2009
+650,Yves Montand,Madeleine Renaud,Maria Schell,Philippe de Broca,"           M
+",6.7,The Devil by the Tail,Daniel Boulanger,1969
+651,Nicolas Cage,Elisabeth Shue,Julian Sands,Mike Figgis,"           R
+    | 
+ ",7.5,Leaving Las Vegas,John O'Brien,1995
+652,Reese Witherspoon,Luke Wilson,Selma Blair,Robert Luketic,"           PG-13
+    | ",6.2,Legally Blonde,Amanda Brown,2001
+653,Tom Cruise,Mia Sara,Tim Curry,Ridley Scott,"           PG
+    | 
+               ",6.5,Legend,William Hjortsberg,1985
+654,Paul Bettany,Dennis Quaid,Charles S. Dutton,Scott Stewart,"           R
+    | 
+             ",5.2,Legion,Peter Schink,2010
+655,Hugh Jackman,Russell Crowe,Anne Hathaway,Tom Hooper,"           PG-13
+    | 
+              ",7.6,Les Misérables,William Nicholson,2012
+656,Lino Ventura,Bernard Blier,Francis Blanche,Georges Lautner,       ,7.9,Monsieur Gangster,Michel Audiard,1963
+657,Mel Gibson,Danny Glover,Gary Busey,Richard Donner,"           R
+    | 
+          ",7.6,Lethal Weapon,Shane Black,1987
+658,Mel Gibson,Danny Glover,Joe Pesci,Richard Donner,"           R
+    | 
+         ",6.6,Lethal Weapon 4,Shane Black,1998
+659,Peter Weller,Richard Crenna,Amanda Pays,George P. Cosmatos,"           R
+    | 
+              ",5.8,Leviathan,David Webb Peoples,1989
+660,Jim Carrey,Maura Tierney,Amanda Donohoe,Tom Shadyac,"           PG-13
+    | 
+",6.9,Liar Liar,Paul Guay,1997
+661,Jake Gyllenhaal,Rebecca Ferguson,Ryan Reynolds,Daniel Espinosa,"           R
+    | 
+            ",6.6,Life,Rhett Reese,2017
+662,Hayden Christensen,Kevin Kline,Kristin Scott Thomas,Irwin Winkler,        ,7.5,Life as a House,Mark Andrus,2001
+663,Kevin Spacey,Kate Winslet,Laura Linney,Alan Parker,"           R
+    | 
+             ",7.6,The Life of David Gale,Charles Randolph,2003
+664,Suraj Sharma,Irrfan Khan,Adil Hussain,Ang Lee,"           PG
+    | 
+               ",7.9,Life of Pi,Yann Martel,2012
+665,Willem Dafoe,Susan Sarandon,Dana Delany,Paul Schrader,"           R
+   ",6.9,Light Sleeper,Paul Schrader,1992
+666,Terence Stamp,Peter Fonda,Lesley Ann Warren,Steven Soderbergh,"           R
+    | 
+            ",7.1,The Limey,Lem Dobbs,1999
+667,Bradley Cooper,Anna Friel,Abbie Cornish,Neil Burger,"           PG-13
+    | 
+             ",7.4,Limitless,Leslie Dixon,2011
+668,Daniel Day-Lewis,Sally Field,David Strathairn,Steven Spielberg,"           PG-13
+    | 
+                ",7.4,Lincoln,Tony Kushner,2012
+669,Matthew McConaughey,Marisa Tomei,Ryan Phillippe,Brad Furman,"           R
+    | 
+          ",7.3,The Lincoln Lawyer,John Romano,2011
+670,Matthew Broderick,Jeremy Irons,James Earl Jones,Roger Allers,"           G
+    | 
+              ",8.5,The Lion King,Irene Mecchi,1994
+671,John Patrick Amedori,Jack Anthony,Jasmine Jessica Anthony,Tom Zuber,"           R
+    | 
+    ",5.6,Little Athens,Jeff Zuber,2005
+672,Jodi Benson,Samuel E. Wright,Rene Auberjonois,Ron Clements,"           G
+    | 
+                 ",7.6,The Little Mermaid,John Musker,1989
+673,Adam Sandler,Patricia Arquette,Harvey Keitel,Steven Brill,"           PG-13
+    | 
+   ",5.3,Little Nicky,Tim Herlihy,2000
+674,Steve Buscemi,Catherine Keener,Dermot Mulroney,Tom DiCillo,"           R
+    ",7.5,Living in Oblivion,Tom DiCillo,1995
+675,Jason Flemyng,Dexter Fletcher,Nick Moran,Guy Ritchie,"           R
+    |",8.2,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998
+676,Hugh Jackman,Patrick Stewart,Dafne Keen,James Mangold,"           R
+    | 
+        ",8.1,Logan,James Mangold,2017
+677,Michael York,Jenny Agutter,Richard Jordan,Michael Anderson,"           PG
+    |",6.8,Logan's Run,David Zelag Goodman,1976
+678,Chris Cooper,Elizabeth Peña,Stephen Mendillo,John Sayles,"           R
+    |",7.5,Lone Star,John Sayles,1996
+679,Geena Davis,Samuel L. Jackson,Yvonne Zima,Renny Harlin,"           R
+    | 
+         ",6.8,The Long Kiss Goodnight,Shane Black,1996
+680,Joseph Gordon-Levitt,Bruce Willis,Emily Blunt,Rian Johnson,"           R
+    | 
+            ",7.4,Looper,Rian Johnson,2012
+681,Scott Bakula,Kevin J. O'Connor,Joseph Latimore,Clive Barker,"           R
+    | 
+              ",6.1,Lord of Illusions,Clive Barker,1995
+682,Elijah Wood,Ian McKellen,Orlando Bloom,Peter Jackson,"           PG-13
+    | 
+                ",8.8,The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,2001
+683,Elijah Wood,Viggo Mortensen,Ian McKellen,Peter Jackson,"           PG-13
+    | 
+               ",8.9,The Lord of the Rings: The Return of the King,J.R.R. Tolkien,2003
+684,Elijah Wood,Ian McKellen,Viggo Mortensen,Peter Jackson,"           PG-13
+    | 
+                ",8.7,The Lord of the Rings: The Two Towers,J.R.R. Tolkien,2002
+685,Nicolas Cage,Ethan Hawke,Jared Leto,Andrew Niccol,"           R
+    | 
+             ",7.6,Lord of War,Andrew Niccol,2005
+686,Idris Elba,Zoe Saldana,Jeffrey Dean Morgan,Sylvain White,"           PG-13
+    | 
+            ",6.4,The Losers,Peter Berg,2010
+687,Bill Pullman,Patricia Arquette,John Roselius,David Lynch,"           R
+    | 
+       ",7.6,Lost Highway,David Lynch,1997
+688,Ronald Colman,Jane Wyatt,Edward Everett Horton,Frank Capra,"           Approved
+    | 
+                ",7.8,Lost Horizon,Robert Riskin,1937
+689,Gary Oldman,William Hurt,Matt LeBlanc,Stephen Hopkins,"           PG-13
+    | 
+            ",5.1,Lost in Space,Irwin Allen,1998
+690,Bill Murray,Scarlett Johansson,Giovanni Ribisi,Sofia Coppola,        ,7.8,Lost in Translation,Sofia Coppola,2003
+691,Sanaa Lathan,Omar Epps,Glenndon Chatman,Gina Prince-Bythewood,"           PG-13
+    | 
+        ",7.2,Love & Basketball,Gina Prince-Bythewood,2000
+692,Danny Trejo,Michelle Rodriguez,Robert De Niro,Ethan Maniquis,"           R
+    | 
+              ",6.6,Machete,Robert Rodriguez,2010
+693,Gerard Butler,Michelle Monaghan,Michael Shannon,Marc Forster,"           R
+    | 
+            ",6.8,Machine Gun Preacher,Jason Keller,2011
+694,Mel Gibson,Bruce Spence,Michael Preston,George Miller,"           R
+    | 
+           ",7.6,The Road Warrior,Terry Hayes,1981
+695,Vince Vaughn,Jon Favreau,Joe Goossen,Jon Favreau,"           R
+    | 
+         ",6.4,Made,Jon Favreau,2001
+696,Tom Cruise,Jason Robards,Julianne Moore,Paul Thomas Anderson,       ,8.0,Magnolia,Paul Thomas Anderson,1999
+697,Tom Berenger,Charlie Sheen,Corbin Bernsen,David S. Ward,"           R
+    ",7.2,Major League,David S. Ward,1989
+698,Denzel Washington,Angela Bassett,Delroy Lindo,Spike Lee,"           PG-13
+    | 
+                ",7.7,Malcolm X,Alex Haley,1992
+699,Jamie Kennedy,Ryan O'Neal,Blair Underwood,John Whitesell,"           PG-13
+    |",5.1,Malibu's Most Wanted,Fax Bahr,2003
+700,Leonardo DiCaprio,Jeremy Irons,John Malkovich,Randall Wallace,"           PG-13
+    | 
+            ",6.5,The Man in the Iron Mask,Alexandre Dumas,1998
+701,Denzel Washington,Christopher Walken,Dakota Fanning,Tony Scott,"           R
+    | 
+        ",7.7,Man on Fire,A.J. Quinnell,2004
+702,Jim Carrey,Danny DeVito,Gerry Becker,Milos Forman,"           R
+    | 
+               ",7.4,Man on the Moon,Scott Alexander,1999
+703,Robert Hooks,Paul Winfield,Ralph Waite,Ivan Dixon,"           R
+    | 
+          ",6.8,Trouble Man,John D.F. Black,1972
+704,James Stewart,Doris Day,Brenda de Banzie,Alfred Hitchcock,           PG,7.5,The Man Who Knew Too Much,John Michael Hayes,1956
+705,Billy Bob Thornton,Frances McDormand,Michael Badalucco,Joel Coen,"           R
+    | 
+",7.6,The Man Who Wasn't There,Joel Coen,2001
+706,Denzel Washington,Liev Schreiber,Meryl Streep,Jonathan Demme,"           R
+    | 
+        ",6.6,The Manchurian Candidate,Richard Condon,2004
+707,Woody Allen,Diane Keaton,Jerry Adler,Woody Allen,"           PG
+    | 
+ ",7.4,Manhattan Murder Mystery,Woody Allen,1993
+708,Cüneyt Arkin,Turgut Özatay,Tarik Simsek,Duygu Sagiroglu,,6.4,Insan avcisi,Duygu Sagiroglu,1975
+709,Anna Paquin,Matt Damon,Mark Ruffalo,Kenneth Lonergan,       ,6.5,Margaret,Kenneth Lonergan,2011
+710,Zachary Quinto,Stanley Tucci,Kevin Spacey,J.C. Chandor,"           R
+    | 
+        ",7.1,Margin Call,J.C. Chandor,2011
+711,Nicole Kidman,Jennifer Jason Leigh,Flora Cross,Noah Baumbach,"           R
+    | 
+ ",6.1,Margot at the Wedding,Noah Baumbach,2007
+712,Carlos Gallardo,Consuelo Gómez,Jaime de Hoyos,Robert Rodriguez,"           R
+    | 
+              ",6.9,El Mariachi,Robert Rodriguez,1992
+713,,,,Kevin Macdonald,"           PG-13
+    | 
+                ",8.0,Marley,Bob Marley,2012
+714,Elizabeth Olsen,Sarah Paulson,John Hawkes,Sean Durkin,"           R
+    | 
+                  ",6.9,Martha Marcy May Marlene,Sean Durkin,2011
+715,Matt Damon,Jessica Chastain,Kristen Wiig,Ridley Scott,"           PG-13
+    | 
+             ",8.0,The Martian,Drew Goddard,2015
+716,Ernest Borgnine,Betsy Blair,Esther Minciotti,Delbert Mann,"           Not Rated
+    | 
+  ",7.7,Marty,Paddy Chayefsky,1955
+717,Julie Andrews,Dick Van Dyke,David Tomlinson,Robert Stevenson,"           G
+    | 
+                   ",7.8,Mary Poppins,Bill Walsh,1964
+718,Jim Carrey,Cameron Diaz,Peter Riegert,Chuck Russell,"           PG-13
+    | ",6.9,The Mask,Michael Fallon,1994
+719,Russell Crowe,Paul Bettany,Billy Boyd,Peter Weir,"           PG-13
+    | 
+               ",7.4,Master and Commander: The Far Side of the World,Patrick O'Brian,2003
+720,Philip Seymour Hoffman,Joaquin Phoenix,Amy Adams,Paul Thomas Anderson,           ,7.1,The Master,Paul Thomas Anderson,2012
+721,Nicolas Cage,Alison Lohman,Sam Rockwell,Ridley Scott,"           PG-13
+    | 
+            ",7.3,Matchstick Men,Eric Garcia,2003
+722,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Lana Wachowski,"           R
+    ",7.2,The Matrix Reloaded,Lilly Wachowski,2003
+723,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Lana Wachowski,"           R
+    | ",8.7,The Matrix,Lilly Wachowski,1999
+724,Mark Wahlberg,Mila Kunis,Beau Bridges,John Moore,"           PG-13
+    | 
+          ",5.4,Max Payne,Beau Thorne,2008
+725,Robert De Niro,Harvey Keitel,David Proval,Martin Scorsese,"           R
+    | 
+            ",7.4,Mean Streets,Martin Scorsese,1973
+726,Jason Statham,Ben Foster,Donald Sutherland,Simon West,"           R
+    | 
+             ",6.6,The Mechanic,Richard Wenk,2011
+727,Brad Pitt,Anthony Hopkins,Claire Forlani,Martin Brest,"           PG-13
+    | 
+              ",7.2,Meet Joe Black,Ron Osborn,1998
+728,Gary Cooper,Barbara Stanwyck,Edward Arnold,Frank Capra,"           Not Rated
+    | 
+      ",7.7,Meet John Doe,Richard Connell,1941
+729,Will Ferrell,Jonah Hill,Brad Pitt,Tom McGrath,"           PG
+    | 
+               ",7.3,Megamind,Alan Schoolcraft,2010
+730,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Christopher Nolan,"           R
+    | 
+",8.5,Memento,Christopher Nolan,2000
+731,Tommy Lee Jones,Will Smith,Linda Fiorentino,Barry Sonnenfeld,"           PG-13
+    | 
+            ",7.3,Men in Black,Lowell Cunningham,1997
+732,Will Smith,Tommy Lee Jones,Josh Brolin,Barry Sonnenfeld,"           PG-13
+    | 
+           ",6.8,Men in Black 3,Etan Cohen,2012
+733,Ewan McGregor,George Clooney,Kevin Spacey,Grant Heslov,"           R
+    |",6.2,The Men Who Stare at Goats,Jon Ronson,2009
+734,Eddie Murphy,Michael Rapaport,Kim Miyori,Thomas Carter,"           R
+    | 
+           ",5.5,Metro,Randy Feldman,1997
+735,Colin Farrell,Jamie Foxx,Li Gong,Michael Mann,"           R
+    | 
+          ",6.0,Miami Vice,Michael Mann,2006
+736,Dustin Hoffman,Jon Voight,Sylvia Miles,John Schlesinger,         ,7.9,Midnight Cowboy,Waldo Salt,1969
+737,Brad Davis,Irene Miracle,Bo Hopkins,Alan Parker,"           R
+    | 
+           ",7.6,Midnight Express,Oliver Stone,1978
+738,Owen Wilson,Rachel McAdams,Kathy Bates,Woody Allen,"           PG-13
+    | 
+           ",7.7,Midnight in Paris,Woody Allen,2011
+739,Bill Paxton,Charlize Theron,Rade Serbedzija,Ron Underwood,"           PG
+    | 
+                ",5.6,Mighty Joe Young,Merian C. Cooper,1998
+740,Karan Ashley,Johnny Yong Bosch,Steve Cardenas,Bryan Spicer,"           PG
+    | 
+            ",5.1,Mighty Morphin Power Rangers: The Movie,John Kamps,1995
+741,Sean Penn,Josh Brolin,Emile Hirsch,Gus Van Sant,"           R
+    | 
+  ",7.6,Milk,Dustin Lance Black,2008
+742,Gabriel Byrne,Albert Finney,John Turturro,Joel Coen,"           R
+    | 
+           ",7.8,Miller's Crossing,Joel Coen,1990
+743,Mira Sorvino,Jeremy Northam,Alexander Goodwin,Guillermo del Toro,"           R
+    | 
+",5.9,Mimic,Donald A. Wollheim,1997
+744,Alec Baldwin,Nikki Reed,Carrie-Anne Moss,Nick Guthe,"           R
+    | 
+           ",5.9,Mini's First Time,Nick Guthe,2006
+745,Tom Cruise,Colin Farrell,Samantha Morton,Steven Spielberg,"           PG-13
+    | 
+           ",7.7,Minority Report,Philip K. Dick,2002
+746,Anne Bancroft,Patty Duke,Victor Jory,Arthur Penn,"           Not Rated
+    | 
+",8.1,The Miracle Worker,William Gibson,1962
+747,Kiefer Sutherland,Paula Patton,Amy Smart,Alexandre Aja,"           R
+    | 
+ ",6.2,Mirrors,Alexandre Aja,2008
+748,James Caan,Kathy Bates,Richard Farnsworth,Rob Reiner,"           R
+    | 
+             ",7.8,Misery,Stephen King,1990
+749,Tom Cruise,Henry Cavill,Ving Rhames,Christopher McQuarrie,"           PG-13
+    | 
+              ",8.0,Mission: Impossible - Fallout,Christopher McQuarrie,2018
+750,Tom Cruise,Dougray Scott,Thandie Newton,John Woo,"           PG-13
+    | 
+            ",6.1,Mission: Impossible II,Bruce Geller,2000
+751,Tim Robbins,Gary Sinise,Don Cheadle,Brian De Palma,"           PG
+    | 
+               ",5.6,Mission to Mars,Lowell Cannon,2000
+752,Brad Pitt,Robin Wright,Jonah Hill,Bennett Miller,"           PG-13
+    | 
+               ",7.6,Moneyball,Steven Zaillian,2011
+753,Brendan Fraser,Bridget Fonda,John Turturro,Henry Selick,"           PG-13
+    | 
+                 ",4.7,Monkeybone,Kaja Blackley,2001
+754,Billy Bob Thornton,Halle Berry,Taylor Simpson,Marc Forster,"           R
+    |",7.1,Monster's Ball,Milo Addica,2001
+755,Selena Gomez,Leighton Meester,Katie Cassidy,Thomas Bezucha,"           PG
+    | 
+           ",5.8,Monte Carlo,Thomas Bezucha,2011
+756,Sam Rockwell,Kevin Spacey,Dominique McElligott,Duncan Jones,"           R
+    | 
+         ",7.9,Moon,Duncan Jones,2009
+757,Jared Gilman,Kara Hayward,Bruce Willis,Wes Anderson,"           PG-13
+    | 
+           ",7.8,Moonrise Kingdom,Wes Anderson,2012
+758,Cher,Nicolas Cage,Olympia Dukakis,Norman Jewison,"           PG
+    | 
+            ",7.1,Moonstruck,John Patrick Shanley,1987
+759,Cary Grant,Myrna Loy,Melvyn Douglas,H.C. Potter,"           Approved
+    |",7.3,Mr. Blandings Builds His Dream House,Eric Hodgins,1948
+760,Kevin Costner,Demi Moore,William Hurt,Bruce A. Evans,"           R
+    | 
+  ",7.3,Mr. Brooks,Bruce A. Evans,2007
+761,Gary Cooper,Jean Arthur,George Bancroft,Frank Capra,"           Not Rated
+    | 
+          ",8.0,Mr. Deeds Goes to Town,Robert Riskin,1936
+762,Richard Dreyfuss,Glenne Headly,Jay Thomas,Stephen Herek,"           PG
+    | ",7.3,Mr. Holland's Opus,Patrick Sheane Duncan,1995
+763,Judi Dench,Billy Connolly,Geoffrey Palmer,John Madden,"           PG
+    | 
+              ",7.3,Mrs Brown,Jeremy Brock,1997
+764,Matthew McConaughey,Tye Sheridan,Jacob Lofland,Jeff Nichols,         ,7.4,Mud,Jeff Nichols,2012
+765,Ming-Na Wen,Eddie Murphy,BD Wong,Tony Bancroft,"           G
+    | 
+               ",7.6,Mulan,Robert D. San Souci,1998
+766,Naomi Watts,Laura Harring,Justin Theroux,David Lynch,"           R
+    | 
+              ",8.0,Mulholland Dr.,David Lynch,2001
+767,Loren Dean,Hope Davis,Jason Lee,Lawrence Kasdan,"           R
+    | 
+  ",6.9,Mumford,Lawrence Kasdan,1999
+768,Tom Cruise,Sofia Boutella,Annabelle Wallis,Alex Kurtzman,"           PG-13
+    | 
+            ",5.5,The Mummy,David Koepp,2017
+769,Meryl Streep,Cloris Leachman,Henry Dinhofer,Wes Craven,"           PG
+    |",6.8,Music of the Heart,Pamela Gray,1999
+770,Marina Zudina,Fay Ripley,Evan Richards,Anthony Waller,"           R
+    | 
+     ",6.8,Mute Witness,Anthony Waller,1995
+771,Julia Roberts,Dermot Mulroney,Cameron Diaz,P.J. Hogan,"           PG-13
+    | 
+         ",6.3,My Best Friend's Wedding,Ronald Bass,1997
+772,Anna Chlumsky,Macaulay Culkin,Dan Aykroyd,Howard Zieff,"           PG
+    | 
+            ",6.9,My Girl,Laurice Elehwany,1991
+773,Helen Stenborg,Patricia Dunnock,Scott Sowers,Barbara Schock,,7.2,My Mother Dreams the Satan's Disciples in New York,Rex Pickett,1998
+774,Michelle Williams,Eddie Redmayne,Kenneth Branagh,Simon Curtis,"           R
+    | 
+    ",7.0,My Week with Marilyn,Adrian Hodges,2011
+775,Ben Stiller,Janeane Garofalo,William H. Macy,Kinka Usher,"           PG-13
+    | 
+          ",6.1,Mystery Men,Neil Cuthbert,1999
+776,Jon Heder,Efren Ramirez,Jon Gries,Jared Hess,          ,6.9,Napoleon Dynamite,Jared Hess,2004
+777,Keith Carradine,Karen Black,Ronee Blakley,Robert Altman,"           R
+    | 
+           ",7.8,Nashville,Joan Tewkesbury,1975
+778,Woody Harrelson,Juliette Lewis,Tom Sizemore,Oliver Stone,"           R
+    |",7.3,Natural Born Killers,Quentin Tarantino,1994
+779,Drew Barrymore,David Arquette,Michael Vartan,Raja Gosnell,"           PG-13
+    | 
+         ",6.0,Never Been Kissed,Abby Kohn,1999
+780,Noah Hathaway,Barret Oliver,Tami Stronach,Wolfgang Petersen,"           PG
+    | 
+           ",7.4,The NeverEnding Story,Wolfgang Petersen,1984
+781,Mary-Kate Olsen,Ashley Olsen,Eugene Levy,Dennie Gordon,"           PG
+    | 
+      ",4.9,New York Minute,Emily Fox,2004
+782,Christian Bale,Bill Pullman,Robert Duvall,Kenny Ortega,"           PG
+    | 
+         ",7.0,Newsies,Bob Tzudiker,1992
+783,Nicolas Cage,Julianne Moore,Jessica Biel,Lee Tamahori,"           PG-13
+    | 
+            ",6.2,Next,Gary Goldman,2007
+784,Ice Cube,Mike Epps,Justin Pierce,Steve Carr,          ,6.1,Next Friday,Ice Cube,2000
+785,Russell Crowe,Elizabeth Banks,Liam Neeson,Paul Haggis,"           PG-13
+    | 
+           ",7.4,The Next Three Days,Paul Haggis,2010
+786,Louis de Funès,Noëlle Adam,Frédéric Duvallès,Yves Robert,,7.3,"Ni vu, ni connu",Alphonse Allais,1958
+787,Johnny Depp,Christopher Walken,Courtney Chase,John Badham,"           R
+    | 
+           ",6.3,Nick of Time,Patrick Sheane Duncan,1995
+788,Craig Sheffer,David Cronenberg,Anne Bobby,Clive Barker,"           R
+    | 
+              ",6.6,Nightbreed,Clive Barker,1990
+789,Danny Elfman,Chris Sarandon,Catherine O'Hara,Henry Selick,"           PG
+    | 
+                ",8.0,The Nightmare Before Christmas,Tim Burton,1993
+790,Heather Langenkamp,Johnny Depp,Robert Englund,Wes Craven,           ,7.5,A Nightmare on Elm Street,Wes Craven,1984
+791,Daniel Day-Lewis,Marion Cotillard,Penélope Cruz,Rob Marshall,"           PG-13
+    | 
+              ",5.8,Nine,Michael Tolkin,2009
+792,Ryan Reynolds,Hope Davis,Melissa McCarthy,John August,"           R
+    | 
+             ",6.4,The Nines,John August,2007
+793,Rain,Rick Yune,Naomie Harris,James McTeigue,"           R
+    | 
+             ",6.4,Ninja Assassin,Matthew Sand,2009
+794,Greta Garbo,Melvyn Douglas,Ina Claire,Ernst Lubitsch,"           Not Rated
+    | 
+   ",8.0,Ninotchka,Charles Brackett,1939
+795,Johnny Depp,Frank Langella,Lena Olin,Roman Polanski,"           R
+    | 
+  ",6.7,The Ninth Gate,Arturo Pérez-Reverte,1999
+796,Tommy Lee Jones,Javier Bardem,Josh Brolin,Ethan Coen,"           R
+    | 
+            ",8.1,No Country for Old Men,Joel Coen,2007
+797,Natalie Portman,Ashton Kutcher,Kevin Kline,Ivan Reitman,"           R
+    | 
+  ",6.2,No Strings Attached,Elizabeth Meriwether,2011
+798,Hugh Grant,Julia Roberts,Richard McCabe,Roger Michell,"           PG-13
+    | 
+       ",7.1,Notting Hill,Richard Curtis,1999
+799,Renée Zellweger,Morgan Freeman,Chris Rock,Neil LaBute,"           R
+    | 
+           ",6.2,Nurse Betty,John C. Richards,2000
+800,George Clooney,John Turturro,Tim Blake Nelson,Joel Coen,"           PG-13
+    | 
+              ",7.8,"O Brother, Where Art Thou?",Homer,2000
+801,Tom Cruise,Morgan Freeman,Andrea Riseborough,Joseph Kosinski,"           PG-13
+    | 
+             ",7.0,Oblivion,Karl Gajdusek,2013
+802,Seth Rogen,Anna Faris,Ray Liotta,Jody Hill,"           R
+    | 
+        ",5.8,Observe and Report,Jody Hill,2009
+803,Beyoncé,Idris Elba,Ali Larter,Steve Shill,"           PG-13
+    | 
+            ",4.9,Obsessed,David Loughery,2009
+804,George Clooney,Brad Pitt,Julia Roberts,Steven Soderbergh,"           PG-13
+    | 
+  ",7.8,Ocean's Eleven,George Clayton Johnson,2001
+805,George Clooney,Brad Pitt,Julia Roberts,Steven Soderbergh,"           PG-13
+    | 
+  ",6.5,Ocean's Twelve,George Nolfi,2004
+806,Ron Livingston,Jennifer Aniston,David Herman,Mike Judge,           ,7.8,Office Space,Mike Judge,1999
+807,Richard Gere,Debra Winger,David Keith,Taylor Hackford,"           R
+    | ",7.0,An Officer and a Gentleman,Douglas Day Stewart,1982
+808,Charlton Heston,Anthony Zerbe,Rosalind Cash,Boris Sagal,"           GP
+    | 
+            ",6.6,The Omega Man,John William Corrington,1971
+809,Jack Nicholson,Louise Fletcher,Will Sampson,Milos Forman,          ,8.7,One Flew Over the Cuckoo's Nest,Lawrence Hauben,1975
+810,Ryan Gosling,Kristin Scott Thomas,Vithaya Pansringarm,Nicolas Winding Refn,"           R
+    |",5.7,Only God Forgives,Nicolas Winding Refn,2013
+811,Donald Sutherland,Mary Tyler Moore,Judd Hirsch,Robert Redford,           ,7.8,Ordinary People,Judith Guest,1980
+812,Criswell,Fawn Silver,Pat Barrington,Stephen C. Apostolof,"           Unrated
+    |",2.8,Orgy of the Dead,Edward D. Wood Jr.,1965
+813,Vera Farmiga,Peter Sarsgaard,Isabelle Fuhrman,Jaume Collet-Serra,"           R
+    | 
+           ",7.0,Orphan,David Leslie Johnson-McGoldrick,2009
+814,Natalie Portman,Scarlett Johansson,Eric Bana,Justin Chadwick,"           PG-13
+    | 
+                ",6.7,The Other Boleyn Girl,Peter Morgan,2008
+815,George Clooney,Jennifer Lopez,Ving Rhames,Steven Soderbergh,"           R
+    | 
+       ",7.0,Out of Sight,Elmore Leonard,1998
+816,Dustin Hoffman,Rene Russo,Morgan Freeman,Wolfgang Petersen,"           R
+    | 
+          ",6.6,Outbreak,Laurence Dworet,1995
+817,Vin Diesel,Brittany Snow,Max Thieriot,Adam Shankman,"           PG
+    | 
+        ",5.6,The Pacifier,Thomas Lennon,2005
+818,Dennis Quaid,Ben Foster,Cam Gigandet,Christian Alvart,"           R
+    | 
+               ",6.8,Pandorum,Travis Milloy,2009
+819,Jodie Foster,Kristen Stewart,Forest Whitaker,David Fincher,"           R
+    | 
+          ",6.8,Panic Room,David Koepp,2002
+820,Carl Rice,Stephen Dillane,Selina Cadell,Marcus Markou,"           Not Rated
+   ",6.1,Papadopoulos & Sons,Marcus Markou,2012
+821,Kodi Smit-McPhee,Anna Kendrick,Christopher Mintz-Plasse,Chris Butler,"           PG
+    | 
+                 ",7.0,ParaNorman,Chris Butler,2012
+822,Adepero Oduye,Kim Wayans,Aasha Davis,Dee Rees,         ,7.2,Pariah,Dee Rees,2011
+823,Maria Falconetti,Eugene Silvain,André Berley,Carl Theodor Dreyer,"           Not Rated
+    | 
+                  ",8.2,The Passion of Joan of Arc,Joseph Delteil,1928
+824,Mel Gibson,Heath Ledger,Joely Richardson,Roland Emmerich,"           R
+    | 
+         ",7.2,The Patriot,Robert Rodat,2000
+825,Simon Pegg,Nick Frost,Seth Rogen,Greg Mottola,"           R
+    | 
+             ",7.0,Paul,Simon Pegg,2011
+826,Ben Affleck,Kate Beckinsale,Josh Hartnett,Michael Bay,"           PG-13
+    | 
+       ",6.1,Pearl Harbor,Randall Wallace,2001
+827,Karlheinz Böhm,Anna Massey,Moira Shearer,Michael Powell,"           Not Rated
+    | 
+         ",7.7,Peeping Tom,Leo Marks,1960
+828,Kathleen Turner,Nicolas Cage,Barry Miller,Francis Ford Coppola,"           PG-13
+    | 
+            ",6.3,Peggy Sue Got Married,Jerry Leichtling,1986
+829,Dougray Scott,Saffron Burrows,Leo Gregory,Glenn Standring,"           R
+    | 
+                    ",5.5,Perfect Creature,Glenn Standring,2006
+830,Kevin Costner,Clint Eastwood,Laura Dern,Clint Eastwood,"           PG-13
+    | 
+             ",7.5,A Perfect World,John Lee Hancock,1993
+831,Logan Lerman,Emma Watson,Ezra Miller,Stephen Chbosky,"           PG-13
+    | 
+ ",8.0,The Perks of Being a Wallflower,Stephen Chbosky,2012
+832,Dale Midkiff,Denise Crosby,Fred Gwynne,Mary Lambert,"           R
+    | 
+ ",6.6,Pet Sematary,Stephen King,1989
+833,Edward Furlong,Anthony Edwards,Clancy Brown,Mary Lambert,"           R
+    | 
+ ",4.8,Pet Sematary II,Richard Outten,1992
+834,Julie Christie,George C. Scott,Richard Chamberlain,Richard Lester,"           R
+    |",7.3,Petulia,Lawrence B. Marcus,1968
+835,Tom Hanks,Denzel Washington,Roberta Maxwell,Jonathan Demme,           P,7.7,Philadelphia,Ron Nyswaner,1993
+836,Colin Farrell,Kiefer Sutherland,Forest Whitaker,Joel Schumacher,"           R
+    | ",7.1,Phone Booth,Larry Cohen,2002
+837,Sean Gullette,Mark Margolis,Ben Shenkman,Darren Aronofsky,"           R
+    | 
+         ",7.4,Pi,Darren Aronofsky,1998
+838,Adrien Brody,Thomas Kretschmann,Frank Finlay,Roman Polanski,"           R
+    | 
+           ",8.5,The Pianist,Ronald Harwood,2002
+839,Holly Hunter,Harvey Keitel,Sam Neill,Jane Campion,"           R
+    | 
+           ",7.6,The Piano,Jane Campion,1993
+840,Seth Rogen,James Franco,Gary Cole,David Gordon Green,"           R
+    | 
+         ",7.0,Pineapple Express,Seth Rogen,2008
+841,Johnny Depp,Penélope Cruz,Ian McShane,Rob Marshall,"           PG-13
+    | 
+            ",6.6,Pirates of the Caribbean: On Stranger Tides,Ted Elliott,2011
+842,Johnny Depp,Orlando Bloom,Keira Knightley,Gore Verbinski,"           PG-13
+    | 
+            ",7.3,Pirates of the Caribbean: Dead Man's Chest,Ted Elliott,2006
+843,Radha Mitchell,Cole Hauser,Vin Diesel,David Twohy,"           R
+    | 
+  ",7.1,Pitch Black,Jim Wheat,2000
+844,Andy Serkis,Woody Harrelson,Steve Zahn,Matt Reeves,"           PG-13
+    | 
+           ",7.5,War for the Planet of the Apes,Mark Bomback,2017
+845,Holly Sampson,Shannan Leigh,Eddie Jay,Cybil Richards,"           R
+    | ",5.1,Platinum Blonde,Louise Monclair,2001
+846,Charlie Sheen,Tom Berenger,Willem Dafoe,Oliver Stone,           ,8.1,Platoon,Oliver Stone,1986
+847,Tobey Maguire,Jeff Daniels,Joan Allen,Gary Ross,"           PG-13
+    | 
+           ",7.5,Pleasantville,Gary Ross,1998
+848,Patrick Swayze,Keanu Reeves,Gary Busey,Kathryn Bigelow,"           R
+    | 
+         ",7.2,Point Break,Rick King,1991
+849,Veronica Taylor,Rachael Lillis,Eric Stuart,Masamitsu Hidaka,"           Not Rated
+    | 
+                 ",6.5,Pokémon: Mewtwo Returns,Michael Haigney,2000
+850,Kevin Costner,Will Patton,Larenz Tate,Kevin Costner,"           R
+    | 
+               ",6.0,The Postman,David Brin,1997
+851,Stephen Dorff,Armin Mueller-Stahl,Morgan Freeman,John G. Avildsen,"           PG-13
+   ",7.2,The Power of One,Bryce Courtenay,1992
+852,Gabourey Sidibe,Mo'Nique,Paula Patton,Lee Daniels,          ,7.3,Precious,Geoffrey Fletcher,2009
+853,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,John McTiernan,"           R
+    | 
+           ",7.8,Predator,Jim Thomas,1987
+854,Christian Bale,Hugh Jackman,Scarlett Johansson,Christopher Nolan,"           PG-13
+    | 
+            ",8.5,The Prestige,Jonathan Nolan,2006
+855,Richard Gere,Julia Roberts,Jason Alexander,Garry Marshall,"           R
+    | 
+",7.0,Pretty Woman,J.F. Lawton,1990
+856,Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Joe Wright,"           PG
+    | 
+ ",7.8,Pride & Prejudice,Jane Austen,2005
+857,Paul Bettany,Cam Gigandet,Maggie Q,Scott Stewart,"           PG-13
+    | 
+         ",5.7,Priest,Cory Goodman,2011
+858,Cary Elwes,Mandy Patinkin,Robin Wright,Rob Reiner,"           PG
+    | 
+               ",8.1,The Princess Bride,William Goldman,1987
+859,Robert Stephens,Christopher Lee,Colin Blakely,Billy Wilder,"           PG-13
+    | 
+             ",7.1,The Private Life of Sherlock Holmes,Arthur Conan Doyle,1970
+860,Sean Astin,David Atkinson,Leslie Bega,Burt Reynolds,"           R
+    | 
+",4.5,The Last Producer,Clyde Hayes,2000
+861,Ben Foster,Chris O'Dowd,Guillaume Canet,Stephen Frears,"           R
+    | 
+           ",6.5,The Program,John Hodge,2015
+862,Leslie Nielsen,Jamie Lee Curtis,Casey Stevens,Paul Lynch,"           R
+    | 
+",5.4,Prom Night,William Gray,1980
+863,Noomi Rapace,Logan Marshall-Green,Michael Fassbender,Ridley Scott,"           R
+    | 
+           ",7.0,Prometheus,Jon Spaihts,2012
+864,Christopher Walken,Elias Koteas,Virginia Madsen,Gregory Widen,"           R
+    | 
+           ",6.5,The Prophecy,Gregory Widen,1995
+865,Sandra Bullock,Ryan Reynolds,Mary Steenburgen,Anne Fletcher,"           PG-13
+    | 
+         ",6.7,The Proposal,Peter Chiarelli,2009
+866,Anthony Perkins,Janet Leigh,Vera Miles,Alfred Hitchcock,"           R
+    | 
+                ",8.5,Psycho,Joseph Stefano,1960
+867,Christian Bale,Johnny Depp,Christian Stolte,Michael Mann,"           R
+    | 
+         ",7.0,Public Enemies,Ronan Bennett,2009
+868,John Travolta,Uma Thurman,Samuel L. Jackson,Quentin Tarantino,"           R
+    | ",8.9,Pulp Fiction,Quentin Tarantino,1994
+869,Adam Sandler,Emily Watson,Philip Seymour Hoffman,Paul Thomas Anderson,"           R
+    | 
+            ",7.3,Punch-Drunk Love,Paul Thomas Anderson,2002
+870,Prince,Apollonia Kotero,Morris Day,Albert Magnoli,"           R
+    | 
+        ",6.5,Purple Rain,Albert Magnoli,1984
+871,Aaliyah,Stuart Townsend,Marguerite Moreau,Michael Rymer,"           R
+    | 
+             ",5.3,Queen of the Damned,Anne Rice,2002
+872,Helen Mirren,Michael Sheen,James Cromwell,Stephen Frears,"           PG-13
+    | 
+                ",7.3,The Queen,Peter Morgan,2006
+873,Anne Hathaway,Rosemarie DeWitt,Debra Winger,Jonathan Demme,"           R
+    | 
+ ",6.7,Rachel Getting Married,Jenny Lumet,2008
+874,Robert De Niro,Cathy Moriarty,Joe Pesci,Martin Scorsese,"           R
+    | 
+             ",8.2,Raging Bull,Jake LaMotta,1980
+875,Nicolas Cage,Holly Hunter,Trey Wilson,Joel Coen,"           PG-13
+    |",7.4,Raising Arizona,Ethan Coen,1987
+876,Laura Dern,Robert Duvall,Diane Ladd,Martha Coolidge,           ,6.7,Rambling Rose,Calder Willingham,1991
+877,Kate Winslet,Ralph Fiennes,Bruno Ganz,Stephen Daldry,"           R
+    | 
+",7.6,The Reader,David Hare,2008
+878,Val Kilmer,Gabriel Jarret,Michelle Meyrink,Martha Coolidge,"           PG
+    | 
+           ",7.0,Real Genius,Neal Israel,1985
+879,James Stewart,Grace Kelly,Wendell Corey,Alfred Hitchcock,"           PG
+    | 
+   ",8.5,Rear Window,John Michael Hayes,1954
+880,James Dean,Natalie Wood,Sal Mineo,Nicholas Ray,           PG,7.8,Rebel Without a Cause,Stewart Stern,1955
+881,Val Kilmer,Carrie-Anne Moss,Tom Sizemore,Antony Hoffman,"           PG-13
+    | 
+               ",5.7,Red Planet,Chuck Pfarrer,2000
+882,Amanda Seyfried,Lukas Haas,Gary Oldman,Catherine Hardwicke,"           PG-13
+    | 
+            ",5.5,Red Riding Hood,David Leslie Johnson-McGoldrick,2011
+883,Ben Affleck,Gary Sinise,Charlize Theron,John Frankenheimer,"           R
+    | 
+               ",5.7,Reindeer Games,Ehren Kruger,2000
+884,Penelope Ann Miller,Tom Sizemore,Linda Hunt,Peter Hyams,"           R
+    | 
+             ",5.7,The Relic,Douglas Preston,1997
+885,Robert Pattinson,Emilie de Ravin,Caitlyn Rund,Allen Coulter,"           PG-13
+    | ",7.1,Remember Me,Will Fetters,2010
+886,Keanu Reeves,Gene Hackman,Brooke Langton,Howard Deutch,"           PG-13
+    | ",6.5,The Replacements,Vince McKewin,2000
+887,Harry Dean Stanton,Emilio Estevez,Tracey Walter,Alex Cox,"           R
+    | 
+        ",6.9,Repo Man,Alex Cox,1984
+888,Bob Newhart,Eva Gabor,John Candy,Hendel Butoy,"           G
+    | 
+                  ",6.9,The Rescuers Down Under,Jim Cox,1990
+889,Harvey Keitel,Tim Roth,Michael Madsen,Quentin Tarantino,"           R
+    | 
+                ",8.3,Reservoir Dogs,Quentin Tarantino,1992
+890,Milla Jovovich,Michelle Rodriguez,Ryan McCluskey,Paul W.S. Anderson,"           R
+    | 
+          ",6.7,Resident Evil,Paul W.S. Anderson,2002
+891,Leonardo DiCaprio,Tom Hardy,Will Poulter,Alejandro G. Iñárritu,"           R
+    | 
+                 ",8.0,The Revenant,Mark L. Smith,2015
+892,Leonardo DiCaprio,Kate Winslet,Christopher Fitzgerald,Sam Mendes,"           R
+    | 
+ ",7.3,Revolutionary Road,Justin Haythe,2008
+893,Nanako Matsushima,Miki Nakatani,Yûko Takeuchi,Hideo Nakata,"           Not Rated
+    | 
+    ",7.3,Ringu,Hiroshi Takahashi,1998
+894,Hugh Jackman,Alec Baldwin,Isla Fisher,Peter Ramsey,"           PG
+    | 
+                   ",7.3,Rise of the Guardians,David Lindsay-Abaire,2012
+895,James Franco,Andy Serkis,Freida Pinto,Rupert Wyatt,"           PG-13
+    | 
+         ",7.6,Rise of the Planet of the Apes,Rick Jaffa,2011
+896,Liev Schreiber,James Cromwell,Melanie Griffith,Benjamin Ross,"           R
+    | 
+       ",7.1,RKO 281,John Logan,1999
+897,Viggo Mortensen,Charlize Theron,Kodi Smit-McPhee,John Hillcoat,"           R
+    | 
+    ",7.3,The Road,Joe Penhall,2009
+898,Kevin Costner,Morgan Freeman,Mary Elizabeth Mastrantonio,Kevin Reynolds,"           PG-13
+    | 
+           ",6.9,Robin Hood: Prince of Thieves,Pen Densham,1991
+899,Peter Weller,Nancy Allen,Dan O'Herlihy,Paul Verhoeven,"           R
+    | 
+        ",7.6,RoboCop,Edward Neumeier,1987
+900,Sean Connery,Nicolas Cage,Ed Harris,Michael Bay,"           R
+    | 
+             ",7.4,The Rock,David Weisberg,1996
+901,Gerard Butler,Tom Wilkinson,Idris Elba,Guy Ritchie,"           R
+    | 
+             ",7.3,RocknRolla,Guy Ritchie,2008
+902,Sylvester Stallone,Talia Shire,Burt Young,John G. Avildsen,"           PG
+",8.1,Rocky,Sylvester Stallone,1976
+903,Tim Curry,Susan Sarandon,Barry Bostwick,Jim Sharman,"           R
+    | 
+   ",7.4,The Rocky Horror Picture Show,Richard O'Brien,1975
+904,Leonardo DiCaprio,Claire Danes,John Leguizamo,Baz Luhrmann,"           PG-13
+  ",6.8,Romeo + Juliet,William Shakespeare,1996
+905,Robert De Niro,Jean Reno,Natascha McElhone,John Frankenheimer,"           R
+    | 
+               ",7.3,Ronin,J.D. Zeik,1998
+906,Brie Larson,Jacob Tremblay,Sean Bridgers,Lenny Abrahamson,"           R
+    | 
+  ",8.2,Room,Emma Donoghue,2015
+907,Minka Kelly,Leighton Meester,Cam Gigandet,Christian E. Christiansen,"           PG-13
+    | 
+  ",4.9,The Roommate,Sonny Mallhi,2011
+908,Robert Sterling,Gloria Grahame,Claude Jarman Jr.,Mark Robson,"           Passed
+    | 
+          ",6.7,Roughshod,Peter Viertel,1949
+909,Shawn Ashmore,Jena Malone,Jonathan Tucker,Carter Smith,       ,5.9,The Ruins,Scott B. Smith,2008
+910,Julia Roberts,Richard Gere,Joan Cusack,Garry Marshall,"           PG
+    | ",5.5,Runaway Bride,Josann McGibbon,1999
+911,Daniel Brühl,Chris Hemsworth,Olivia Wilde,Ron Howard,"           R
+    | 
+               ",8.1,Rush,Peter Morgan,2013
+912,Jackie Chan,Chris Tucker,Ken Leung,Brett Ratner,"           PG-13
+    | 
+             ",7.0,Rush Hour,Ross LaManna,1998
+913,Jackie Chan,Chris Tucker,John Lone,Brett Ratner,"           PG-13
+    | 
+         ",6.6,Rush Hour 2,Ross LaManna,2001
+914,Jason Schwartzman,Bill Murray,Olivia Williams,Wes Anderson,"           R
+    | 
+ ",7.7,Rushmore,Wes Anderson,1998
+915,Marion Cotillard,Matthias Schoenaerts,Armand Verdure,Jacques Audiard,"           R
+ ",7.5,Rust and Bone,Jacques Audiard,2012
+916,Daveigh Chase,Briana Evigan,James Lafferty,Chris Fisher,"           R
+    | 
+                ",3.6,S. Darko,Nathan Atkins,2009
+917,Eliza Dushku,Sammi Hanratty,Roger Moore,Ernie Barbarash,"           Not Rated
+    | 
+              ",4.9,The Saint,Jesse Alexander,2017
+918,Val Kilmer,Vincent D'Onofrio,Adam Goldberg,D.J. Caruso,"           R
+    | 
+            ",7.2,The Salton Sea,Tony Gayton,2002
+919,Tom Guiry,Mike Vitar,Art LaFleur,David Mickey Evans,"           PG
+    | 
+        ",7.8,The Sandlot,David Mickey Evans,1993
+920,Julia Stiles,Sean Patrick Thomas,Kerry Washington,Thomas Carter,"           PG-13
+    | 
+           ",6.2,Save the Last Dance,Duane Adler,2001
+921,Emma Thompson,Tom Hanks,Annie Rose Buckley,John Lee Hancock,"           PG-13
+    | 
+              ",7.5,Saving Mr. Banks,Kelly Marcel,2013
+922,Tom Hanks,Matt Damon,Tom Sizemore,Steven Spielberg,"           R
+ ",8.6,Saving Private Ryan,Robert Rodat,1998
+923,Cary Elwes,Leigh Whannell,Danny Glover,James Wan,"           R
+    | 
+               ",7.6,Saw,Leigh Whannell,2004
+924,Al Pacino,Michelle Pfeiffer,Steven Bauer,Brian De Palma,"           R
+    | ",8.3,Scarface,Oliver Stone,1983
+925,Anna Faris,Marlon Wayans,Antony Acker,Keenen Ivory Wayans,      ,5.3,Scary Movie 2,Shawn Wayans,2001
+926,Liam Neeson,Ralph Fiennes,Ben Kingsley,Steven Spielberg,"           R
+    | 
+               ",8.9,Schindler's List,Thomas Keneally,1993
+927,Michael Cera,Mary Elizabeth Winstead,Kieran Culkin,Edgar Wright,"           PG-13
+    | 
+            ",7.5,Scott Pilgrim vs. the World,Michael Bacall,2010
+928,Neve Campbell,Courteney Cox,David Arquette,Wes Craven,"           R
+    | 
+   ",7.2,Scream,Kevin Williamson,1996
+929,Neve Campbell,Courteney Cox,David Arquette,Wes Craven,"           R
+    ",6.1,Scream 2,Kevin Williamson,1997
+930,David Arquette,Neve Campbell,Courteney Cox,Wes Craven,"           R
+    | 
+  ",5.5,Scream 3,Kevin Williamson,2000
+931,Morgan Freeman,Brad Pitt,Kevin Spacey,David Fincher,"           R
+    | 
+            ",8.6,Se7en,Andrew Kevin Walker,1995
+932,John Wayne,Jeffrey Hunter,Vera Miles,John Ford,"           Passed
+    | 
+           ",8.0,The Searchers,Frank S. Nugent,1956
+933,Ben Stiller,Kristen Wiig,Jon Daly,Ben Stiller,"           PG
+    | 
+               ",7.3,The Secret Life of Walter Mitty,Steve Conrad,2013
+934,Will Ferrell,Woody Harrelson,André Benjamin,Kent Alterman,"           R
+    | 
+ ",5.8,Semi-Pro,Scot Armstrong,2008
+935,Emma Thompson,Kate Winslet,James Fleet,Ang Lee,"           PG
+    | 
+ ",7.7,Sense and Sensibility,Jane Austen,1995
+936,Nathan Fillion,Gina Torres,Chiwetel Ejiofor,Joss Whedon,"           PG-13
+    | 
+                 ",7.9,Serenity,Joss Whedon,2005
+937,Kathleen Turner,Sam Waterston,Ricki Lake,John Waters,"           R
+    | 
+           ",6.7,Serial Mom,John Waters,1994
+938,John Hawkes,Helen Hunt,William H. Macy,Ben Lewin,"           R
+    | 
+               ",7.2,The Sessions,Ben Lewin,2012
+939,Max von Sydow,Gunnar Björnstrand,Bengt Ekerot,Ingmar Bergman,"           Not Rated
+    | 
+ ",8.2,The Seventh Seal,Ingmar Bergman,1957
+940,Sarah Jessica Parker,Kim Cattrall,Kristin Davis,Michael Patrick King,"           R
+    | 
+        ",4.4,Sex and the City 2,Michael Patrick King,2010
+941,James Spader,Andie MacDowell,Peter Gallagher,Steven Soderbergh,           ,7.2,"Sex, Lies, and Videotape",Steven Soderbergh,1989
+942,Azura Skye,Annie Heller,Carla Gallo,Ken Kwapis,"           R
+    ",5.1,Sexual Life,Ken Kwapis,2004
+943,John Malkovich,Willem Dafoe,Udo Kier,E. Elias Merhige,"           R
+    | 
+",6.9,Shadow of the Vampire,Steven Katz,2000
+944,Gwyneth Paltrow,Joseph Fiennes,Geoffrey Rush,John Madden,"           R
+    | 
+          ",7.1,Shakespeare in Love,Marc Norman,1998
+945,Kerry Fox,Christopher Eccleston,Ewan McGregor,Danny Boyle,"           R
+    | 
+   ",7.3,Shallow Grave,John Hodge,1994
+946,Michael Fassbender,Carey Mulligan,James Badge Dale,Steve McQueen,           N,7.2,Shame,Steve McQueen,2011
+947,Warren Beatty,Julie Christie,Goldie Hawn,Hal Ashby,"           R
+    |",6.3,Shampoo,Robert Towne,1975
+948,Tim Robbins,Morgan Freeman,Bob Gunton,Frank Darabont,         ,9.3,The Shawshank Redemption,Stephen King,1994
+949,Jay Baruchel,Alice Eve,T.J. Miller,Jim Field Smith,"           R
+    | 
+",6.4,She's Out of My League,Sean Anders,2010
+950,Robert Downey Jr.,Jude Law,Rachel McAdams,Guy Ritchie,"           PG-13
+    | 
+              ",7.6,Sherlock Holmes,Michael Robert Johnson,2009
+951,Riz Ahmed,Daniel Mays,Jason Flemyng,Eran Creevy,           Unra,6.5,Shifty,Eran Creevy,2008
+952,Jack Nicholson,Shelley Duvall,Danny Lloyd,Stanley Kubrick,"           R
+    ",8.4,The Shining,Stephen King,1980
+953,Kevin Spacey,Julianne Moore,Judi Dench,Lasse Hallström,         ,6.8,The Shipping News,Annie Proulx,2001
+954,Paul Hampton,Joe Silver,Lynn Lowry,David Cronenberg,"           R
+    ",6.5,Shivers,David Cronenberg,1975
+955,Mike Myers,Eddie Murphy,Cameron Diaz,Andrew Adamson,"           PG
+    | 
+              ",7.9,Shrek,William Steig,2001
+956,Mike Myers,Cameron Diaz,Eddie Murphy,Chris Miller,"           PG
+    | 
+              ",6.0,Shrek the Third,Jeffrey Price,2007
+957,Emily Blunt,Josh Brolin,Benicio Del Toro,Denis Villeneuve,"           R
+    | 
+        ",7.6,Sicario,Taylor Sheridan,2015
+958,Paul Giamatti,Thomas Haden Church,Virginia Madsen,Alexander Payne,"           R
+    | 
+           ",7.5,Sideways,Rex Pickett,2004
+959,Denzel Washington,Bruce Willis,Annette Bening,Edward Zwick,"           R
+    | 
+   ",6.3,The Siege,Lawrence Wright,1998
+960,Mel Gibson,Joaquin Phoenix,Rory Culkin,M. Night Shyamalan,"           PG-13
+    | 
+          ",6.7,Signs,M. Night Shyamalan,2002
+961,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Jonathan Demme,"           R
+    | 
+             ",8.6,The Silence of the Lambs,Thomas Harris,1991
+962,Gary Busey,Everett McGill,Corey Haim,Daniel Attias,          ,6.4,Silver Bullet,Stephen King,1985
+963,Bradley Cooper,Jennifer Lawrence,Robert De Niro,David O. Russell,"           R
+    | 
+            ",7.7,Silver Linings Playbook,David O. Russell,2012
+964,Al Pacino,Catherine Keener,Rachel Roberts,Andrew Niccol,"           PG-13
+    | 
+          ",6.1,S1m0ne,Andrew Niccol,2002
+965,Bridget Fonda,Jennifer Jason Leigh,Steven Weber,Barbet Schroeder,"           R
+    | 
+ ",6.3,Single White Female,John Lutz,1992
+966,Whoopi Goldberg,Maggie Smith,Kathy Najimy,Emile Ardolino,"           PG
+    | 
+       ",6.3,Sister Act,Paul Rudnick,1992
+967,Will Smith,Stockard Channing,Donald Sutherland,Fred Schepisi,"           R
+    | 
+            ",6.9,Six Degrees of Separation,John Guare,1993
+968,Bruce Willis,Haley Joel Osment,Toni Collette,M. Night Shyamalan,"           PG-13
+    | 
+            ",8.1,The Sixth Sense,M. Night Shyamalan,1999
+969,Tom Hanks,Meg Ryan,Ross Malinger,Nora Ephron,"           PG
+    | 
+         ",6.8,Sleepless in Seattle,Jeff Arch,1993
+970,Johnny Depp,Christina Ricci,Miranda Richardson,Tim Burton,"           R
+    | 
+               ",7.4,Sleepy Hollow,Washington Irving,1999
+971,Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,Billy Bob Thornton,       ,8.0,Sling Blade,Billy Bob Thornton,1996
+972,Nathan Fillion,Elizabeth Banks,Michael Rooker,James Gunn,"           R
+    | 
+          ",6.5,Slither,James Gunn,2006
+973,Dev Patel,Freida Pinto,Saurabh Shukla,Danny Boyle,"           R
+   ",8.0,Slumdog Millionaire,Simon Beaufoy,2008
+974,Mary Elizabeth Winstead,Aaron Paul,Nick Offerman,James Ponsoldt,         ,6.8,Smashed,Susan Burke,2012
+975,Jeremy Piven,Ryan Reynolds,Ray Liotta,Joe Carnahan,"           R
+    | 
+          ",6.7,Smokin' Aces,Joe Carnahan,2006
+976,Jason Statham,Brad Pitt,Benicio Del Toro,Guy Ritchie,"           R
+    | 
+",8.3,Snatch,Guy Ritchie,2000
+977,Robert Redford,Dan Aykroyd,Sidney Poitier,Phil Alden Robinson,"           PG-13
+    | 
+           ",7.1,Sneakers,Phil Alden Robinson,1992
+978,Ethan Hawke,Max von Sydow,Yûki Kudô,Scott Hicks,"           PG-13
+    | 
+           ",6.8,Snow Falling on Cedars,David Guterson,1999
+979,Kristen Stewart,Chris Hemsworth,Charlize Theron,Rupert Sanders,"           PG-13
+    | 
+         ",6.1,Snow White and the Huntsman,Evan Daugherty,2012
+980,Mike Myers,Nancy Travis,Anthony LaPaglia,Thomas Schlamme,"           PG-13
+    | ",6.4,So I Married an Axe Murderer,Robbie Fox,1993
+981,Jesse Eisenberg,Andrew Garfield,Justin Timberlake,David Fincher,"           PG-13
+   ",7.7,The Social Network,Aaron Sorkin,2010
+982,George Clooney,Natascha McElhone,Ulrich Tukur,Steven Soderbergh,"           PG-13
+    | 
+              ",6.2,Solaris,Stanislaw Lem,2002
+983,Kurt Russell,Jason Scott Lee,Jason Isaacs,Paul W.S. Anderson,"           R
+    | 
+           ",6.0,Soldier,David Webb Peoples,1998
+984,Tom Berenger,Mimi Rogers,Lorraine Bracco,Ridley Scott,"           R
+    | 
+          ",6.1,Someone to Watch Over Me,Howard Franklin,1987
+985,Jack Nicholson,Diane Keaton,Keanu Reeves,Nancy Meyers,"           PG-13
+    | 
+            ",6.7,Something's Gotta Give,Nancy Meyers,2003
+986,Jake Gyllenhaal,Michelle Monaghan,Vera Farmiga,Duncan Jones,"           PG-13
+    | 
+           ",7.5,Source Code,Ben Ripley,2011
+987,Trey Parker,Matt Stone,Adrien Beard,Trey Parker,"           Not Rated
+    | 
+             ",8.5,Imaginationland: The Movie,Trey Parker,2008
+988,Kristin Kreuk,Amanda Tapping,Billy Boyd,Armen Evrensel,"           Not Rated
+    | 
+  ",6.3,Space Milkshake,Armen Evrensel,2012
+989,Adam Sandler,Téa Leoni,Paz Vega,James L. Brooks,"           PG-13
+    | 
+             ",6.4,Spanglish,James L. Brooks,2004
+990,Steve Martin,John Candy,Laila Robins,John Hughes,           ,7.6,"Planes, Trains & Automobiles",John Hughes,1987
+991,Val Kilmer,Derek Luke,William H. Macy,David Mamet,"           R
+    | 
+        ",6.6,Spartan,David Mamet,2004
+992,Keanu Reeves,Dennis Hopper,Sandra Bullock,Jan de Bont,"           R
+    | 
+           ",7.2,Speed,Graham Yost,1994
+993,Emile Hirsch,Matthew Fox,Christina Ricci,Lana Wachowski,"           PG
+    | 
+          ",6.0,Speed Racer,Lilly Wachowski,2008
+994,Dustin Hoffman,Sharon Stone,Samuel L. Jackson,Barry Levinson,"           PG-13
+    | 
+             ",6.1,Sphere,Michael Crichton,1998
+995,Tobey Maguire,Kirsten Dunst,Willem Dafoe,Sam Raimi,"           PG-13
+    | 
+         ",7.3,Spider-Man,Stan Lee,2002
+996,Demi Moore,Rob Lowe,Andrew McCarthy,Joel Schumacher,"           R
+    |",6.4,St. Elmo's Fire,Joel Schumacher,1985
+997,Chris Pine,Zachary Quinto,Simon Pegg,J.J. Abrams,"           PG-13
+    | 
+         ",8.0,Star Trek,Roberto Orci,2009
+998,William Shatner,Leonard Nimoy,DeForest Kelley,Nicholas Meyer,"           PG
+    | 
+           ",7.7,Star Trek II: The Wrath of Khan,Gene Roddenberry,1982
+999,Patrick Stewart,Jonathan Frakes,Brent Spiner,Jonathan Frakes,"           PG-13
+    | 
+               ",7.6,Star Trek: First Contact,Gene Roddenberry,1996
+1000,Patrick Stewart,William Shatner,Malcolm McDowell,David Carson,"           PG
+    | 
+                 ",6.6,Star Trek: Generations,Gene Roddenberry,1994
+1001,Patrick Stewart,Jonathan Frakes,Brent Spiner,Stuart Baird,"           PG-13
+    | 
+                ",6.4,Star Trek: Nemesis,Gene Roddenberry,2002
+1002,William Shatner,Leonard Nimoy,DeForest Kelley,Robert Wise,"           G
+    | 
+                ",6.4,Star Trek: The Motion Picture,Gene Roddenberry,1979
+1003,Mark Hamill,Harrison Ford,Carrie Fisher,George Lucas,"           PG
+    | 
+           ",8.6,Star Wars: Episode IV - A New Hope,George Lucas,1977
+1004,Hayden Christensen,Natalie Portman,Ewan McGregor,George Lucas,"           PG
+    | 
+            ",6.6,Star Wars: Episode II - Attack of the Clones,George Lucas,2002
+1005,Mark Hamill,Harrison Ford,Carrie Fisher,Richard Marquand,"           PG
+    | 
+            ",8.3,Star Wars: Episode VI - Return of the Jedi,Lawrence Kasdan,1983
+1006,Hayden Christensen,Natalie Portman,Ewan McGregor,George Lucas,"           PG-13
+    | 
+            ",7.6,Star Wars: Episode III - Revenge of the Sith,George Lucas,2005
+1007,Mark Hamill,Harrison Ford,Carrie Fisher,Irvin Kershner,"           PG
+    | 
+            ",8.8,Star Wars: Episode V - The Empire Strikes Back,Leigh Brackett,1980
+1008,Daisy Ridley,John Boyega,Oscar Isaac,J.J. Abrams,"           PG-13
+    | 
+                 ",8.0,Star Wars: The Force Awakens,Lawrence Kasdan,2015
+1009,Ewan McGregor,Liam Neeson,Natalie Portman,George Lucas,"           PG
+    | 
+            ",6.5,Star Wars: Episode I - The Phantom Menace,George Lucas,1999
+1010,Jeff Bridges,Karen Allen,Charles Martin Smith,John Carpenter,"           PG
+    | 
+   ",7.0,Starman,Bruce A. Evans,1984
+1011,Casper Van Dien,Denise Richards,Dina Meyer,Paul Verhoeven,"           R
+    | 
+              ",7.2,Starship Troopers,Edward Neumeier,1997
+1012,Philip Seymour Hoffman,William H. Macy,Rebecca Pidgeon,David Mamet,"           R
+    | 
+",6.8,State and Main,David Mamet,2000
+1013,Dick Powell,Jane Greer,Agnes Moorehead,Sidney Lanfield,"           Approved
+    | 
+               ",6.7,Station West,Frank Fenton,1948
+1014,Julia Roberts,Susan Sarandon,Ed Harris,Chris Columbus,"           PG-13
+    | 
+",6.7,Stepmom,Gigi Levangie,1998
+1015,Paul Newman,Robert Redford,Robert Shaw,George Roy Hill,"           PG
+    | 
+          ",8.3,The Sting,David S. Ward,1973
+1016,Kevin Bacon,Zachary David Cope,Kathryn Erbe,David Koepp,"           R
+    | 
+                 ",7.0,Stir of Echoes,Richard Matheson,1999
+1017,Selma Blair,Leo Fitzpatrick,Robert Wisdom,Todd Solondz,"           R
+    | 
+               ",6.9,Storytelling,Todd Solondz,2001
+1018,O'Shea Jackson Jr.,Corey Hawkins,Jason Mitchell,F. Gary Gray,"           R
+    | 
+              ",7.9,Straight Outta Compton,Jonathan Herman,2015
+1019,Ralph Fiennes,Angela Bassett,Juliette Lewis,Kathryn Bigelow,"           R
+    | 
+          ",7.2,Strange Days,James Cameron,1995
+1020,Farley Granger,Robert Walker,Ruth Roman,Alfred Hitchcock,"           PG
+    | 
+             ",8.0,Strangers on a Train,Raymond Chandler,1951
+1021,Roman Klosowski,,,Witold Giersz,,7.3,Kaskader,Witold Giersz,1972
+1022,Andre Noble,Marnie McPhail,Haylee Wanstall,John Palmer,"           R
+    ",5.5,Sugar,Todd Klinck,2004
+1023,Marla Sokoloff,Marley Shelton,Melissa George,Francine McDougall,"           PG-13
+    | 
+",5.6,Sugar & Spice,Mandy Nelson,2001
+1024,William Holden,Gloria Swanson,Erich von Stroheim,Billy Wilder,"           Not Rated
+    | 
+           ",8.5,Sunset Blvd.,Charles Brackett,1950
+1025,Amy Adams,Emily Blunt,Alan Arkin,Christine Jeffs,"           R
+    |",6.9,Sunshine Cleaning,Megan Holley,2008
+1026,Elle Fanning,AJ Michalka,Kyle Chandler,J.J. Abrams,"           PG-13
+    | 
+            ",7.0,Super 8,J.J. Abrams,2011
+1027,Michael Cera,Jonah Hill,Christopher Mintz-Plasse,Greg Mottola,         ,7.6,Superbad,Seth Rogen,2007
+1028,Brandon Gaines,Feihong Yu,Keith Vitali,Siu-Hung Leung,         ,5.3,Superfights,Keith W. Strandberg,1995
+1029,Helen Slater,Faye Dunaway,Peter O'Toole,Jeannot Szwarc,"           PG
+    | 
+                 ",4.4,Supergirl,David Odell,1984
+1030,Randy Wayne,Ben Ziff,Cerina Vincent,Bernard Murray Jr.,   ,3.9,The Surfer King,Bernard Murray Jr.,2006
+1031,Bruce Willis,Radha Mitchell,Ving Rhames,Jonathan Mostow,"           PG-13
+    | 
+                ",6.3,Surrogates,Michael Ferris,2009
+1032,Aaron Eckhart,Ben Kingsley,Carrie-Anne Moss,E. Elias Merhige,"           R
+    | 
+           ",5.9,Suspect Zero,Zak Penn,2004
+1033,Johnny Depp,Helena Bonham Carter,Alan Rickman,Tim Burton,"           R
+    | 
+             ",7.4,Sweeney Todd: The Demon Barber of Fleet Street,John Logan,2007
+1034,Ian Holm,Sarah Polley,Caerthan Banks,Atom Egoyan,          ,7.6,The Sweet Hereafter,Russell Banks,1997
+1035,Burt Lancaster,Tony Curtis,Susan Harrison,Alexander Mackendrick,"           Not Rated
+    | ",8.2,Sweet Smell of Success,Clifford Odets,1957
+1036,Vince Vaughn,Heather Graham,Jon Favreau,Doug Liman,"           R
+    | 
+ ",7.3,Swingers,Jon Favreau,1996
+1037,John Travolta,Hugh Jackman,Halle Berry,Dominic Sena,"           R
+    | 
+         ",6.5,Swordfish,Skip Woods,2001
+1038,Philip Seymour Hoffman,Samantha Morton,Michelle Williams,Charlie Kaufman,"           R
+    | 
+",7.5,"Synecdoche, New York",Charlie Kaufman,2008
+1039,George Clooney,Matt Damon,Amanda Peet,Stephen Gaghan,"           R
+    | 
+ ",6.9,Syriana,Stephen Gaghan,2005
+1040,Michael Shannon,Jessica Chastain,Shea Whigham,Jeff Nichols,"           R
+    | 
+            ",7.4,Take Shelter,Jeff Nichols,2011
+1041,Angelina Jolie,Ethan Hawke,Kiefer Sutherland,D.J. Caruso,"           R
+    | 
+         ",6.2,Taking Lives,Michael Pye,2004
+1042,Walter Matthau,Robert Shaw,Martin Balsam,Joseph Sargent,"           R
+    | 
+                       ",7.7,The Taking of Pelham One Two Three,John Godey,1974
+1043,Harvey Keitel,Stellan Skarsgård,Moritz Bleibtreu,István Szabó,"           Not Rated
+    | 
+        ",7.2,Taking Sides,Ronald Harwood,2001
+1044,Matt Damon,Gwyneth Paltrow,Jude Law,Anthony Minghella,"           R
+    | 
+             ",7.4,The Talented Mr. Ripley,Patricia Highsmith,1999
+1045,John Wayne,Ella Raines,Ward Bond,Edwin L. Marin,"           Approved
+    | 
+                 ",7.1,Tall in the Saddle,Michael Hogan,1944
+1046,Gemma Arterton,Luke Evans,Dominic Cooper,Stephen Frears,"           R
+    | 
+             ",6.2,Tamara Drewe,Posy Simmonds,2010
+1047,Robert De Niro,Jodie Foster,Cybill Shepherd,Martin Scorsese,"           R
+    | ",8.3,Taxi Driver,Paul Schrader,1976
+1048,Mark Wahlberg,Mila Kunis,Seth MacFarlane,Seth MacFarlane,"           R
+    | ",6.9,Ted,Seth MacFarlane,2012
+1049,Arnold Schwarzenegger,Jason Clarke,Emilia Clarke,Alan Taylor,"           PG-13
+    | 
+          ",6.5,Terminator Genisys,Laeta Kalogridis,2015
+1050,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,James Cameron,"           R
+    ",8.5,Terminator 2,James Cameron,1991
+1051,Christian Bale,Sam Worthington,Anton Yelchin,McG,"           PG-13
+    | 
+           ",6.6,Terminator Salvation,John Brancato,2009
+1052,Emily Bergl,Jason London,Dylan Bruno,Katt Shea,"           R
+    | 
+            ",4.6,The Rage: Carrie 2,Stephen King,1999
+1053,Eili Harboe,Kaya Wilkins,Henrik Rafaelsen,Joachim Trier,"           Not Rated
+    | 
+                 ",7.0,Thelma,Eskil Vogt,2017
+1054,Eddie Redmayne,Felicity Jones,Tom Prior,James Marsh,"           PG-13
+    | 
+               ",7.7,The Theory of Everything,Anthony McCarten,2014
+1055,Cameron Diaz,Matt Dillon,Ben Stiller,Bobby Farrelly,"           R
+    | ",7.1,There's Something About Mary,Ed Decter,1998
+1056,Laura Regan,Marc Blucas,Ethan Embry,Robert Harmon,"           PG-13
+    | 
+                ",4.8,They,Brendan Hood,2002
+1057,Kurt Russell,Wilford Brimley,Keith David,John Carpenter,"           R
+    | 
+          ",8.1,The Thing,Bill Lancaster,1982
+1058,Kevin Costner,Bruce Greenwood,Shawn Driscoll,Roger Donaldson,"           PG-13
+    | 
+              ",7.3,Thirteen Days,David Self,2000
+1059,Robert De Niro,Leonardo DiCaprio,Ellen Barkin,Michael Caton-Jones,"           R
+    | 
+ ",7.3,This Boy's Life,Tobias Wolff,1993
+1060,Paul Rudd,Leslie Mann,Maude Apatow,Judd Apatow,"           R
+    | 
+   ",6.2,This Is 40,Judd Apatow,2012
+1061,Chris Hemsworth,Anthony Hopkins,Natalie Portman,Kenneth Branagh,"           PG-13
+    | 
+           ",7.0,Thor,Ashley Miller,2011
+1062,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Taika Waititi,"           PG-13
+    | 
+               ",7.9,Thor: Ragnarok,Eric Pearson,2017
+1063,George Clooney,Mark Wahlberg,Ice Cube,David O. Russell,"           R
+    | 
+              ",7.1,Three Kings,John Ridley,1999
+1064,Tom Selleck,Steve Guttenberg,Ted Danson,Leonard Nimoy,"           PG
+    | 
+            ",5.9,3 Men and a Baby,Coline Serreau,1987
+1065,Logan Lerman,Matthew Macfadyen,Ray Stevenson,Paul W.S. Anderson,"           PG-13
+    | 
+                ",5.8,The Three Musketeers,Alex Litvak,2011
+1066,Bill Paxton,Anthony Edwards,Ben Kingsley,Jonathan Frakes,"           PG
+    | 
+            ",4.2,Thunderbirds,Gerry Anderson,2004
+1067,Val Kilmer,Sam Shepard,Graham Greene,Michael Apted,"           R
+    | 
+           ",6.8,Thunderheart,John Fusco,1992
+1068,Clive Owen,Don Cheadle,F. Murray Abraham,Joe Carnahan,"           Not Rated
+    | 
+           ",7.6,Ticker,Joe Carnahan,2002
+1069,Josh Randall,Brianna Brown,Nick Searcy,Tony Giglio,"           R
+    |",5.3,Timber Falls,Dan Kay,2007
+1070,Rod Taylor,Alan Young,Yvette Mimieux,George Pal,"           G
+    | 
+                        1h",7.6,The Time Machine,David Duncan,1960
+1071,Kevin Costner,Rene Russo,Don Johnson,Ron Shelton,"           R
+    | 
+           ",6.3,Tin Cup,John Norville,1996
+1072,Richard Dreyfuss,Danny DeVito,Barbara Hershey,Barry Levinson,"           R
+    |",6.5,Tin Men,Barry Levinson,1987
+1073,Gary Oldman,Colin Firth,Tom Hardy,Tomas Alfredson,"           R
+    | 
+            ",7.1,Tinker Tailor Soldier Spy,Bridget O'Connor,2011
+1074,Leonardo DiCaprio,Kate Winslet,Billy Zane,James Cameron,"           PG-13
+    | 
+  ",7.8,Titanic,James Cameron,1997
+1075,Patrick Stewart,Mako,Chris Evans,Kevin Munroe,"           PG
+    | 
+                ",6.3,TMNT,Kevin Munroe,2007
+1076,Danny Glover,Paul Butler,DeVaughn Nixon,Charles Burnett,          ,7.1,To Sleep with Anger,Charles Burnett,1990
+1077,Kurt Russell,Val Kilmer,Sam Elliott,George P. Cosmatos,"           R
+    | 
+               ",7.8,Tombstone,Kevin Jarre,1993
+1078,Pierce Brosnan,Jonathan Pryce,Michelle Yeoh,Roger Spottiswoode,"           PG-13
+    | 
+                  ",6.5,Tomorrow Never Dies,Bruce Feirstein,1997
+1079,Tom Cruise,Tim Robbins,Kelly McGillis,Tony Scott,"           PG
+    | 
+        ",6.9,Top Gun,Jim Cash,1986
+1080,Arnold Schwarzenegger,Sharon Stone,Michael Ironside,Paul Verhoeven,"           R
+    | 
+          ",7.5,Total Recall,Philip K. Dick,1990
+1081,Johnny Depp,Angelina Jolie,Paul Bettany,Florian Henckel von Donnersmarck,"           PG-13
+    | 
+               ",6.0,The Tourist,Florian Henckel von Donnersmarck,2010
+1082,Tom Hanks,Tim Allen,Don Rickles,John Lasseter,"           G
+    | 
+                   ",8.3,Toy Story,John Lasseter,1995
+1083,Michael Douglas,Benicio Del Toro,Catherine Zeta-Jones,Steven Soderbergh,"           R
+    | 
+           ",7.6,Traffic,Simon Moore,2000
+1084,Denzel Washington,Ethan Hawke,Scott Glenn,Antoine Fuqua,"           R
+    | 
+          ",7.7,Training Day,David Ayer,2001
+1085,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Danny Boyle,       ,8.2,Trainspotting,Irvine Welsh,1996
+1086,Orson Welles,Robert Stack,Leonard Nimoy,Nelson Shin,"           PG
+    | 
+                ",7.3,The Transformers: The Movie,Ron Friedman,1986
+1087,Kevin Bacon,Fred Ward,Finn Carter,Ron Underwood,"           PG-13
+    | 
+ ",7.2,Tremors,S.S. Wilson,1990
+1088,James Franco,Sophia Myles,Rufus Sewell,Kevin Reynolds,"           PG-13
+    | 
+           ",6.8,Tristan + Isolde,Dean Georgaris,2006
+1089,Jeff Bridges,Bruce Boxleitner,David Warner,Steven Lisberger,"           PG
+    | 
+           ",6.8,TRON,Steven Lisberger,1982
+1090,Jeff Bridges,Garrett Hedlund,Olivia Wilde,Joseph Kosinski,"           PG
+    | 
+                ",6.8,Tron,Edward Kitsis,2010
+1091,Ben Stiller,Jack Black,Robert Downey Jr.,Ben Stiller,"           R
+    | 
+              ",7.0,Tropic Thunder,Justin Theroux,2008
+1092,Brad Pitt,Eric Bana,Orlando Bloom,Wolfgang Petersen,"           R
+    | 
+         ",7.2,Troy,Homer,2004
+1093,Jeff Bridges,Matt Damon,Hailee Steinfeld,Ethan Coen,"           PG-13
+    | 
+                ",7.6,True Grit,Joel Coen,2010
+1094,Arnold Schwarzenegger,Jamie Lee Curtis,Tom Arnold,James Cameron,"           R
+    | 
+           ",7.2,True Lies,Claude Zidi,1994
+1095,Christian Slater,Patricia Arquette,Dennis Hopper,Tony Scott,"           R
+    | 
+             ",7.9,True Romance,Quentin Tarantino,1993
+1096,Jim Carrey,Ed Harris,Laura Linney,Peter Weir,"           PG
+    | 
+       ",8.1,The Truman Show,Andrew Niccol,1998
+1097,Kristen Stewart,Robert Pattinson,Billy Burke,Catherine Hardwicke,"           PG-13
+    | 
+             ",5.2,Twilight,Melissa Rosenberg,2008
+1098,Kristen Stewart,Robert Pattinson,Taylor Lautner,Chris Weitz,"           PG-13
+    | 
+                ",4.7,The Twilight Saga: New Moon,Melissa Rosenberg,2009
+1099,Kyle MacLachlan,Michael Ontkean,Mädchen Amick,David Lynch,"           Unrated
+    | 
+                ",8.9,Pilot     ,Mark Frost,
+1100,Arnold Schwarzenegger,Danny DeVito,Kelly Preston,Ivan Reitman,"           PG
+    | 
+",6.0,Twins,William Davies,1988
+1101,Matthew McConaughey,Al Pacino,Rene Russo,D.J. Caruso,"           R
+    | 
+          ",6.2,Two for the Money,Dan Gilroy,2005
+1102,Sean Penn,Jennifer Lopez,Nick Nolte,Oliver Stone,"           R
+    | 
+          ",6.8,U Turn,John Ridley,1997
+1103,Katherine Heigl,Gerard Butler,Bree Turner,Robert Luketic,"           R
+    | ",6.5,The Ugly Truth,Nicole Eastman,2009
+1104,Jean Gabin,Jean-Paul Belmondo,Suzanne Flon,Henri Verneuil,,7.6,A Monkey in Winter,Antoine Blondin,1962
+1105,Bruce Willis,Samuel L. Jackson,Robin Wright,M. Night Shyamalan,"           PG-13
+    | 
+             ",7.3,Unbreakable,M. Night Shyamalan,2000
+1106,Denzel Washington,Meg Ryan,Lou Diamond Phillips,Edward Zwick,"           R
+    | 
+         ",6.6,Courage Under Fire,Patrick Sheane Duncan,1996
+1107,Clint Eastwood,Gene Hackman,Morgan Freeman,Clint Eastwood,"           R
+    | ",8.2,Unforgiven,David Webb Peoples,1992
+1108,Liam Neeson,Diane Kruger,January Jones,Jaume Collet-Serra,"           PG-13
+    | 
+                ",6.9,Unknown,Oliver Butcher,2011
+1109,Edward Asner,Jordan Nagai,John Ratzenberger,Pete Docter,"           PG
+    | 
+              ",8.3,Up,Pete Docter,2009
+1110,George Clooney,Vera Farmiga,Anna Kendrick,Jason Reitman,"           R
+    | 
+  ",7.4,Up in the Air,Walter Kirn,2009
+1111,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Bryan Singer,"           R
+    | 
+                ",8.6,The Usual Suspects,Christopher McQuarrie,1995
+1112,Hugo Weaving,Natalie Portman,Rupert Graves,James McTeigue,"           R
+    | 
+         ",8.2,V for Vendetta,Lilly Wachowski,2005
+1113,Julia Roberts,Jamie Foxx,Anne Hathaway,Garry Marshall,"           PG-13
+    | 
+  ",5.7,Valentine's Day,Katherine Fugate,2010
+1114,Tom Cruise,Bill Nighy,Carice van Houten,Bryan Singer,"           PG-13
+    | 
+              ",7.1,Valkyrie,Christopher McQuarrie,2008
+1115,Tom Cruise,Penélope Cruz,Cameron Diaz,Cameron Crowe,"           R
+    | 
+                ",6.9,Vanilla Sky,Alejandro Amenábar,2001
+1116,Paul Newman,Charlotte Rampling,Jack Warden,Sidney Lumet,         ,7.8,The Verdict,Barry Reed,1982
+1117,James Stewart,Kim Novak,Barbara Bel Geddes,Alfred Hitchcock,"           PG
+    | 
+               ",8.3,Vertigo,Alec Coppel,1958
+1118,Christian Slater,Daniel Stern,Cameron Diaz,Peter Berg,"           R
+    | 
+              ",6.3,Very Bad Things,Peter Berg,1998
+1119,Sigourney Weaver,William Hurt,Joaquin Phoenix,M. Night Shyamalan,"           PG-13
+    | 
+           ",6.5,The Village,M. Night Shyamalan,2004
+1120,Denzel Washington,Russell Crowe,Kelly Lynch,Brett Leonard,"           R
+    | 
+         ",5.6,Virtuosity,Eric Bernt,1995
+1121,Richard Jenkins,Haaz Sleiman,Danai Gurira,Tom McCarthy,         ,7.7,The Visitor,Tom McCarthy,2007
+1122,Dustin Hoffman,Robert De Niro,Anne Heche,Barry Levinson,"           R
+    | ",7.1,Wag the Dog,Larry Beinhart,1997
+1123,Mandy Moore,Shane West,Peter Coyote,Adam Shankman,"           PG
+    | 
+ ",7.4,A Walk to Remember,Nicholas Sparks,2002
+1124,Dwayne Johnson,Ashley Scott,Johnny Knoxville,Kevin Bray,"           PG-13
+    ",6.3,Walking Tall,Mort Briskin,2004
+1125,Charlie Sheen,Michael Douglas,Tamara Tunie,Oliver Stone,"           R
+    | ",7.4,Wall Street,Stanley Weiser,1987
+1126,Shia LaBeouf,Michael Douglas,Carey Mulligan,Oliver Stone,           PG-1,6.2,Wall Street: Money Never Sleeps,Allan Loeb,2010
+1127,Ben Burtt,Elissa Knight,Jeff Garlin,Andrew Stanton,"           G
+    | 
+               ",8.4,WALL·E,Andrew Stanton,2008
+1128,Angelina Jolie,James McAvoy,Morgan Freeman,Timur Bekmambetov,"           R
+    | 
+         ",6.7,Wanted,Michael Brandt,2008
+1129,Andy Serkis,Woody Harrelson,Steve Zahn,Matt Reeves,"           PG-13
+    | 
+           ",7.5,War for the Planet of the Apes,Mark Bomback,2017
+1130,Jeremy Irvine,Emily Watson,David Thewlis,Steven Spielberg,"           PG-13
+    | 
+          ",7.2,War Horse,Lee Hall,2011
+1131,Tom Cruise,Dakota Fanning,Tim Robbins,Steven Spielberg,"           PG-13
+    | 
+              ",6.5,War of the Worlds,Josh Friedman,2005
+1132,Kenneth Branagh,Cynthia Nixon,David Paymer,Joseph Sargent,"           Not Rated
+    | 
+   ",7.6,Warm Springs,Margaret Nagle,2005
+1133,Tom Hardy,Nick Nolte,Joel Edgerton,Gavin O'Connor,"           PG-13
+    | 
+",8.2,Warrior,Gavin O'Connor,2011
+1134,Jackie Earle Haley,Patrick Wilson,Carla Gugino,Zack Snyder,"           R
+    | 
+         ",7.6,Watchmen,David Hayter,2009
+1135,Robert Pattinson,Reese Witherspoon,Christoph Waltz,Francis Lawrence,"           PG-13
+",6.9,Water for Elephants,Richard LaGravenese,2011
+1136,Steve Carell,Toni Collette,Allison Janney,Nat Faxon,"           PG-13
+    ",7.4,The Way Way Back,Nat Faxon,2013
+1137,Joaquin Phoenix,Mark Wahlberg,Eva Mendes,James Gray,"           R
+    | 
+            ",6.9,We Own the Night,James Gray,2007
+1138,Bill Murray,Richard Dreyfuss,Julie Hagerty,Frank Oz,       ,7.0,What About Bob?,Alvin Sargent,1991
+1139,Harrison Ford,Michelle Pfeiffer,Katharine Towne,Robert Zemeckis,"           PG-13
+    | 
+         ",6.6,What Lies Beneath,Clark Gregg,2000
+1140,Camilla Belle,Tommy Flanagan,Katie Cassidy,Simon West,"           PG-13
+    | 
+            ",5.1,When a Stranger Calls,Jake Wade Wall,2006
+1141,Billy Crystal,Meg Ryan,Carrie Fisher,Rob Reiner,"           R
+    | 
+         ",7.6,When Harry Met Sally...,Nora Ephron,1989
+1142,Kim Basinger,Lukas Haas,Craig Sheffer,Susan Montford,"           R
+    | 
+          ",4.8,While She Was Out,Edward Bryant,2008
+1143,Rachel Weisz,Monica Bellucci,Vanessa Redgrave,Larysa Kondracki,"           R
+    | 
+                  ",7.2,The Whistleblower,Larysa Kondracki,2010
+1144,Bing Crosby,Danny Kaye,Rosemary Clooney,Michael Curtiz,"           Not Rated
+    | 
+        ",7.6,White Christmas,Norman Krasna,1954
+1145,,,,Mitchell Marchand,,7.4,Jazz at the White House,Joey Alexander,2016
+1146,Christian Friedel,Ernst Jacobi,Leonie Benesch,Michael Haneke,"           R
+    | 
+          ",7.8,The White Ribbon,Michael Haneke,2009
+1147,Jeff Bridges,Caroline Goodall,John Savage,Ridley Scott,"           PG-13
+    | 
+  ",6.6,White Squall,Charles Gieg Jr.,1996
+1148,Kate Beckinsale,Gabriel Macht,Tom Skerritt,Dominic Sena,"           R
+    | 
+             ",5.5,Whiteout,Jon Hoeber,2009
+1149,Bob Hoskins,Christopher Lloyd,Joanna Cassidy,Robert Zemeckis,"           PG
+    | 
+               ",7.7,Who Framed Roger Rabbit,Gary K. Wolf,1988
+1150,Brandon Jack James,Colleen Camp,Kadeem Hardison,Andy Fickman,          ,4.8,Who's Your Daddy?,Maria Veltre Druse,2002
+1151,Nicolas Cage,Laura Dern,Willem Dafoe,David Lynch,"           R
+    | 
+        ",7.2,Wild at Heart,Barry Gifford,1990
+1152,William Holden,Ernest Borgnine,Robert Ryan,Sam Peckinpah,"           R
+    | 
+                    ",8.0,The Wild Bunch,Walon Green,1969
+1153,Tim Allen,Martin Lawrence,John Travolta,Walt Becker,"           PG-13
+    | 
+ ",5.9,Wild Hogs,Brad Copeland,2007
+1154,Kevin Bacon,Neve Campbell,Matt Dillon,John McNaughton,"           R
+    | 
+         ",6.5,Wild Things,Stephen Peters,1998
+1155,Serah D'Laine,Brad Johnson,Michael Mantell,Jay Lowi,"           R
+    | 
+            ",4.6,Wild Things: Diamonds in the Rough,Andy Hurst,2005
+1156,Will Smith,Kevin Kline,Kenneth Branagh,Barry Sonnenfeld,"           PG-13
+    | 
+         ",4.9,Wild Wild West,Jim Thomas,1999
+1157,Val Kilmer,Joanne Whalley,Warwick Davis,Ron Howard,"           PG
+    | 
+         ",7.3,Willow,George Lucas,1988
+1158,Paul Giamatti,Amy Ryan,Jeffrey Tambor,Tom McCarthy,"           R
+    | 
+        ",7.2,Win Win,Tom McCarthy,2011
+1159,Emily Blunt,Ashton Holmes,Martin Donovan,Gregory Jacobs,"           R
+    | 
+          ",5.9,Wind Chill,Joe Gangemi,2007
+1160,Richard E. Grant,Paul McGann,Richard Griffiths,Bruce Robinson,"           R
+    ",7.8,Withnail & I,Bruce Robinson,1987
+1161,Harrison Ford,Kelly McGillis,Lukas Haas,Peter Weir,"           R
+    | 
+           ",7.4,Witness,William Kelley,1985
+1162,Judy Garland,Frank Morgan,Ray Bolger,Victor Fleming,"           PG
+    | 
+               ",8.0,The Wizard of Oz,Noel Langley,1939
+1163,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Martin Scorsese,"           R
+    | 
+         ",8.2,The Wolf of Wall Street,Terence Winter,2013
+1164,Michael Douglas,Tobey Maguire,Frances McDormand,Curtis Hanson,"           R
+    | 
+ ",7.4,Wonder Boys,Michael Chabon,2000
+1165,Kevin Bacon,Kyra Sedgwick,Yasiin Bey,Nicole Kassell,,7.2,The Woodsman,Steven Fechter,2004
+1166,Pierce Brosnan,Sophie Marceau,Robert Carlyle,Michael Apted,"           PG-13
+    | 
+                 ",6.4,The World Is Not Enough,Neal Purvis,1999
+1167,Mickey Rourke,Marisa Tomei,Evan Rachel Wood,Darren Aronofsky,"           R
+    | ",7.9,The Wrestler,Robert Siegel,2008
+1168,David Duchovny,Gillian Anderson,John Neville,Rob Bowman,"           PG-13
+    | 
+        ",7.0,The X Files,Chris Carter,1998
+1169,James McAvoy,Michael Fassbender,Jennifer Lawrence,Bryan Singer,"           PG-13
+    | 
+           ",7.0,X-Men: Apocalypse,Simon Kinberg,2016
